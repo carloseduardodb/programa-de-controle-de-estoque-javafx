@@ -46,9 +46,11 @@ O chat bot que construi usando algumas bibliotecas -> desativei porque o projeto
      <a href="https://java-2-runtime-environment.br.uptodown.com/windows/download">
     <span style="font-weight: bold">Java</span>
      https://java-2-runtime-environment.br.uptodown.com/windows/download</a>
+    <br>
      <a href="https://www.oracle.com/br/java/technologies/java-archive-javase10-downloads.html">
     <span style="font-weight: bold">JDK 10.0.2</span>
      https://www.oracle.com/br/java/technologies/java-archive-javase10-downloads.html</a>
+    <br>
      <a href="https://gluonhq.com/products/scene-builder/">
     <span style="font-weight: bold">Scene Builder</span>
      https://gluonhq.com/products/scene-builder/</a>
