@@ -73,6 +73,7 @@ O chat bot que construi usando algumas bibliotecas -> desativei porque o projeto
     <li>Java</li>
     <li>JavaFX</li>
     <li>Scene Builder</li>
+    <li>SQLite</li>
 </ul>
 
 ### Autor
