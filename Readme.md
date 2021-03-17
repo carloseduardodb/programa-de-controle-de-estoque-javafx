@@ -35,7 +35,7 @@ O chat bot que construi usando algumas bibliotecas -> desativei porque o projeto
 :-------------------------:|
 ![](img/image-project-15.png)
 
-<p style="font-weight: bold">Para instalar este projeto você terá que volta rum pouco ao passado:</p>
+<p style="font-weight: bold">Para instalar este projeto você terá que voltar um pouco ao passado (JDK 10.0.2) 📛:</p>
 <ul>
     <a href="https://git-scm.com"><span style="font-weight: bold">Git:</span> 
     https://git-scm.com</a>
