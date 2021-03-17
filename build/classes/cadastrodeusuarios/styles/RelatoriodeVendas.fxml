@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.LineChart?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.paint.LinearGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="AnchorPane" prefHeight="555.0" prefWidth="806.0" style="-fx-background-color: #202020;" stylesheets="@../estiloemcss/modiffycolordefault.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cadastrodeusuarios.controllerforstyles.RelatoriodeVendasController">
+   <children>
+      <LineChart fx:id="RVgfcVendasRealizadas" blendMode="SCREEN" layoutX="425.0" layoutY="91.0" prefHeight="271.0" prefWidth="361.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 10 10 10 10;" title="GRÁFICO DE VENDAS" AnchorPane.bottomAnchor="193.0" AnchorPane.leftAnchor="425.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="91.0">
+        <xAxis>
+          <CategoryAxis fx:id="RVGFlinha" side="BOTTOM" />
+        </xAxis>
+        <yAxis>
+          <NumberAxis fx:id="RVGFcoluna" side="LEFT" />
+        </yAxis>
+      </LineChart>
+      <AnchorPane layoutX="14.0" layoutY="89.0" prefHeight="446.0" prefWidth="386.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 10 10 10 10;" AnchorPane.bottomAnchor="20.0" AnchorPane.topAnchor="89.0">
+         <children>
+            <TableView fx:id="RVtblVendasRealizadas" layoutY="58.0" prefHeight="202.0" prefWidth="386.0" stylesheets="@../estiloemcss/estilotablecolunm.css" AnchorPane.bottomAnchor="11.0" AnchorPane.topAnchor="58.0">
+              <columns>
+                <TableColumn fx:id="RVtblID" prefWidth="61.0" text="ID" />
+                  <TableColumn fx:id="RVtblNomeproduto" prefWidth="120.0" text="NOME" />
+                  <TableColumn fx:id="RVtblNumerodeItens" prefWidth="67.0" text="NO. ITENS" />
+                  <TableColumn fx:id="RVtblValordaVenda" prefWidth="567.0" text="VALOR DA VENDA" />
+                <TableColumn fx:id="RVtblDatadaVenda" prefWidth="567.0" text="DATA DA VENDA" />
+              </columns>
+               <columnResizePolicy>
+                  <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+               </columnResizePolicy>
+            </TableView>
+            <TextField fx:id="RVtxtiPesquisar" layoutX="223.0" layoutY="14.0" prefHeight="31.0" prefWidth="149.0" promptText="Pesquisar">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </TextField>
+            <Text layoutX="44.0" layoutY="39.0" strokeType="OUTSIDE" strokeWidth="0.0" text="HISTÓRICO" textAlignment="CENTER" wrappingWidth="149.265625">
+               <font>
+                  <Font name="Arial Black" size="23.0" />
+               </font>
+               <fill>
+                  <LinearGradient endX="0.12857142857142856" endY="0.09047619047619049" startX="0.07142857142857142" startY="0.7619047619047619">
+                     <stops>
+                        <Stop color="#00ff35ba" />
+                        <Stop color="#d1dd1d" offset="1.0" />
+                     </stops>
+                  </LinearGradient>
+               </fill>
+            </Text>
+            <ImageView fitHeight="50.0" fitWidth="43.0" layoutX="4.0" layoutY="4.0">
+               <image>
+                  <Image url="@../img/history.png" />
+               </image>
+            </ImageView>
+         </children>
+      </AnchorPane>
+      <Text layoutX="1.0" layoutY="57.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Relatório de Vendas" textAlignment="CENTER" wrappingWidth="806.107421875" AnchorPane.leftAnchor="1.0" AnchorPane.rightAnchor="-1.0">
+         <font>
+            <Font name="System Bold" size="32.0" />
+         </font>
+         <fill>
+            <LinearGradient endX="0.5428571428571429" endY="0.4095238095238094" startX="0.5428571428571429" startY="0.06666666666666665">
+               <stops>
+                  <Stop color="#970d80" />
+                  <Stop color="WHITE" offset="1.0" />
+               </stops>
+            </LinearGradient>
+         </fill>
+      </Text>
+      <Button fx:id="RVbtnImprimir" contentDisplay="TOP" layoutX="666.107421875" layoutY="382.0" mnemonicParsing="false" onAction="#ActionRVbtnImprimir" prefHeight="151.0" prefWidth="120.0" style="-fx-background-color: #32CD32;" text="IMPRIMIR" textFill="WHITE" AnchorPane.bottomAnchor="22.0" AnchorPane.rightAnchor="20.0">
+         <font>
+            <Font name="Arial Black" size="18.0" />
+         </font>
+         <graphic>
+            <ImageView fitHeight="93.0" fitWidth="89.0">
+               <image>
+                  <Image url="@../img/printericon.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Button layoutX="1.0" layoutY="1.0" mnemonicParsing="false" onAction="#acaobtnvoltar" style="-fx-background-color: #202020;">
+         <graphic>
+            <ImageView fitHeight="48.0" fitWidth="48.0">
+               <image>
+                  <Image url="@../img/iconreturnblank.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <AnchorPane layoutX="424.0" layoutY="465.0" prefHeight="72.0" prefWidth="231.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 10 10 10 10;" AnchorPane.bottomAnchor="18.0" AnchorPane.leftAnchor="424.0">
+         <children>
+            <Text layoutX="14.0" layoutY="22.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Média das Vendas" textAlignment="CENTER" wrappingWidth="209.265625">
+               <font>
+                  <Font name="Arial Black" size="21.0" />
+               </font>
+               <fill>
+                  <LinearGradient endX="0.1" endY="0.07142857142857144" startX="0.09047619047619047" startY="0.6714285714285714">
+                     <stops>
+                        <Stop color="#00ff35ba" />
+                        <Stop color="#d1dd1d" offset="1.0" />
+                     </stops>
+                  </LinearGradient>
+               </fill>
+            </Text>
+            <Text fx:id="RVtxtMediadasVendas" layoutX="3.0" layoutY="63.0" strokeType="OUTSIDE" strokeWidth="0.0" text="R$ 0,00" textAlignment="CENTER" wrappingWidth="224.107421875">
+               <font>
+                  <Font size="33.0" />
+               </font>
+            </Text>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutX="424.0" layoutY="378.0" prefHeight="73.0" prefWidth="231.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 10 10 10 10;" AnchorPane.bottomAnchor="104.0" AnchorPane.leftAnchor="424.0">
+         <children>
+            <Text fill="#36f550" layoutX="24.0" layoutY="22.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Total de Vendas" textAlignment="CENTER" wrappingWidth="190.265625">
+               <font>
+                  <Font name="Arial Black" size="21.0" />
+               </font>
+            </Text>
+            <Text fx:id="RVtxtTotaldeVendas" layoutX="14.0" layoutY="64.0" strokeType="OUTSIDE" strokeWidth="0.0" text="R$ 0,00" textAlignment="CENTER" wrappingWidth="209.265625">
+               <font>
+                  <Font size="33.0" />
+               </font>
+            </Text>
+         </children>
+      </AnchorPane>
+      <Button layoutX="724.0" layoutY="15.0" mnemonicParsing="false" onAction="#RVbtnhelp" prefHeight="47.0" prefWidth="64.0" style="-fx-background-color: #202020;">
+         <graphic>
+            <ImageView fitHeight="49.0" fitWidth="49.0">
+               <image>
+                  <Image url="@../img/helpanim.gif" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <ImageView fitHeight="79.0" fitWidth="79.0" layoutX="569.0" layoutY="4.0">
+         <image>
+            <Image url="@../img/rlVendas.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="66.0" fitWidth="65.0" layoutX="169.0" layoutY="11.0">
+         <image>
+            <Image url="@../img/blankgrafics.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.TreeView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<SplitPane dividerPositions="0.5435323383084577" prefHeight="555.0" prefWidth="806.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cadastrodeusuarios.controllerforstyles.HelpchatbotController">
+   <items>
+      <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0" style="-fx-background-color: #202020;">
+         <children>
+            <TextField fx:id="tfUser" layoutX="18.0" layoutY="493.0" onKeyPressed="#TDclicktokeymsg" onKeyReleased="#TDclicktokeymsg" prefHeight="46.0" prefWidth="334.0" style="-fx-border-radius: 10 10 10 10; -fx-background-radius: 10 10 10 10;" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="18.0" AnchorPane.rightAnchor="82.0" />
+            <Button fx:id="btnUserSend" contentDisplay="RIGHT" layoutX="362.0" layoutY="493.0" mnemonicParsing="false" onAction="#handleUserSubmitMessage" prefHeight="46.0" prefWidth="50.0" style="-fx-background-color: #32CD32; -fx-background-radius: 10 10 10 10;" textFill="WHITE" AnchorPane.bottomAnchor="14.0" AnchorPane.rightAnchor="16.0">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+               <graphic>
+                  <ImageView fitHeight="36.0" fitWidth="36.0">
+                     <image>
+                        <Image url="@../img/enviaricon.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Text fill="WHITE" layoutX="76.0" layoutY="66.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Tire Suas Duvidas" textAlignment="CENTER" wrappingWidth="282.0">
+               <font>
+                  <Font name="System Bold" size="34.0" />
+               </font>
+            </Text>
+            <AnchorPane layoutX="18.0" layoutY="102.0" prefHeight="377.0" prefWidth="400.0" style="-fx-border-radius: 20 20 20 20; -fx-background-radius: 20 20 20 20; -fx-background-color: #1E90FF;" AnchorPane.bottomAnchor="74.0" AnchorPane.leftAnchor="18.0" AnchorPane.rightAnchor="16.0" AnchorPane.topAnchor="102.0">
+               <children>
+                  <AnchorPane layoutY="207.0" prefHeight="327.0" prefWidth="391.0" style="-fx-background-color: #FFFFFF; -fx-border-radius: 20 20 20 20; -fx-background-radius: 0 0 20 20;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="50.0" />
+                  <ListView fx:id="lvChatWindow" layoutY="76.0" prefHeight="285.0" prefWidth="375.0" style="-fx-background-radius: 0 0 20 20; -fx-border-radius: 0 0 20 20; -fx-border-color: #FFFFFF;" AnchorPane.bottomAnchor="16.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="76.0" />
+                  <Text fill="WHITE" layoutY="41.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Alice Bot" textAlignment="CENTER" wrappingWidth="213.814453125" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="203.185546875">
+                     <font>
+                        <Font size="28.0" />
+                     </font>
+                  </Text>
+                  <Text fill="WHITE" layoutX="312.0" layoutY="41.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Online" AnchorPane.rightAnchor="21.10107421875">
+                     <font>
+                        <Font size="29.0" />
+                     </font>
+                  </Text>
+                  <Circle fill="#2fff1f" layoutX="296.0" layoutY="33.0" radius="8.0" stroke="#cc939300" strokeType="INSIDE" AnchorPane.rightAnchor="113.0" />
+                  <ImageView layoutX="14.0" layoutY="16.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="373.0">
+                     <image>
+                        <Image url="@../img/boticon.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </AnchorPane>
+            <ImageView fitHeight="63.0" fitWidth="63.0" layoutX="366.0" layoutY="14.0" rotate="-14.0">
+               <image>
+                  <Image url="@../img/help.png" />
+               </image>
+            </ImageView>
+            <Button layoutX="2.0" layoutY="2.0" mnemonicParsing="false" onAction="#TDeventbtnvoltar" prefHeight="48.0" prefWidth="41.0" style="-fx-background-color: #202020;">
+               <graphic>
+                  <ImageView fitHeight="48.0" fitWidth="48.0">
+                     <image>
+                        <Image url="@../img/iconreturnblank.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Line endX="226.0" layoutX="221.0" layoutY="75.0" startX="-41.0" stroke="WHITE" />
+         </children></AnchorPane>
+      <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="553.0" prefWidth="356.0" style="-fx-background-color: #202020;">
+         <children>
+            <Text fill="WHITE" layoutX="25.0" layoutY="63.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Dúvidas Frequentes" AnchorPane.rightAnchor="24.8154296875">
+               <font>
+                  <Font name="System Bold" size="34.0" />
+               </font>
+            </Text>
+            <TreeView fx:id="DVDperguntasfrequentes" layoutX="1.0" layoutY="96.0" prefHeight="459.0" prefWidth="364.0" style="-fx-background-color: #363636; visibility: true;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="96.0" />
+            <Line endX="189.0" layoutX="178.0" layoutY="73.0" startX="-41.0" stroke="WHITE" AnchorPane.rightAnchor="-3.5" />
+         </children>
+      </AnchorPane>
+   </items>
+</SplitPane>

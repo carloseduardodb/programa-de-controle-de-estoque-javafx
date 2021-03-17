@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.paint.LinearGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="AnchorPane" prefHeight="593.0" prefWidth="806.0" style="-fx-background-color: #202020;" stylesheets="@../estiloemcss/modiffycolordefault.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cadastrodeusuarios.controllerforstyles.GerenciarUsuariosController">
+   <children>
+      <AnchorPane prefHeight="61.0" prefWidth="806.0" style="-fx-background-color: #690dbc;" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+         <children>
+            <HBox alignment="CENTER" layoutX="-60.0" layoutY="10.0" prefHeight="36.0" prefWidth="739.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+               <children>
+                  <ImageView fitHeight="55.0" fitWidth="54.0">
+                     <image>
+                        <Image url="@../img/manage.png" />
+                     </image>
+                  </ImageView>
+                  <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Gerenciar Usuários" textAlignment="CENTER" wrappingWidth="272.0">
+                     <font>
+                        <Font name="System Bold" size="27.0" />
+                     </font>
+                     <fill>
+                        <LinearGradient endX="0.5428571428571429" endY="0.4095238095238094" startX="0.5428571428571429" startY="0.06666666666666665">
+                           <stops>
+                              <Stop color="#970d80" />
+                              <Stop color="WHITE" offset="1.0" />
+                           </stops>
+                        </LinearGradient>
+                     </fill>
+                  </Text>
+                  <ImageView fitHeight="54.0" fitWidth="54.0">
+                     <image>
+                        <Image url="@../img/modifyuserricon.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </HBox>
+            <HBox alignment="CENTER" layoutX="529.0" prefHeight="65.0" prefWidth="210.0" stylesheets="@../estiloemcss/buttonsTopAllstyles.css" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+               <children>
+                  <Button mnemonicParsing="false" onAction="#GUbtnhelpaction" prefHeight="39.0" prefWidth="64.0" style="-fx-background-color: #690dbc;">
+                     <graphic>
+                        <ImageView fitHeight="35.0" fitWidth="35.0">
+                           <image>
+                              <Image url="@../img/helpanim.gif" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+                  <Button mnemonicParsing="false">
+                     <graphic>
+                        <ImageView fitHeight="32.0" fitWidth="32.0">
+                           <image>
+                              <Image url="@../img/icons8_minimize_window_50px.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+                  <Button mnemonicParsing="false" prefHeight="46.0" prefWidth="37.0">
+                     <graphic>
+                        <ImageView fitHeight="38.0" fitWidth="38.0">
+                           <image>
+                              <Image url="@../img/icons8_maximize_window_32px.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+                  <Button mnemonicParsing="false" prefHeight="35.0" prefWidth="35.0">
+                     <graphic>
+                        <ImageView fitHeight="35.0" fitWidth="35.0">
+                           <image>
+                              <Image url="@../img/icons8_delete_32px.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+               </children>
+            </HBox>
+            <Button fx:id="GUbtnVoltar" layoutX="1.0" layoutY="3.0" mnemonicParsing="false" onAction="#ActionGUbtnVoltar" prefHeight="48.0" prefWidth="41.0" style="-fx-background-color: #690dbc;">
+               <graphic>
+                  <ImageView fitHeight="48.0" fitWidth="48.0">
+                     <image>
+                        <Image url="@../img/iconreturnblank.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+         </children>
+      </AnchorPane>
+      <HBox alignment="CENTER" layoutY="97.0" prefHeight="482.0" prefWidth="806.0" style="-fx-spacing: 20;" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+         <children>
+            <AnchorPane prefHeight="421.0" prefWidth="398.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 10 10 10 10;">
+               <children>
+                  <TableView fx:id="GUtvUsuarios" layoutX="7.0" layoutY="54.0" onMouseClicked="#clicounalista" prefHeight="366.0" prefWidth="384.0" style="-fx-background-radius: 0 0 10 10; -fx-border-radius: 0 0 10 10;" stylesheets="@../estiloemcss/estilotablecolunm.css" AnchorPane.bottomAnchor="9.0" AnchorPane.leftAnchor="7.0" AnchorPane.rightAnchor="7.0" AnchorPane.topAnchor="54.0">
+                    <columns>
+                        <TableColumn fx:id="GUtcID" prefWidth="75.0" text="ID" />
+                      <TableColumn fx:id="GUtcNome" prefWidth="75.0" text="NOME" />
+                      <TableColumn fx:id="GUtcEmail" prefWidth="122.0" text="E-MAIL" />
+                    </columns>
+                     <columnResizePolicy>
+                        <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                     </columnResizePolicy>
+                  </TableView>
+                  <TextField fx:id="GUtxtiPesquisar" layoutX="7.0" layoutY="14.0" prefHeight="31.0" prefWidth="375.0" promptText="Pesquisar" AnchorPane.leftAnchor="7.0" AnchorPane.rightAnchor="7.0">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                  </TextField>
+               </children>
+               <HBox.margin>
+                  <Insets left="15.0" />
+               </HBox.margin>
+            </AnchorPane>
+            <VBox prefHeight="451.0" prefWidth="355.0">
+               <children>
+                  <HBox alignment="TOP_CENTER" prefHeight="43.0" prefWidth="283.0" style="-fx-spacing: 80;">
+                     <children>
+                        <Button fx:id="GUbtnSalvar" mnemonicParsing="false" onAction="#ActionGUbtnSalvar" prefHeight="37.0" prefWidth="137.0" style="-fx-background-color: #32CD32;" text="  SALVAR " textFill="WHITE">
+                           <font>
+                              <Font name="Arial Black" size="15.0" />
+                           </font>
+                           <graphic>
+                              <ImageView fitHeight="27.0" fitWidth="26.0">
+                                 <image>
+                                    <Image url="@../img/savedriveicon.png" />
+                                 </image>
+                              </ImageView>
+                           </graphic>
+                        </Button>
+                        <Button fx:id="GUbtnRemover" mnemonicParsing="false" onAction="#ActionGUbtnRemover" prefHeight="39.0" prefWidth="137.0" style="-fx-background-color: #E32636;" text="REMOVER" textFill="WHITE">
+                           <font>
+                              <Font name="Arial Black" size="15.0" />
+                           </font>
+                           <graphic>
+                              <ImageView fitHeight="28.0" fitWidth="28.0">
+                                 <image>
+                                    <Image url="@../img/removeuser.png" />
+                                 </image>
+                              </ImageView>
+                           </graphic>
+                        </Button>
+                     </children>
+                  </HBox>
+                  <AnchorPane prefHeight="420.0" prefWidth="355.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 10 10 10 10;">
+                     <children>
+                        <TextField fx:id="GUtxtiNome" layoutX="23.0" layoutY="50.0" prefHeight="31.0" prefWidth="309.0" promptText="Nome">
+                           <font>
+                              <Font size="15.0" />
+                           </font>
+                        </TextField>
+                        <TextField fx:id="GUtxtiSobrenome" layoutX="23.0" layoutY="113.0" prefHeight="31.0" prefWidth="309.0" promptText="Sobrenome">
+                           <font>
+                              <Font size="15.0" />
+                           </font>
+                        </TextField>
+                        <TextField fx:id="GUtxtiUsuario" layoutX="23.0" layoutY="237.0" prefHeight="31.0" prefWidth="309.0" promptText="Usuário" AnchorPane.leftAnchor="23.0">
+                           <font>
+                              <Font size="15.0" />
+                           </font>
+                        </TextField>
+                        <TextField fx:id="GUtxtiEmail" layoutX="23.0" layoutY="175.0" prefHeight="31.0" prefWidth="309.0" promptText="Email" AnchorPane.leftAnchor="23.0">
+                           <font>
+                              <Font size="15.0" />
+                           </font>
+                        </TextField>
+                        <Text layoutX="23.0" layoutY="44.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Nome:" AnchorPane.leftAnchor="23.0">
+                           <font>
+                              <Font size="15.0" />
+                           </font>
+                        </Text>
+                        <Text layoutX="23.0" layoutY="108.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Sobrenome:" AnchorPane.leftAnchor="23.0">
+                           <font>
+                              <Font size="15.0" />
+                           </font>
+                        </Text>
+                        <Text layoutX="23.0" layoutY="170.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Email:" AnchorPane.leftAnchor="23.0">
+                           <font>
+                              <Font size="15.0" />
+                           </font>
+                        </Text>
+                        <Text layoutX="23.0" layoutY="232.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Usuário:" AnchorPane.leftAnchor="23.0">
+                           <font>
+                              <Font size="15.0" />
+                           </font>
+                        </Text>
+                        <Text layoutX="23.0" layoutY="294.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Senha:" AnchorPane.leftAnchor="23.0">
+                           <font>
+                              <Font size="15.0" />
+                           </font>
+                        </Text>
+                        <Text layoutX="23.0" layoutY="356.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Repita sua senha:" AnchorPane.leftAnchor="23.0">
+                           <font>
+                              <Font size="15.0" />
+                           </font>
+                        </Text>
+                        <PasswordField fx:id="GUtxtiSenha" layoutX="23.0" layoutY="298.0" prefHeight="33.0" prefWidth="309.0" promptText="Senha">
+                           <font>
+                              <Font size="15.0" />
+                           </font>
+                        </PasswordField>
+                        <PasswordField fx:id="GUtxtiRPSenha" layoutX="23.0" layoutY="361.0" prefHeight="31.0" prefWidth="309.0" promptText="Repita sua Senha">
+                           <font>
+                              <Font size="15.0" />
+                           </font>
+                        </PasswordField>
+                     </children>
+                     <opaqueInsets>
+                        <Insets />
+                     </opaqueInsets>
+                     <VBox.margin>
+                        <Insets top="20.0" />
+                     </VBox.margin>
+                  </AnchorPane>
+               </children>
+            </VBox>
+         </children>
+      </HBox>
+   </children>
+</AnchorPane>

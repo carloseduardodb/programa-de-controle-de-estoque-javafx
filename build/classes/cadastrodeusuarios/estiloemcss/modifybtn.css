@@ -1,0 +1,14 @@
+.LGbtnClose:hover {
+-fx-background-color: green;
+-fx-text-fill: white;
+}
+
+.cdtbtnCadastrar:hover {
+-fx-background-color: green;
+-fx-text-fill: white;
+}
+
+.CDbtnVoltar:hover {
+-fx-background-color: green;
+-fx-text-fill: white;
+}

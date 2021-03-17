@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.paint.LinearGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="anchorverCadastroC" prefHeight="670.0" prefWidth="1003.0" style="-fx-background-color: #202020;" stylesheets="@../estiloemcss/modiffycolordefault.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cadastrodeusuarios.controllerforstyles.ConfigAndViewCDClienteController">
+   <children>
+      <TableView fx:id="tblClientes" layoutX="18.0" layoutY="148.0" onMouseClicked="#VAClistClick" prefHeight="504.0" prefWidth="967.0" stylesheets="@../estiloemcss/estilotablecolunm.css" AnchorPane.bottomAnchor="18.0" AnchorPane.leftAnchor="18.0" AnchorPane.rightAnchor="18.0" AnchorPane.topAnchor="148.0">
+         <columns>
+            <TableColumn fx:id="tblclientesID" maxWidth="203.0" prefWidth="107.0" text="ID" />
+            <TableColumn fx:id="tblclientesNome" minWidth="0.0" prefWidth="128.0" text="NOME" />
+            <TableColumn fx:id="tblclientesSobrenome" prefWidth="141.0" text="SOBRENOME" />
+            <TableColumn fx:id="tblclientesEmail" prefWidth="197.0" text="E-MAIL" />
+            <TableColumn fx:id="tblclientesDataNascimento" prefWidth="167.0" text="DATA DE NASCIMENTO" />
+         </columns>
+      </TableView>
+      <AnchorPane fx:id="VACarrastform" onMousePressed="#VACpressendform" prefHeight="49.0" prefWidth="1003.0" style="-fx-background-color: #690dbc;" stylesheets="@../estiloemcss/buttonsTopAllstyles.css" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+         <children>
+            <HBox alignment="CENTER" layoutY="6.0" prefHeight="36.0" prefWidth="604.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+               <children>
+                  <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Ver e Adicionar Clientes" textAlignment="CENTER" wrappingWidth="320.0">
+                     <font>
+                        <Font name="System Bold" size="27.0" />
+                     </font>
+                     <fill>
+                        <LinearGradient endX="0.5428571428571429" endY="0.4095238095238094" startX="0.5428571428571429" startY="0.06666666666666665">
+                           <stops>
+                              <Stop color="#970d80" />
+                              <Stop color="WHITE" offset="1.0" />
+                           </stops>
+                        </LinearGradient>
+                     </fill>
+                  </Text>
+               </children>
+            </HBox>
+            <Button layoutY="6.0" mnemonicParsing="false" onAction="#btnVoltar" prefHeight="19.0" prefWidth="39.0" style="-fx-background-color: #690dbc;">
+               <graphic>
+                  <ImageView fitHeight="30.0" fitWidth="30.0">
+                     <image>
+                        <Image url="@../img/iconreturnblank.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <HBox alignment="CENTER" layoutX="661.0" layoutY="6.0" prefHeight="35.0" prefWidth="184.0" AnchorPane.rightAnchor="0.0">
+               <children>
+                  <Button mnemonicParsing="false" onAction="#VAChelpbtnaction" prefHeight="23.0" prefWidth="28.0">
+                     <graphic>
+                        <ImageView fitHeight="30.0" fitWidth="30.0">
+                           <image>
+                              <Image url="@../img/helpanim.gif" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+                  <Button mnemonicParsing="false" onMouseClicked="#Minimizarbtn" prefHeight="16.0" prefWidth="25.0">
+                     <graphic>
+                        <ImageView fitHeight="30.0" fitWidth="30.0">
+                           <image>
+                              <Image url="@../img/icons8_minimize_window_48px.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+                  <Button mnemonicParsing="false" onMouseClicked="#maximizarbtn" prefHeight="22.0" prefWidth="20.0">
+                     <graphic>
+                        <ImageView fitHeight="30.0" fitWidth="30.0">
+                           <image>
+                              <Image url="@../img/icons8_maximize_window_32px.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+                  <Button mnemonicParsing="false" onMouseClicked="#HMbtnExit" prefHeight="24.0" prefWidth="23.0">
+                     <graphic>
+                        <ImageView fitHeight="30.0" fitWidth="30.0">
+                           <image>
+                              <Image url="@../img/icons8_delete_32px.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+               </children>
+            </HBox>
+         </children>
+      </AnchorPane>
+      <HBox alignment="CENTER" layoutX="543.0" layoutY="90.0" prefHeight="49.0" prefWidth="442.0" style="-fx-spacing: 10;" AnchorPane.rightAnchor="18.0">
+         <children>
+            <Button fx:id="CAVbtnApagar" mnemonicParsing="false" onAction="#CAVbtnApagar" prefHeight="22.0" prefWidth="135.0" style="-fx-background-color: #E32636;" text="REMOVER" textFill="WHITE">
+               <font>
+                  <Font name="Arial Black" size="15.0" />
+               </font>
+               <graphic>
+                  <ImageView fitHeight="25.0" fitWidth="25.0">
+                     <image>
+                        <Image url="@../img/removeuser.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="nada" mnemonicParsing="false" onAction="#CAVbtnEditar" prefHeight="35.0" prefWidth="125.0" style="-fx-background-color: #FF8C00;" text="EDITAR" textFill="WHITE">
+               <font>
+                  <Font name="Arial Black" size="15.0" />
+               </font>
+               <graphic>
+                  <ImageView fitHeight="25.0" fitWidth="25.0" nodeOrientation="INHERIT">
+                     <image>
+                        <Image url="@../img/edituser.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="btnadicionarCliente" alignment="CENTER" mnemonicParsing="false" onAction="#OnclickAddClient" prefHeight="35.0" prefWidth="145.0" style="-fx-background-color: #32CD32;" text="ADICIONAR" textFill="WHITE">
+               <font>
+                  <Font name="Arial Black" size="15.0" />
+               </font>
+               <graphic>
+                  <ImageView fitHeight="25.0" fitWidth="25.0">
+                     <image>
+                        <Image url="@../img/addcliente.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+         </children>
+      </HBox>
+      <TextField fx:id="txtipesquisarCliente" layoutX="18.0" layoutY="99.0" onKeyTyped="#seachingListener" prefHeight="31.0" prefWidth="402.0" promptText="Pesquisar" AnchorPane.leftAnchor="18.0" AnchorPane.rightAnchor="583.0">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </TextField>
+      <Text fill="WHITE" layoutX="18.0" layoutY="92.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Pesquisar:" AnchorPane.leftAnchor="18.0">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <AnchorPane layoutX="443.0" layoutY="66.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 10; -fx-border-color: #FFFFFF; -fx-border-radius: 20;" AnchorPane.rightAnchor="484.0">
+         <children>
+            <ImageView fx:id="VACimgClient" fitHeight="70.0" fitWidth="70.0" onMouseClicked="#VACimgClicked" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="2.0" AnchorPane.leftAnchor="2.0" AnchorPane.rightAnchor="2.0" AnchorPane.topAnchor="2.0">
+               <image>
+                  <Image url="@../img/icons8_user_64px.png" />
+               </image>
+            </ImageView>
+         </children>
+      </AnchorPane>
+      <AnchorPane fx:id="blackancharpane" opacity="0.7" prefHeight="675.0" prefWidth="1003.0" style="-fx-background-color: #000000;" visible="false" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+   </children>
+</AnchorPane>

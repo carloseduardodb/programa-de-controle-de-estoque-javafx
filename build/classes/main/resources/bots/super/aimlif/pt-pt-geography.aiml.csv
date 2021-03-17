@@ -1,0 +1,827 @@
+0,ONDE ESTÃ&#129; O EQUADOR,*,*,AmÃ©rica do Sul Ocidental#Comma beirando o Oceano PacÃ­fico Equatorial#Comma entre a ColÃ´mbia e o Peru.<think><set name="it"><set name="topic">Equador</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A TUSCALOOSA,*,*,<set name="it"><set name="topic">TUSCALOOSA</set></set>Ã© no Alabama#Comma Ãºltima ouvi.,pt-pt-geography.aiml
+0,ONDE Ã&#137; STONEWALL,*,*,<set name="it"><set name="topic">STONEWALL</set></set>Ã© uma cidade no Mississippi.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A NAIROBI,*,*,<set name="it"><set name="topic">NAIROBI</set></set>Ã© uma cidade do QuÃ©nia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A PENSILVÃ&#130;NIA,*,*,<set name="it">PensilvÃ¢nia</set>estÃ¡ localizado no nordeste dos Estados Unidos.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O SURINAME,*,*,Norte da AmÃ©rica do Sul#Comma na fronteira com o Oceano AtlÃ¢ntico Norte#Comma entre a Guiana e Guiana francesa.<think><set name="it"><set name="topic">Suriname</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ILHA JARVIS,*,*,Oceania#Comma ilha no sul do Oceano PacÃ­fico#Comma cerca de metade do caminho do HavaÃ­#Comma as Ilhas Cook.<think><set name="it"><set name="topic">Ilha Jarvis</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; PARIS,*,*,<set name="it">Paris</set>Ã© uma cidade na FranÃ§a.,pt-pt-geography.aiml
+0,ONDE FICA BRUXELAS,*,*,<set name="it">Bruxelas</set>Ã© uma cidade na BÃ©lgica.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A Ã&#129;SIA,*,*,<set name="it">Ã&#129;sia</set>Ã© um continente maior.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ALBUQUERQUE,*,*,<set name="it"><set name="topic">ALBUQUERQUE</set></set>Ã© uma cidade no Novo MÃ©xico.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A AMSTERDAM,*,*,<set name="it">Amsterdam</set>Ã© uma cidade dos PaÃ­ses Baixos.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A Ã&#141;NDIA,*,*,<set name="it">Ã&#141;ndia</set>Ã© um paÃ­s gigante no sul da Ã&#129;sia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ILHAS VIRGENS BRITÃ&#130;NICAS,*,*,Caribe#Comma entre o mar das CaraÃ­bas e o Oceano AtlÃ¢ntico Norte#Comma a leste de Porto Rico.<think><set name="it"><set name="topic">Ilhas Virgens BritÃ¢nicas</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O VIETNÃ&#131,*,*,<set name="it"><set name="topic">VIETNAME</set></set>Ã© no Sudeste AsiÃ¡tico.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A UCRÃ&#130;NIA,*,*,Europa Oriental#Comma na fronteira com o mar Negro#Comma entre a PolÃ´nia e a RÃºssia.<think><set name="it"><set name="topic">UcrÃ¢nia</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; PLUTÃ&#131;O,*,*,<set name="it"><set name="topic">PLUTÃ&#131;O</set></set>Ã© o nono planeta do sol.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A SUÃ&#141;Ã&#135;A,*,*,<set name="it">SuÃ­Ã§a</set>Ã© um paÃ­s da Europa de metrÃ´#Comma faz fronteira com ItÃ¡lia#Comma Ã&#129;ustria e FranÃ§a.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O TERRITÃ&#147;RIO BRITÃ&#130;NICO DO OCEANO Ã&#141;NDICO,*,*,Sul da Ã&#129;sia#Comma arquipÃ©lago no Oceano Ã&#141;ndico#Comma sobre a metade o caminho da Ã&#129;frica Ã  IndonÃ©sia.<think><set name="it"><set name="topic">territÃ³rio britÃ¢nico do Oceano Ã&#141;ndico</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; SERRA LEOA,*,*,Ã&#129;frica Ocidental#Comma na fronteira com o Oceano AtlÃ¢ntico Norte#Comma entre a GuinÃ© e a LibÃ©ria.<think><set name="it"><set name="topic">Serra Leoa</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A BETHLEHEM,*,*,Bethlehem#Comma PensilvÃ¢nia estÃ¡ localizada na zona Nordeste do Estado#Comma cerca de 90 km de Philadelphia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O CABO VERDE,*,*,Na Ã&#129;frica Ocidental#Comma grupo de ilhas no Oceano AtlÃ¢ntico Norte#Comma oeste de Senegal.<think><set name="it"><set name="topic">cabo verde</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A LETÃ&#147;NIA,*,*,Europa Oriental#Comma na fronteira com o mar BÃ¡ltico#Comma entre a EstÃ³nia e a LituÃ¢nia.<think><set name="it"><set name="topic">LetÃ´nia</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O OCEANO ATLÃ&#130;NTICO,*,*,corpo de Ã¡gua entre Ã&#129;frica#Comma Europa#Comma AntÃ¡rtica e do hemisfÃ©rio ocidental.<think><set name="it"><set name="topic">Oceano AtlÃ¢ntico</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A VENEZUELA,*,*,Norte da AmÃ©rica do Sul#Comma na fronteira com o mar do Caribe e o Oceano AtlÃ¢ntico Norte#Comma entre a ColÃ´mbia e Guiana.<think><set name="it"><set name="topic">Venezuela</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O KRAFTWERK,*,*,Eles sÃ£o de Dusseldorf#Comma Alemanha.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; JÃ&#154;PITER,*,*,<set name="it"><set name="topic">JÃ&#154;PITER</set></set>Ã© o quinto planeta do sol.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A SAMOA OCIDENTAL,*,*,Oceania#Comma grupo de ilhas no Oceano PacÃ­fico Sul#Comma cerca de metade do caminho do HavaÃ­ Ã  Nova ZelÃ¢ndia.<think><set name="it"><set name="topic">samoa ocidental</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O SAARA OCIDENTAL,*,*,Norte da Ã&#129;frica#Comma na fronteira com o Oceano AtlÃ¢ntico Norte#Comma entre a MauritÃ¢nia e Marrocos.<think><set name="it"><set name="topic">Saara Ocidental</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O AZERBAIJÃ&#131;O,*,*,Sudoeste asiÃ¡tico#Comma fazendo fronteira com o mar CÃ¡spio#Comma entre o IrÃ£o e a RÃºssia.<think><set name="it"><set name="topic">AzerbaijÃ£o</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O CONNECTICUT,*,*,<set name="it"><set name="topic">CONNECTICUT</set></set>Ã© um estado de Nova Inglaterra entre Nova Iorque#Comma Massaschusetts e Rhode Island.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A Ã&#129;USTRIA,*,*,Europa Central#Comma norte da ItÃ¡lia.<think><set name="it"><set name="topic">Ã&#129;ustria</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A INDONÃ&#137;SIA,*,*,<set name="it"><set name="topic">IndonÃ©sia</set></set>Ã© uma ilha-naÃ§Ã£o do Sudeste AsiÃ¡tico.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O MIT,*,*,<set name="it"><set name="topic">MIT</set></set>Ã© uma escola de comÃ©rcio em Cambridge#Comma Massachusetts,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O EINSTEIN,*,*,<set name="he">Einstein</set>faleceu hÃ¡ algum tempo.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O SASKATOON,*,*,<set name="it"><set name="topic">SASKATOON</set></set>Ã© uma cidade em Saskatchewan.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O MISSISSIPPI,*,*,<set name="it">Mississippi</set>Ã© o sul dos Estados Unidos.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; AS ILHAS DO MAR DE CORAL,*,*,Oceania#Comma Ilhas do mar de Coral#Comma nordeste da AustrÃ¡lia.<think><set name="it"><set name="topic">Ilhas do mar de coral</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A BULGÃ&#129;RIA,*,*,<set name="it">BulgÃ¡ria</set>Ã© um paÃ­s dos BalcÃ£s.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O YAKIMA,*,*,<set name="it"><set name="topic">YAKIMA</set></set>Ã© uma cidade e um rio#Comma em Washington.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O DENVER,*,*,<set name="it">Denver</set>Ã© uma cidade localizada no Colorado.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ANTÃ&#141;GUA E BARBUDA,*,*,Caribe#Comma ilhas entre o mar das CaraÃ­bas e o Oceano AtlÃ¢ntico Norte#Comma a leste-sudeste de Porto Rico.<think><set name="it"><set name="topic">AntÃ­gua e barbuda</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O IOWA,*,*,<set name="it"><set name="topic">IOWA</set></set>Ã© o centro-oeste#Comma entre os rios Mississipi e Missouri.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O SRI,*,*,<set name="it"><set name="topic">SRI</set></set>Ã© um equipamento de pesquisa no Vale do silÃ­cio.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O SRI LANKA,*,*,Ã&#129;sia do Sul#Comma ilha no Oceano Ã&#141;ndico#Comma sul da Ã&#141;ndia.<think><set name="it"><set name="topic">Sri lanka</set></set></think>,pt-pt-geography.aiml
+0,ONDE Ã&#137; ISSO,*,*,O que \"que\" faz referÃªncia a?,pt-pt-geography.aiml
+0,SÃ&#131;O FRANCISCO, ONDE Ã&#137,*,*,CalifÃ³rnia.,pt-pt-geography.aiml
+0,CADÃ&#138; SAN MARINO,*,*,Sul da Europa#Comma um enclave na ItÃ¡lia central.<think><set name="it"><set name="topic">San marino</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A HUNGRIA,*,*,<set name="it">Hungria</set>Ã© um paÃ­s da Europa central.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O TUVALU,*,*,Oceania#Comma grupo constituÃ­do por nove atÃ³is de coral no Oceano PacÃ­fico Sul#Comma cerca de metade do caminho do HavaÃ­ para a AustrÃ¡lia.<think><set name="it"><set name="topic">Tuvalu</set></set></think>,pt-pt-geography.aiml
+0,ONDE Ã&#137; SAN JOSE,*,*,<set name="it">San Jose</set>Ã© uma cidade na CalifÃ³rnia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O SAN DIEGO,*,*,<set name="it">San Diego</set>Ã© uma cidade na CalifÃ³rnia.,pt-pt-geography.aiml
+0,ONDE Ã&#137; ESTOCOLMO,*,*,<set name="it"><set name="topic">STOCKHOLM</set></set>Ã© uma grande cidade na SuÃ©cia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O SANTA LÃ&#154;CIA,*,*,Ilha do Caribe#Comma no mar do Caribe#Comma ao norte de Trinidad e Tobago.<think><set name="it"><set name="topic">Santa LÃºcia</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O SANTA HELENA,*,*,Ã&#129;frica do Sul#Comma ilha no Oceano AtlÃ¢ntico Sul#Comma oeste de Angola#Comma cerca de dois terÃ§os do caminho da AmÃ©rica do Sul para a Ã&#129;frica.<think><set name="it"><set name="topic">Santa helena</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A DINAMARCA,*,*,<set name="it">Dinamarca</set>Ã© um paÃ­s da Europa Ocidental#Comma entre a Alemanha e Noruega.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O SÃ&#131;O VICENTE E GRANADINAS,*,*,Caribe#Comma ilhas no mar do Caribe#Comma ao norte de Trinidad e Tobago.<think><set name="it"><set name="topic">SÃ£o Vicente e Granadinas</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O SAINT PIERRE AND MIQUELON,*,*,Norte da AmÃ©rica do Norte#Comma ilhas no Oceano AtlÃ¢ntico Norte#Comma ao sul de terra nova {CanadÃ¡}.<think><set name="it"><set name="topic">SÃ£o Pedro e miquelon</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O SÃ&#131;O CRISTÃ&#147;VÃ&#131;O E NEVIS,*,*,Caribe#Comma ilhas no mar do Caribe#Comma cerca de um terÃ§o do caminho de Porto Rico para Trinidad e Tobago.<think><set name="it"><set name="topic">SÃ£o CristÃ³vÃ£o e nevis</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ILHAS PITCAIRN,*,*,Oceania#Comma ilhas no sul do Oceano PacÃ­fico#Comma cerca de metade do caminho do Peru para a Nova ZelÃ¢ndia.<think><set name="it"><set name="topic">Ilhas Pitcairn</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O CHIPRE,*,*,Oriente MÃ©dio#Comma Ilha do mar MediterrÃ¢neo#Comma ao sul da Turquia.<think><set name="it"><set name="topic">Chipre</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O OMAHA,*,*,<set name="it"><set name="topic">OMAHA</set></set>Ã© uma cidade localizada no estado americano de Nebraska.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A MAURITÃ&#130;NIA,*,*,Norte da Ã&#129;frica#Comma na fronteira com o Oceano AtlÃ¢ntico Norte#Comma entre o Senegal e o Saara Ocidental.<think><set name="it"><set name="topic">MauritÃ¢nia</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A SUÃ&#137;CIA,*,*,<set name="it">SuÃ©cia</set>Ã© um paÃ­s no norte da Europa#Comma fazendo fronteira com a FinlÃ¢ndia e a Noruega.,pt-pt-geography.aiml
+0,ONDE Ã&#137; A POLÃ&#147;NIA,*,*,A PolÃ³nia Ã© um grande paÃ­s na Europa central.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ILHAS COCOS,*,*,Sudeste da Ã&#129;sia#Comma grupo de ilhas no Oceano Ã&#141;ndico#Comma ao sul da IndonÃ©sia#Comma cerca de metade do caminho da AustrÃ¡lia para o Sri Lanka.<think><set name="it"><set name="topic">Ilhas Cocos {keeling}</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A DOMINICA,*,*,Caribe#Comma ilha#Comma entre o mar das CaraÃ­bas e o Oceano AtlÃ¢ntico Norte#Comma a cerca de metade do caminho de Porto Rico para Trinidad e Tobago.<think><set name="it"><set name="topic">Dominica</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ARÃ&#129;BIA SAUDITA,*,*,MÃ©dio Oriente#Comma na fronteira com o Golfo PÃ©rsico e o mar vermelho#Comma ao norte do IÃ©men.<think><set name="it"><set name="topic">ArÃ¡bia Saudita</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ANCARA,*,*,<set name="it"><set name="topic">ANCARA</set></set>Ã© uma cidade da Turquia.,pt-pt-geography.aiml
+0,ONDE Ã&#137; GRANADA,*,*,Ilha do Caribe#Comma no mar do Caribe#Comma ao norte de Trinidad e Tobago.<think><set name="it"><set name="topic">Granada</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O SUEZ,*,*,<set name="it"><set name="topic">SUEZ</set></set>Ã© um canal entre o MediterrÃ¢neo e o mar vermelho.,pt-pt-geography.aiml
+0,ONDE FICA ANGOLA,*,*,Ã&#129;frica do Sul#Comma na fronteira com o Oceano AtlÃ¢ntico Sul#Comma entre a NamÃ­bia e no Zaire.<think><set name="it"><set name="topic">Angola</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ITÃ&#129;LIA,*,*,<set name="it">ItÃ¡lia</set>Ã© na parte sul da Europa.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O LÃ&#141;BANO,*,*,MÃ©dio Oriente#Comma na fronteira com o mar MediterrÃ¢neo#Comma entre Israel e a SÃ­ria.<think><set name="it"><set name="topic">LÃ­bano</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O PALAU,*,*,Oceania#Comma grupo de ilhas no Oceano PacÃ­fico Norte#Comma a sudeste das Filipinas.<think><set name="it"><set name="topic">Palau</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A MAYOTTE,*,*,Ã&#129;frica do Sul#Comma ilha no canal de MoÃ§ambique#Comma cerca de metade do caminho de MadagÃ¡scar do Norte ao norte de MoÃ§ambique.<think><set name="it"><set name="topic">Mayotte</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; ELE PARTIR,*,*,<get name="he"/>?  Eu acho que ele Ã© do planeta terra.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O UZBEQUISTÃ&#131;O,*,*,Ã&#129;sia Central#Comma ao norte do AfeganistÃ£o.<think><set name="it"><set name="topic">UzbequistÃ£o</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O KASHMIR,*,*,<set name="it"><set name="topic">KASHMIR</set></set>Ã© uma Ã¡rea disputada entre Ã&#141;ndia e PaquistÃ£o.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O BELIZE,*,*,AmÃ©rica do meio#Comma na fronteira com o mar do Caribe#Comma entre Guatemala e MÃ©xico.<think><set name="it"><set name="topic">Belize</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ATOL DE JOHNSTON,*,*,Oceania#Comma atol no norte do Oceano PacÃ­fico#Comma cerca de um terÃ§o do caminho do HavaÃ­#Comma as Ilhas Marshall.<think><set name="it"><set name="topic">Atol de Johnston</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O TOLEDO,*,*,<set name="it"><set name="topic">TOLEDO</set></set>Ã© uma cidade localizada no estado norte-americano de Ohio.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O HAMBURGO,*,*,<set name="it"><set name="topic">HAMBURGO</set></set>Ã© uma grande cidade no oeste da Alemanha.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O PORTSMOUTH,*,*,Portsmouth#Comma New Hampshire e Portsmouth#Comma Inglaterra.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A HONDURAS,*,*,AmÃ©rica do meio#Comma na fronteira com o mar do Caribe#Comma entre Guatemala e NicarÃ¡gua e na fronteira com o norte do Oceano PacÃ­fico#Comma entre El Salvador e NicarÃ¡gua.<think><set name="it"><set name="topic">Honduras</set></set></think>,pt-pt-geography.aiml
+0,ONDE FICA O EGITO,*,*,<set name="it"><set name="topic">Egito</set></set>Ã© um paÃ­s no norte da Ã&#129;frica.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A Ã&#129;FRICA DO SUL,*,*,Ã&#129;frica do Sul#Comma no extremo sul do continente africano.<think><set name="it"><set name="topic">Ã&#129;frica do Sul</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A COREIA DO SUL,*,*,Leste da Ã&#129;sia#Comma metade sul da penÃ­nsula coreana#Comma na fronteira com o mar do JapÃ£o e do mar amarelo#Comma ao sul da Coreia do Norte.<think><set name="it"><set name="topic">Coreia do Sul</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A GUIANA,*,*,Norte da AmÃ©rica do Sul#Comma na fronteira com o Oceano AtlÃ¢ntico Norte#Comma entre o Suriname e Venezuela.<think><set name="it"><set name="topic">Guiana</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A CARTAGO,*,*,<set name="it"><set name="topic">CARTAGO</set></set>Ã© o nome antigo para a TunÃ­sia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O JERSEY,*,*,Europa Ocidental#Comma ilha no canal da mancha#Comma noroeste da FranÃ§a.<think><set name="it"><set name="topic">Jersey</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O COMORES,*,*,Ã&#129;frica do Sul#Comma grupo de ilhas no canal de MoÃ§ambique#Comma cerca de dois terÃ§os do caminho entre Madagascar norte e norte de MoÃ§ambique.<think><set name="it"><set name="topic">Comores</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O SEYCHELLES,*,*,Ã&#129;frica Oriental#Comma grupo de ilhas no Oceano Ã&#141;ndico#Comma a nordeste de MadagÃ¡scar.<think><set name="it"><set name="topic">Seychelles</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ARMÃ&#137;NIA,*,*,Sudoeste Ã&#129;sia#Comma leste da Turquia.<think><set name="it"><set name="topic">ArmÃªnia</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ILHAS COOK,*,*,Oceania#Comma grupo de ilhas no Oceano PacÃ­fico Sul#Comma cerca de metade do caminho do HavaÃ­ Ã  Nova ZelÃ¢ndia.<think><set name="it"><set name="topic">Ilhas Cook</set></set></think>,pt-pt-geography.aiml
+0,ONDE Ã&#137; A ARGENTINA,*,*,<set name="it">Argentina</set>Ã© um paÃ­s da AmÃ©rica do Sul.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A GUINÃ&#137; EQUATORIAL,*,*,Ã&#129;frica Ocidental#Comma na fronteira com o Oceano AtlÃ¢ntico Norte#Comma entre CamarÃµes e GabÃ£o.<think><set name="it"><set name="topic">GuinÃ© Equatorial</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ALBÃ&#130;NIA,*,*,<set name="it"><set name="topic">AlbÃ¢nia</set></set>Ã© no mar AdriÃ¡tico#Comma na fronteira com a GrÃ©cia e a antiga JugoslÃ¡via.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ILHAS MIDWAY,*,*,Oceania#Comma atol no norte do Oceano PacÃ­fico#Comma cerca de um terÃ§o do caminho de Honolulu para TÃ³quio.<think><set name="it"><set name="topic">ilhas Midway</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O TAJIQUISTÃ&#131;O,*,*,Ã&#129;sia Central#Comma oeste da China.<think><set name="it"><set name="topic">TajiquistÃ£o</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O DJIBOUTI,*,*,Ã&#129;frica Oriental#Comma na fronteira com o Golfo de Aden e o mar vermelho#Comma entre a Eritreia e a SomÃ¡lia.<think><set name="it"><set name="topic">Djibuti</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O MAINE,*,*,<set name="it">Maine</set>estÃ¡ no canto nordeste dos Estados Unidos#Comma na fronteira com o CanadÃ¡.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O HOUSTON,*,*,<set name="it">Houston</set>Ã© uma cidade no Texas.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O MANILA,*,*,<set name="it">Manila</set>Ã© uma cidade nas Filipinas.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O NAURU,*,*,Oceania#Comma ilha no sul do Oceano PacÃ­fico#Comma ao sul das Ilhas Marshall.<think><set name="it"><set name="topic">Nauru</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O OCEANO Ã&#141;NDICO,*,*,corpo de Ã¡gua entre Ã&#129;frica#Comma AntÃ¡rtica#Comma Ã&#129;sia e AustrÃ¡lia.<think><set name="it"><set name="topic">Oceano Ã&#141;ndico</set></set></think>,pt-pt-geography.aiml
+0,ONDE FICA ISRAEL,*,*,<set name="it">Israel</set>situa-se no mar MediterrÃ¢neo#Comma no Oriente MÃ©dio.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ILHA DE NATAL,*,*,Sudeste da Ã&#129;sia#Comma ilha no Oceano Ã&#141;ndico#Comma ao sul da IndonÃ©sia.<think><set name="it"><set name="topic">Ilha Christmas</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; UNIDO REINO,*,*,Europa Ocidental#Comma Ilhas#Comma incluindo o norte de um sexto da ilha da Irlanda#Comma entre o Oceano AtlÃ¢ntico Norte e mar do Norte#Comma noroeste da FranÃ§a.<think><set name="it"><set name="topic">Reino Unido</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; UNIDO DOS ESTADOS,*,*,AmÃ©rica do Norte#Comma na fronteira com o Oceano AtlÃ¢ntico Norte e norte do Oceano PacÃ­fico#Comma entre o CanadÃ¡ e MÃ©xico.<think><set name="it"><set name="topic">Estados Unidos</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O EMIRADOS Ã&#129;RABES UNIDOS,*,*,MÃ©dio Oriente#Comma na fronteira com o Golfo de OmÃ£ e o Golfo PÃ©rsico#Comma entre OmÃ£ e a ArÃ¡bia Saudita.<think><set name="it"><set name="topic">Emirados Ã&#129;rabes Unidos</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O PANAMÃ&#129,*,*,<set name="it"><set name="topic">PanamÃ¡</set></set>Ã© no istmo entre o norte e AmÃ©rica do Sul.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; EL SALVADOR,*,*,AmÃ©rica do meio#Comma na fronteira com o norte do Oceano PacÃ­fico#Comma entre Guatemala e Honduras.<think><set name="it"><set name="topic">El Salvador</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A CHECOSLOVÃ&#129;QUIA,*,*,No passado.  Que paÃ­s jÃ¡ nÃ£o existe.,pt-pt-geography.aiml
+0,ONDE FICA A MOLDÃ&#129;VIA,*,*,Europa Oriental#Comma nordeste da RomÃªnia.<think><set name="it"><set name="topic">MoldÃ¡via</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O CUPERTINO,*,*,<set name="it"><set name="topic">CUPERTINO</set></set>Ã© no Vale do silÃ­cio.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O BAHREIN,*,*,Oriente MÃ©dio#Comma arquipÃ©lago no Golfo PÃ©rsico#Comma a leste da ArÃ¡bia Saudita.<think><set name="it"><set name="topic">Bahrein</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A FINLÃ&#130;NDIA,*,*,<set name="it">FinlÃ¢ndia</set>Ã© um paÃ­s da Europa Oriental#Comma na fronteira com a SuÃ©cia e a RÃºssia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ILHAS VIRGENS,*,*,Caribe#Comma ilhas entre o mar das CaraÃ­bas e o Oceano AtlÃ¢ntico Norte#Comma a leste de Porto Rico.<think><set name="it"><set name="topic">Ilhas Virgens</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A MACAU,*,*,Ã&#129;sia Oriental#Comma na fronteira com o mar do Sul da China e da China.<think><set name="it"><set name="topic">Macau</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O CHILE,*,*,Sul da AmÃ©rica do Sul#Comma na fronteira com o Oceano AtlÃ¢ntico Sul e sul do Oceano PacÃ­fico#Comma entre a Argentina e Peru.<think><set name="it"><set name="topic">Chile</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O PAÃ&#141;S DAS MARAVILHAS,*,*,<set name="it"><set name="topic">PAÃ&#141;S DAS MARAVILHAS</set></set>Ã© no futuro.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O CORONA,*,*,<set name="it"><set name="topic">CORONA</set></set>Ã© um subÃºrbio de Los Angeles.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ILHA WAKE,*,*,Oceania#Comma ilha no Oceano PacÃ­fico Norte#Comma cerca de dois terÃ§os do caminho do HavaÃ­#Comma Marianas Setentrionais.<think><set name="it"><set name="topic">Ilha Wake</set></set></think>,pt-pt-geography.aiml
+0,ONDE FICA VANUATU,*,*,Oceania#Comma grupo de ilhas no sul do Oceano PacÃ­fico#Comma a cerca de trÃªs quartos do caminho do HavaÃ­ para a AustrÃ¡lia.<think><set name="it"><set name="topic">Vanuatu</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ILLINOIS,*,*,<set name="it">Illinos</set>Ã© o meio-oeste dos Estados Unidos.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A COREIA,*,*,<set name="it"><set name="topic">CorÃ©ia</set></set>Ã© uma penÃ­nsula na margem oriental do continente asiÃ¡tico.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ELVIS,*,*,<set name="he">Elvis</set>faleceu hÃ¡ algum tempo.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O WYOMING,*,*,<set name="it"><set name="topic">WYOMING</set></set>Ã© um estado dos Estados Unidos ocidental entre Montana e Colorado.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ONTÃ&#129;RIO,*,*,<set name="it"><set name="topic">ONTÃ&#129;RIO</set></set>Ã© uma provÃ­ncia do CanadÃ¡.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O TORONTO,*,*,<set name="it">Toronto</set>Ã© uma cidade no CanadÃ¡.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ESPANHA,*,*,<set name="it"><set name="topic">Espanha</set></set>Ã© na PenÃ­nsula IbÃ©rica#Comma na Europa do sudoeste.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O OXNARD,*,*,<set name="it"><set name="topic">OXNARD</set></set>Ã© uma cidade na CalifÃ³rnia.,pt-pt-geography.aiml
+0,ONDE FICA A SINGAPURA,*,*,<set name="it"><set name="topic">Cingapura</set></set>Ã© um Estado-naÃ§Ã£o ilha na ponta da PenÃ­nsula Malaia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ZURIQUE,*,*,<set name="it">Zurique</set>Ã© uma cidade na SuÃ­Ã§a.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O OMÃ&#131,*,*,MÃ©dio Oriente#Comma na fronteira com o Mar ArÃ¡bico#Comma o Golfo de OmÃ£ e o Golfo PÃ©rsico#Comma entre o Yemen e os Emirados Ã&#129;rabes Unidos.<think><set name="it"><set name="topic">OmÃ£</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; NETUNO,*,*,<set name="it"><set name="topic">NETUNO</set></set>Ã© o oitavo planeta do sol#Comma o planeta de \"gÃ¡s Ãºltima\".,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O SEATTLE,*,*,<set name="it"><set name="topic">SEATTLE</set></set>Ã© uma grande cidade no estado de Washington#Comma perto de Vancover CanadÃ¡.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O BENIN,*,*,Ã&#129;frica Ocidental#Comma na fronteira com o Oceano AtlÃ¢ntico Norte#Comma entre NigÃ©ria e Togo.<think><set name="it"><set name="topic">Benin</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O MANCHESTER,*,*,Machester Ã© uma cidade na Inglaterra ocidental.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; JUAN DE NOVA ISLAND,*,*,Ã&#129;frica do Sul#Comma ilha no canal de MoÃ§ambique#Comma cerca de um terÃ§o do caminho entre Madagascar e MoÃ§ambique.<think><set name="it"><set name="topic">Ilha de Juan de nova</set></set></think>,pt-pt-geography.aiml
+0,ONDE Ã&#137; A NOVA ZELÃ&#130;NDIA,*,*,Oceania#Comma ilhas no Oceano PacÃ­fico Sul#Comma sudeste da AustrÃ¡lia.<think><set name="it"><set name="topic">Nova ZelÃ¢ndia</set></set></think>,pt-pt-geography.aiml
+0,ONDE Ã&#137; NOVA IORQUE,*,*,<set name="it">Nova Iorque</set>estÃ¡ localizado no nordeste dos Estados Unidos.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O VERMONT,*,*,<set name="it"><set name="topic">VERMONT</set></set>Ã© na Nova Inglaterra#Comma entre Nova York e de New Hampshire#Comma na margem ocidental do rio Connecticut.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O CAZAQUISTÃ&#131;O,*,*,Ã&#129;sia Central#Comma noroeste da China.<think><set name="it"><set name="topic">Kazakstan</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O MELBOURNE,*,*,<set name="it"><set name="topic">MELBOURNE</set></set>Ã© uma cidade na AustrÃ¡lia e tambÃ©m na FlÃ³rida.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A CIDADE DE NOVA YORK,*,*,<set name="it">Nova Iorque</set>estÃ¡ localizado no nordeste dos Estados Unidos.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O UTAH,*,*,<set name="it">Utah</set>Ã© o oeste dos Estados Unidos.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ATOL PALMYRA,*,*,Oceania#Comma atol no norte do Oceano PacÃ­fico#Comma cerca de metade do caminho do HavaÃ­ a Samoa americana.<think><set name="it"><set name="topic">Palmyra atoll</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O BARCELONA,*,*,<set name="it">Barcelona</set>Ã© uma cidade na Espanha.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A NOVA ORLEANS,*,*,<set name="it">Nova Orleans</set>Ã© uma cidade localizada no Louisiana.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A NOVA CALEDÃ&#147;NIA,*,*,Oceania#Comma ilhas no sul do Oceano PacÃ­fico#Comma ao leste da AustrÃ¡lia.<think><set name="it"><set name="topic">Nova CaledÃ´nia</set></set></think>,pt-pt-geography.aiml
+0,TENNESSEE ONDE Ã&#137,*,*,<set name="it">Tennessee</set>Ã© no sul dos Estados Unidos...,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O RIO,*,*,<set name="it"><set name="topic">RIO</set></set>Ã© uma grande cidade no Brasil,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O MÃ&#147;NACO,*,*,Europa Ocidental#Comma na fronteira com o mar MediterrÃ¢neo#Comma na costa sul da FranÃ§a#Comma perto da fronteira com a ItÃ¡lia.<think><set name="it"><set name="topic">Monaco</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O KUWAIT,*,*,<set name="it"><set name="topic">Kuaite</set></set>Ã© um pequeno paÃ­s no Golfo PÃ©rsico.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O MINNESOTA,*,*,<set name="it"><set name="topic">MINNESOTA</set></set>Ã© na fronteira norte dos Estados Unidos#Comma entre o Wisconsin e Dakota do Norte.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ILHA TROMELIN,*,*,Ã&#129;frica do Sul#Comma ilha no Oceano Ã&#141;ndico#Comma a leste de Madagascar.<think><set name="it"><set name="topic">Tromelin island</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O TURKS AND CAICOS ISLANDS,*,*,Caribe#Comma dois ilha grupos no norte do Oceano AtlÃ¢ntico#Comma a sudeste de Bahamas.<think><set name="it"><set name="topic">Ilhas Turks e caicos</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A MOSCOU,*,*,<set name="it">Moscovo</set>Ã© uma cidade da RÃºssia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; AS ILHAS FAROÃ&#137,*,*,Norte da Europa#Comma grupo de ilhas entre o mar da Noruega e do norte do Oceano AtlÃ¢ntico#Comma cerca de metade do caminho da IslÃ¢ndia#Comma a Noruega.<think><set name="it"><set name="topic">Ilhas FaroÃ©s</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A COLÃ&#148;MBIA,*,*,<set name="it"><set name="topic">ColÃ´mbia</set></set>Ã© um paÃ­s da AmÃ©rica do Sul.,pt-pt-geography.aiml
+0,ONDE FICA GUAM,*,*,Oceania#Comma ilha no Oceano PacÃ­fico Norte#Comma cerca de trÃªs quartos do caminho do HavaÃ­ para as Filipinas.<think><set name="it"><set name="topic">Guam</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A HONG KONG,*,*,<set name="it">Hong Kong</set>Ã© uma cidade na China.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O AFEGANISTÃ&#131;O,*,*,Sul da Ã&#129;sia#Comma ao norte do PaquistÃ£o.<think><set name="it"><set name="topic">AfeganistÃ£o</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O COTE D IVOIRE,*,*,Ã&#129;frica Ocidental#Comma na fronteira com o Oceano AtlÃ¢ntico Norte#Comma entre Gana e LibÃ©ria.<think><set name="it"><set name="topic">Costa do Marfim</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O TOGO,*,*,Ã&#129;frica Ocidental#Comma na fronteira com o Oceano AtlÃ¢ntico Norte#Comma entre Benin e Gana.<think><set name="it"><set name="topic">Togo</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; AS ILHAS CAYMAN,*,*,Caribe#Comma grupo de ilhas no mar do Caribe#Comma quase a metade do caminho de Cuba para Honduras.<think><set name="it"><set name="topic">Ilhas Cayman</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O UGANDA,*,*,Ã&#129;frica Oriental#Comma ao oeste do QuÃªnia.<think><set name="it"><set name="topic">Uganda</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A REPÃ&#154;BLICA CENTRO-AFRICANA,*,*,Ã&#129;frica Central#Comma ao norte do Zaire.<think><set name="it"><set name="topic">RepÃºblica Centro-Africana</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O GANA,*,*,<set name="it"><set name="topic">GANA</set></set>Ã© um paÃ­s da Ã&#129;frica Ocidental.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O TROY,*,*,<set name="it"><set name="topic">TROY</set></set>Ã© uma cidade em Nova York.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O GUADALUPE,*,*,Caribe#Comma ilhas no mar do Caribe Oriental#Comma sudeste de Porto Rico.<think><set name="it"><set name="topic">Guadalupe</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A SAMOA AMERICANA,*,*,Oceania#Comma grupo de ilhas no Oceano PacÃ­fico Sul#Comma cerca de metade do caminho do HavaÃ­ Ã  Nova ZelÃ¢ndia.<think><set name="it"><set name="topic">samoa americana</set></set></think>,pt-pt-geography.aiml
+0,ONDE Ã&#137; * CALIFÃ&#147;RNIA,*,*,Em algum lugar na CalifÃ³rnia#Comma eu presumo?,pt-pt-geography.aiml
+0,ONDE Ã&#137; * VIRGINIA,*,*,Hum#Comma na Virgina#Comma em algum lugar?,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O MANHATTAN,*,*,<set name="it">Manhattan</set>Ã© o centro de ilha de New York City.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; SEUL,*,*,Ã&#137; a capital da Coreia do Sul.<think><set name="it"><set name="topic">Seul</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ATLANTA,*,*,Ã&#137; a capital da GeÃ³rgia.<think><set name="it"><set name="topic">Atlanta</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O MÃ&#137;XICO,*,*,MÃ©xico: tÃ£o longe de Deus#Comma tÃ£o perto dos Estados Unidos.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O PORTO RICO,*,*,Caribe#Comma ilha#Comma entre o mar das CaraÃ­bas e o Oceano AtlÃ¢ntico Norte#Comma leste da RepÃºblica Dominicana.<think><set name="it"><set name="topic">Porto Rico</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O CÃ&#137;U,*,*,Ao redor de nÃ³s.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ILHA DA EUROPA,*,*,Ã&#129;frica do Sul#Comma ilha no canal de MoÃ§ambique#Comma cerca de metade do caminho de MadagÃ¡scar Sul ao sul de MoÃ§ambique.<think><set name="it"><set name="topic">Ilha Europa</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O MALDIVAS,*,*,Sul da Ã&#129;sia#Comma grupo de atÃ³is no Oceano Ã&#141;ndico#Comma ao sul-sudoeste da Ã&#141;ndia.<think><set name="it"><set name="topic">Maldivas</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ILHA DE CLIPPERTON,*,*,AmÃ©rica do meio#Comma atol no Oceano PacÃ­fico Norte#Comma 1.120 km a sudoeste do MÃ©xico.<think><set name="it"><set name="topic">Ilha de Clipperton</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O PERTH,*,*,<set name="it"><set name="topic">PERTH</set></set>Ã© uma cidade no oeste da AustrÃ¡lia.,pt-pt-geography.aiml
+0,ONDE Ã&#137; A AUSTRÃ&#129;LIA,*,*,<set name="it">AustrÃ¡lia</set>Ã© um grande ilha-continente do Sul hemishphere.,pt-pt-geography.aiml
+0,ONDE Ã&#137; A MACEDÃ&#147;NIA,*,*,<set name="it"><set name="topic">MACEDÃ&#147;NIA</set></set>Ã© uma naÃ§Ã£o pequena entre a GrÃ©cia e a SÃ©rvia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ESLOVÃ&#129;QUIA,*,*,Europa Central#Comma ao sul da PolÃ³nia.<think><set name="it"><set name="topic">EslovÃ¡quia</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O KINGMAN REEF,*,*,Oceania#Comma Recife no norte do Oceano PacÃ­fico#Comma cerca de metade do caminho do HavaÃ­ a Samoa americana.<think><set name="it"><set name="topic">Recife de Kingman</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ZIMBABWE,*,*,Ã&#129;frica do Sul#Comma nordeste de Botsuana.<think><set name="it"><set name="topic">ZimbÃ¡bue</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O TOKELAU,*,*,Oceania#Comma grupo de ilhas no Oceano PacÃ­fico Sul#Comma cerca de metade do caminho do HavaÃ­ Ã  Nova ZelÃ¢ndia.<think><set name="it"><set name="topic">Tokelau</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; MARTE,*,*,<set name="it"><set name="topic">MARTE</set></set>Ã© o quarto planeta do sol.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O BERKELEY,*,*,<set name="it"><set name="topic">BERKELEY</set></set>Ã© no norte da CalifÃ³rnia#Comma atravÃ©s da BaÃ­a de San Francisco.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O MAURÃ&#141;CIO,*,*,Ã&#129;frica do Sul#Comma ilha no Oceano Ã&#141;ndico#Comma a leste de Madagascar.<think><set name="it"><set name="topic">MaurÃ­cio</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A FLÃ&#147;RIDA,*,*,<set name="it"><set name="topic">FLORIDA</set></set>Ã© no sudeste dos Estados Unidos#Comma estendendo-se sobre uma grande penÃ­nsula.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A BÃ&#137;LGICA,*,*,<set name="it">BÃ©lgica</set>Ã© um paÃ­s da Europa Ocidental#Comma entre a FranÃ§a#Comma Alemanha e Holanda.,pt-pt-geography.aiml
+0,ONDE Ã&#137; MARROCOS,*,*,<set name="it"><set name="topic">Marrocos</set></set>Ã© uma naÃ§Ã£o no noroeste da Ã&#129;frica#Comma perto de Espanha.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; HOFFA,*,*,Nunca saberemos.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O LICHTENSTEIN,*,*,<set name="it"><set name="topic">LICHTENSTEIN</set></set>Ã© um pequeno paÃ­s na Europa central.,pt-pt-geography.aiml
+0,ONDE Ã&#137; A ESLOVÃ&#137;NIA,*,*,Sudeste da Europa#Comma fazendo fronteira com o mar AdriÃ¡tico#Comma entre a CroÃ¡cia e ItÃ¡lia.<think><set name="it"><set name="topic">EslovÃªnia</set></set></think>,pt-pt-geography.aiml
+0,ONDE FICA LISBOA,*,*,<set name="it">Lisboa</set>Ã© uma cidade em Portugal.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A MONTANA,*,*,<set name="it"><set name="topic">MONTANA</set></set>Ã© nos Estados Unidos noroeste entre os Dakotas e Idaho.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O PAÃ&#141;S DE GALES,*,*,<set name="it">PaÃ­s de Gales</set>estÃ¡ localizado em uma pequena ilha ao largo da costa da Europa.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A MONGÃ&#147;LIA,*,*,<set name="it"><set name="topic">MongÃ³lia</set></set>Ã© na Ã&#129;sia central#Comma entre a SibÃ©ria russa e a China.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A COREIA DO NORTE,*,*,Leste da Ã&#129;sia#Comma metade norte da penÃ­nsula coreana#Comma na fronteira com a BaÃ­a da Coreia e o mar do JapÃ£o#Comma entre a China e Coreia do Sul.<think><set name="it"><set name="topic">Coreia#Comma norte</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O BANGLADESH,*,*,<set name="it"><set name="topic">BANGLADESH</set></set>Ã© parte do subcontinente indiano#Comma no lado oriental.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O SANTOS,*,*,<set name="it"><set name="topic">SALEM</set></set>Ã© uma cidade em Massachusetts.,pt-pt-geography.aiml
+0,ONDE Ã&#137; ARCTURUS,*,*,<set name="it"><set name="topic">ARCTURUS</set></set>Ã© uma estrela muito longe daqui.,pt-pt-geography.aiml
+0,ONDE Ã&#137; A SÃ&#137;RVIA,*,*,<set name="it"><set name="topic">SÃ©rvia e Montenegro</set></set>Ã© o restante territÃ³rio da ex-JugoslÃ¡via.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A SÃ&#137;RVIA E MONTENEGRO,*,*,Sudeste da Europa#Comma fazendo fronteira com o mar AdriÃ¡tico#Comma entre a AlbÃ¢nia e a BÃ³snia e Herzegovina.<think><set name="it"><set name="topic">SÃ©rvia e montenegro</set></set></think>,pt-pt-geography.aiml
+0,ONDE FICA O HAVAÃ&#141,*,*,<set name="it"><set name="topic">HAVAÃ&#141;</set></set>Ã© uma ilha no meio do Oceano PacÃ­fico.,pt-pt-geography.aiml
+0,ONDE FICA A AMÃ&#137;RICA,*,*,<set name="it">AmÃ©rica</set>poderia referir-se a norte e a AmÃ©rica do Sul#Comma ou para os Estados Unidos.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; AS ILHAS MARIANAS DO NORTE,*,*,Oceania#Comma ilhas no Oceano PacÃ­fico Norte#Comma cerca de trÃªs quartos do caminho do HavaÃ­ para as Filipinas.<think><set name="it"><set name="topic">Ilhas Marianas do Norte</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O CONGO,*,*,Ã&#129;frica Ocidental#Comma na fronteira com o Oceano AtlÃ¢ntico Sul#Comma entre Angola e GabÃ£o.<think><set name="it"><set name="topic">Congo</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O MALAWI,*,*,Ã&#129;frica do Sul#Comma leste de ZÃ¢mbia.<think><set name="it"><set name="topic">Malawi</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A BIELORRÃ&#154;SSIA,*,*,Europa Oriental#Comma leste da PolÃ´nia.<think><set name="it"><set name="topic">Belarus</set></set></think>,pt-pt-geography.aiml
+0,CADÃ&#138; LA,*,*,<set name="it"><set name="topic">LA</set></set>Ã© uma grande cidade no sul da CalifÃ³rnia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O GUERNSEY,*,*,Europa Ocidental#Comma Ilhas do canal da mancha#Comma noroeste da FranÃ§a.<think><set name="it"><set name="topic">Guernsey</set></set></think>,pt-pt-geography.aiml
+0,ONDE FICA ORLANDO,*,*,<set name="it">Orlando</set>Ã© uma cidade na regiÃ£o central da FlÃ³rida.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; CUBA,*,*,<set name="it"><set name="topic">CUBA</set></set>Ã© uma ilha ao largo da costa da FlÃ³rida.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O IRÃ&#131,*,*,<set name="it"><set name="topic">IrÃ£</set></set>Ã© no MÃ©dio Oriente#Comma no Golfo PÃ©rsico.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O KENTUCKY,*,*,<set name="it"><set name="topic">KENTUCKY</set></set>Ã© na margem sul do rio Ohio.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ILHA DE BOUVET,*,*,Ã&#129;frica do Sul#Comma ilha no Oceano AtlÃ¢ntico Sul#Comma sul-sudoeste de cabo da boa esperanÃ§a {Ã&#129;frica do Sul}.<think><set name="it"><set name="topic">Ilha Bouvet</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; URANO,*,*,<set name="it"><set name="topic">URANO</set></set>Ã© o sÃ©timo planeta do sol#Comma entre as Ã³rbitas de Saturno e Netuno.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O MICHIGAN,*,*,<set name="it"><set name="topic">MICHIGAN</set></set>Ã© um estado centro-oeste#Comma na regiÃ£o dos grandes lagos.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A PRÃ&#154;SSIA,*,*,Da Alemanha agora principalmente contida PolÃ³nia antiga.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O REENCONTRO,*,*,Ã&#129;frica do Sul#Comma ilha no Oceano Ã&#141;ndico#Comma a leste de Madagascar.<think><set name="it"><set name="topic">reuniÃ£o</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A GROENLÃ&#130;NDIA,*,*,Norte da AmÃ©rica do Norte#Comma ilha#Comma entre o Oceano Ã&#129;rtico e o Oceano AtlÃ¢ntico Norte#Comma nordeste do CanadÃ¡.<think><set name="it"><set name="topic">GronelÃ¢ndia</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A MALÃ&#129;SIA,*,*,<set name="it"><set name="topic">MalÃ¡sia</set></set>Ã© uma ilha no sudeste da Ã&#129;sia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A REALIDADE,*,*,<set name="it"><set name="topic">REALIDADE</set></set>Ã© em torno de nÃ³s#Comma supostamente.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O PAQUISTÃ&#131;O,*,*,<set name="it"><set name="topic">PAQUISTÃ&#131;O</set></set>Ã© parte do subcontinente indiano#Comma a fronteira da Ã&#141;ndia e AfeganistÃ£o.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A VIENA,*,*,<think><set name="it"><set name="topic">Viena</set></set></think>Ã&#137; a cidade capital da Ã&#129;ustria.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A MALTA,*,*,<set name="it"><set name="topic">Malta</set></set>Ã© uma ilha no mar MediterrÃ¢neo#Comma ao sul da SicÃ­lia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O MONTSERRAT,*,*,Ilha do Caribe#Comma no mar do Caribe#Comma a sudeste de Porto Rico.<think><set name="it"><set name="topic">Montserrat</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O MADRID,*,*,<set name="it">Madrid</set>Ã© uma cidade na Espanha.,pt-pt-geography.aiml
+0,CADÃ&#138; CANADÃ&#129,*,*,CanadÃ¡ ocupa a maior parte da AmÃ©rica do Norte.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O MONTEREY,*,*,Monterey#Comma CalifÃ³rnia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O MADRAS,*,*,<set name="it"><set name="topic">MADRAS</set></set>Ã© uma cidade da Ã&#141;ndia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ISLÃ&#130;NDIA,*,*,<set name="it"><set name="topic">IslÃ¢ndia</set></set>Ã© uma ilha no Oceano AtlÃ¢ntico Norte.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ESCÃ&#147;CIA,*,*,EscÃ³cia divide uma ilha com Inglaterra e paÃ­s de Gales#Comma ao largo da costa da Europa.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A SÃ&#131;O TOMÃ&#137; E PRÃ&#141;NCIPE,*,*,Na Ã&#129;frica Ocidental#Comma ilha no Oceano AtlÃ¢ntico#Comma straddling do Equador#Comma oeste de GabÃ£o.<think><set name="it"><set name="topic">SÃ£o TomÃ© e PrÃ­ncipe</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O MIAMI,*,*,<set name="it"><set name="topic">MIAMI</set></set>Ã© uma grande cidade na FlÃ³rida#Comma na costa do AtlÃ¢ntico Sul.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O NEPAL,*,*,<set name="it"><set name="topic">Nepal</set></set>Ã© uma naÃ§Ã£o montanhosa no sul da Ã&#129;sia#Comma entre a Ã&#141;ndia e o Tibete.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A BERLIM,*,*,<set name="it"><set name="topic">BERLIM</set></set>Ã© na Alemanha Oriental.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O NORDESTE,*,*,<set name="it"><set name="topic">NORDESTE</set></set>Ã© uma Universidade em Boston.,pt-pt-geography.aiml
+0,ONDE FICA A ETIÃ&#147;PIA,*,*,Ã&#129;frica Oriental#Comma a oeste de SomÃ¡lia.<think><set name="it"><set name="topic">EtiÃ³pia</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; PORTUGAL,*,*,<set name="it">Portugal</set>Ã© um paÃ­s da Europa Ocidental#Comma na PenÃ­nsula de Iberain.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O LUXEMBURGO,*,*,Europa Ocidental#Comma entre a FranÃ§a e a Alemanha.<think><set name="it"><set name="topic">Luxemburgo</set></set></think>,pt-pt-geography.aiml
+0,ONDE Ã&#137; A Ã&#129;REA 51,*,*,<think><set name="it"><set name="topic">Ã&#129;rea 51</set></set></think>Ã&#137; Ã¡rea de 50 a 52 da Ã¡rea.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ILHAS MARSHALL,*,*,Oceania#Comma grupo de atÃ³is e recifes no norte do Oceano PacÃ­fico#Comma cerca de metade do caminho do HavaÃ­ para Papua-Nova GuinÃ©.<think><set name="it"><set name="topic">Ilhas Marshall</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O RUANDA,*,*,<set name="it">Ruanda</set>Ã© um paÃ­s da Ã&#129;frica.,pt-pt-geography.aiml
+0,CADÃ&#138; O LINCOLN,*,*,<set name="it">Lincoln</set>Ã© uma cidade localizada no estado americano de Nebraska.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O OCEANO PACÃ&#141;FICO,*,*,corpo de Ã¡gua entre o hemisfÃ©rio ocidental#Comma Ã&#129;sia#Comma AustrÃ¡lia e AntÃ¡rtida.<think><set name="it"><set name="topic">Oceano PacÃ­fico</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; LONGE,*,*,<set name="it"><set name="topic">EM NENHUM LUGAR</set></set>Ã© nenhum onde.,pt-pt-geography.aiml
+0,ONDE FICA LAS VEGAS,*,*,<set name="it">Las Vegas</set>Ã© em Nevada.,pt-pt-geography.aiml
+0,ONDE Ã&#137; A PAPUA-NOVA GUINÃ&#137,*,*,Sudeste da Ã&#129;sia#Comma grupo de ilhas#Comma incluindo a metade oriental da ilha da Nova GuinÃ©#Comma entre o mar de Coral e o sul do Oceano PacÃ­fico#Comma ao leste da IndonÃ©sia.<think><set name="it"><set name="topic">Papua-Nova GuinÃ©</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O QATAR,*,*,Oriente MÃ©dio#Comma penÃ­nsula#Comma na fronteira com o Golfo PÃ©rsico e ArÃ¡bia Saudita.<think><set name="it"><set name="topic">Catar</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A BERMUDA,*,*,AmÃ©rica do Norte#Comma grupo de ilhas no Oceano AtlÃ¢ntico Norte#Comma leste da Carolina do Norte {EUA}.<think><set name="it"><set name="topic">Bermuda</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O BORNÃ&#137;U,*,*,<set name="it"><set name="topic">BORNEO</set></set>Ã© uma ilha na Ã&#129;sia#Comma dividida entre Maylasia e IndonÃ©sia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O KALAMAZOO,*,*,<set name="it"><set name="topic">KALAMAZOO</set></set>Ã© uma cidade em Michigan.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O TEXAS,*,*,<set name="it">Texas</set>Ã© na regiÃ£o centro-sul dos Estados Unidos.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A POLINÃ&#137;SIA FRANCESA,*,*,Oceania#Comma arquipÃ©lago no Oceano PacÃ­fico Sul#Comma cerca de metade do caminho da AmÃ©rica do Sul para a AustrÃ¡lia.<think><set name="it"><set name="topic">PolinÃ©sia francesa</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O LIECHTENSTEIN,*,*,Europa Central#Comma entre a Ã&#129;ustria e a SuÃ­Ã§a.<think><set name="it"><set name="topic">Liechtenstein</set></set></think>,pt-pt-geography.aiml
+0,ONDE FICA O LESOTO,*,*,Ã&#129;frica do Sul#Comma um enclave da Ã&#129;frica do Sul.<think><set name="it"><set name="topic">Lesoto</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O MARYLAND,*,*,<set name="it"><set name="topic">MARYLAND</set></set>Ã© um estado da costa leste#Comma entre Delaware e VirgÃ­nia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O COPENHAGA,*,*,<set name="it">Copenhaga</set>Ã© uma cidade na Dinamarca.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O BRISBANE,*,*,Que Ã© uma cidade na CalifÃ³rnia?,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O MALVINAS,*,*,Sul da AmÃ©rica do Sul#Comma ilhas no Oceano AtlÃ¢ntico Sul#Comma leste do Sul da Argentina.<think><set name="it"><set name="topic">Ilhas Falkland ilhas malvinas}</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A GEÃ&#147;RGIA,*,*,<set name="it"><set name="topic">GeÃ³rgia</set></set>Ã© um estado do Sul#Comma no Oceano AtlÃ¢ntico#Comma ao norte da FlÃ³rida.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A CIDADE DE LAGO DE SAL,*,*,<set name="it">Salt Lake City</set>Ã© uma cidade em Utah.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O COPENHAGA *,*,*,<set name="it">Copenhaga</set>Ã© uma cidade na Dinamarca.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O QUIRGUISTÃ&#131;O,*,*,Ã&#129;sia Central#Comma oeste da China.<think><set name="it"><set name="topic">QuirguistÃ£o</set></set></think>,pt-pt-geography.aiml
+0,ONDE Ã&#137; A ROMÃ&#137;NIA,*,*,Sudeste da Europa#Comma fazendo fronteira com o mar Negro#Comma entre a BulgÃ¡ria e a UcrÃ¢nia.<think><set name="it"><set name="topic">RomÃªnia</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O DALLAS,*,*,<set name="it"><set name="topic">DALLAS</set></set>Ã© uma grande cidade no Texas.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A TUNÃ&#141;SIA,*,*,Norte da Ã&#129;frica#Comma na fronteira com o mar MediterrÃ¢neo#Comma entre a ArgÃ©lia e a LÃ­bia.<think><set name="it"><set name="topic">TunÃ­sia</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O TONGA,*,*,Oceania#Comma arquipÃ©lago no Oceano PacÃ­fico Sul#Comma cerca de dois terÃ§os do caminho do HavaÃ­ Ã  Nova ZelÃ¢ndia.<think><set name="it"><set name="topic">Tonga</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A FAIXA DE GAZA,*,*,MÃ©dio Oriente#Comma na fronteira com o mar MediterrÃ¢neo#Comma entre Egito e Israel.<think><set name="it"><set name="topic">faixa de Gaza</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ALASCA,*,*,<set name="it">Alasca</set>estÃ¡ no canto noroeste da AmÃ©rica do Norte#Comma entre a RÃºssia e CanadÃ¡.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A GUIANA FRANCESA,*,*,Norte da AmÃ©rica do Sul#Comma na fronteira com o Oceano AtlÃ¢ntico Norte#Comma entre o Brasil e Suriname.<think><set name="it"><set name="topic">guiana francesa</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; OS FRANCESES DO SUL E ANTÃ&#129;RTICA,*,*,Ã&#129;frica do Sul#Comma ilhas no Oceano Ã&#141;ndico Sul#Comma sobre equidistante entre Ã&#129;frica#Comma AntÃ¡rtica e AustrÃ¡lia; Nota - franceses do Sul e AntÃ¡rtica inclui Ile Amsterdam#Comma Ile Saint-Paul#Comma Iles Crozet e Iles Kerguelen#Comma no Oceano Ã&#141;ndico Sul#Comma juntamente com o sector francÃªs afirmou da AntÃ¡rtica#Comma \"Terra AdÃ©lia\"; os Estados Unidos nÃ£o reconhecem a reivindicaÃ§Ã£o francesa \"Adelie Land\".<think><set name="it"><set name="topic">francÃªs terras do Sul e AntÃ¡rticas</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A TANZÃ&#130;NIA,*,*,Ã&#129;frica Oriental#Comma na fronteira com o Oceano Ã&#141;ndico#Comma entre o QuÃªnia e MoÃ§ambique.<think><set name="it"><set name="topic">TanzÃ¢nia</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; ELE,*,*,Depende de que \"ele\" se refere a.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O CALGARY,*,*,<set name="it"><set name="topic">CALGARY</set></set>Ã© uma cidade de Alberta#Comma canelas.,pt-pt-geography.aiml
+0,CADÃ&#138; A FRANÃ&#135;A,*,*,<set name="it">FranÃ§a</set>Ã© um paÃ­s entre Alemanha e Espanha.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O DELI,*,*,<set name="it"><set name="topic">DELI</set></set>Ã© uma grande cidade na Ã&#141;ndia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ARIZONA,*,*,<set name="it"><set name="topic">ARIZONA</set></set>Ã© nos Estados Unidos ocidental Sul#Comma na fronteira com a CalifÃ³rnia#Comma Nevada#Comma Utah e Novo MÃ©xico.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O IÃ&#138;MEN,*,*,MÃ©dio Oriente#Comma na fronteira com o Mar ArÃ¡bico#Comma o Golfo de Aden e o mar vermelho#Comma entre OmÃ£ e a ArÃ¡bia Saudita.<think><set name="it"><set name="topic">IÃªmen</set></set></think>,pt-pt-geography.aiml
+0,CADÃ&#138; FRESNO,*,*,<set name="it">Fresno</set>Ã© uma pequena cidade na CalifÃ³rnia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ATLANTIS,*,*,<set name="it">Atlantis</set>pode nunca ter existido.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O PARAGUAI,*,*,Central AmÃ©rica do Sul#Comma nordeste da Argentina.<think><set name="it"><set name="topic">Paraguai</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A GUINÃ&#137,*,*,Ã&#129;frica Ocidental#Comma na fronteira com o Oceano AtlÃ¢ntico Norte#Comma entre a GuinÃ©-Bissau e Serra Leoa.<think><set name="it"><set name="topic">GuinÃ©</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A GUINÃ&#137;-BISSAU,*,*,Ã&#129;frica Ocidental#Comma na fronteira com o Oceano AtlÃ¢ntico Norte#Comma entre a GuinÃ© e Senegal.<think><set name="it"><set name="topic">GuinÃ©-Bissau</set></set></think>,pt-pt-geography.aiml
+0,ONDE FICA A LÃ&#141;BIA,*,*,Norte da Ã&#129;frica#Comma na fronteira com o mar MediterrÃ¢neo#Comma entre o Egito e TunÃ­sia.<think><set name="it"><set name="topic">LÃ­bia</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A MOÃ&#135;AMBIQUE,*,*,Ã&#129;frica do Sul#Comma na fronteira com o canal de MoÃ§ambique#Comma entre Ã&#129;frica do Sul e TanzÃ¢nia.<think><set name="it"><set name="topic">MoÃ§ambique</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A GUATEMALA,*,*,<set name="it">Guatamala</set>Ã© um paÃ­s da AmÃ©rica central.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O OUVIDO DA ILHA E DAS ILHAS MCDONALD,*,*,Ã&#129;frica do Sul#Comma ilhas no Oceano Ã&#141;ndico#Comma cerca de dois terÃ§os do caminho de MadagÃ¡scar para a AntÃ¡rtica.<think><set name="it"><set name="topic">Ilha Heard e Ilhas mcdonald</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A SÃ&#141;RIA,*,*,MÃ©dio Oriente#Comma na fronteira com o mar MediterrÃ¢neo#Comma entre o LÃ­bano e Turquia.<think><set name="it"><set name="topic">SÃ­ria</set></set></think>,pt-pt-geography.aiml
+0,ONDE Ã&#137; A SANTA SÃ&#137,*,*,Sul da Europa#Comma um enclave de Roma {ItÃ¡lia}.<think><set name="it"><set name="topic">Santa SÃ© {cidade do Vaticano}</set></set></think>,pt-pt-geography.aiml
+0,QUE Ã&#137; O AUSTIN,*,*,<set name="it">Austin</set>Ã© uma cidade no Texas.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ADELAIDE,*,*,<set name="it"><set name="topic">ADELAIDE</set></set>Ã© uma cidade no sul da AustrÃ¡lia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ALEMANHA,*,*,<set name="it">Alemanha</set>Ã© um paÃ­s no meio da Europa.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ESTÃ&#147;NIA,*,*,Europa Oriental#Comma na fronteira com o mar BÃ¡ltico e o Golfo da FinlÃ¢ndia#Comma entre a LetÃ´nia e a RÃºssia.<think><set name="it"><set name="topic">EstÃ´nia</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; ANDORRA,*,*,Europa do sudoeste#Comma entre FranÃ§a e Espanha.<think><set name="it"><set name="topic">Andorra</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O OXFORD,*,*,<set name="it"><set name="topic">OXFORD</set></set>Ã© uma Universidade na Inglaterra.  TambÃ©m Ã© uma pequena cidade em Maine e em muitos outros Estados u. s..,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ILHA DE NAVASSA,*,*,Ilha do Caribe#Comma no mar do Caribe#Comma cerca de um quarto do caminho do Haiti para a Jamaica.<think><set name="it"><set name="topic">Ilha Navassa</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ALABAMA,*,*,<set name="it"><set name="topic">ALABAMA</set></set>Ã© um estado do Sul entre o rio Mississippi e GeÃ³rgia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; VANCOUVER,*,*,Vancouver#Comma BC#Comma CanadÃ¡#Comma ou Vancouver#Comma Washington?,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O POLARIS,*,*,<set name="it"><set name="topic">POLARIS</set></set>Ã© a estrela do Norte.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A BOLÃ&#141;VIA,*,*,<set name="it"><set name="topic">BolÃ­via</set></set>Ã© um paÃ­s sem litoral da AmÃ©rica do Sul#Comma,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O URUGUAI,*,*,Sul da AmÃ©rica do Sul#Comma na fronteira com o Oceano AtlÃ¢ntico Sul#Comma entre Argentina e Brasil.<think><set name="it"><set name="topic">Uruguai</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O CAMBOJA,*,*,Sudeste AsiÃ¡tico#Comma fazendo fronteira com o Golfo da TailÃ¢ndia#Comma entre TailÃ¢ndia e Vietname.<think><set name="it"><set name="topic">Camboja</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O MARTINICA,*,*,<set name="it"><set name="topic">MARTINICA</set></set>Ã© no Caribe#Comma parte da cadeia de sotavento e barlavento da ilha.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O BARBADOS,*,*,Caribe#Comma ilha#Comma entre o mar das CaraÃ­bas e o Oceano AtlÃ¢ntico Norte#Comma a nordeste da Venezuela.<think><set name="it"><set name="topic">Barbados</set></set></think>,pt-pt-geography.aiml
+0,ONDE FICA A SOMÃ&#129;LIA,*,*,Ã&#129;frica Oriental#Comma na fronteira com o Golfo de Aden e Oceano Ã&#141;ndico#Comma a leste da EtiÃ³pia.<think><set name="it"><set name="topic">SomÃ¡lia</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O CORNWALL,*,*,<set name="it"><set name="topic">CORNWALL</set></set>Ã© uma cidade na Inglaterra.,pt-pt-geography.aiml
+0,ONDE Ã&#137; JULIA,*,*,Eu nÃ£o acho que ela estÃ¡ online agora.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A CALIFÃ&#147;RNIA,*,*,<set name="it">CalifÃ³rnia</set>Ã© na costa do PacÃ­fico da AmÃ©rica do Norte.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O SVALBARD,*,*,Norte da Europa#Comma ilhas entre o Oceano Ã&#129;rtico#Comma mar de Barents#Comma mar da GroenlÃ¢ndia e mar da Noruega#Comma ao norte da Noruega.<think><set name="it"><set name="topic">Svalbard</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O NEWARK,*,*,<set name="it">Newark</set>estÃ¡ localizado no nordeste dos Estados Unidos.,pt-pt-geography.aiml
+0,ONDE Ã&#137; A LOS ANGELES,*,*,<set name="it">Los Angeles</set>Ã© uma cidade na CalifÃ³rnia.,pt-pt-geography.aiml
+0,CADÃ&#138; O PERU,*,*,<set name="it">Peru</set>Ã© um paÃ­s da AmÃ©rica do Sul.,pt-pt-geography.aiml
+0,ONDE FICA A JORDÃ&#130;NIA,*,*,Oriente MÃ©dio#Comma noroeste da ArÃ¡bia Saudita.<think><set name="it"><set name="topic">JordÃ¢nia</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A NORUEGA,*,*,<set name="it">Noruega</set>Ã© um paÃ­s no norte da Europa#Comma faz fronteira com SuÃ©cia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O PITTSBURGH,*,*,<set name="it"><set name="topic">PITTSBURGH</set></set>Ã© uma grande cidade no oeste da PensilvÃ¢nia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A NICARÃ&#129;GUA,*,*,AmÃ©rica do meio#Comma na fronteira com o mar do Caribe e norte do Oceano PacÃ­fico#Comma entre a Costa Rica e Honduras.<think><set name="it"><set name="topic">NicarÃ¡gua</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O FIJI,*,*,Oceania#Comma grupo de ilhas no Oceano PacÃ­fico Sul#Comma cerca de dois terÃ§os do caminho do HavaÃ­ Ã  Nova ZelÃ¢ndia.<think><set name="it"><set name="topic">Fiji</set></set></think>,pt-pt-geography.aiml
+0,ONDE Ã&#137; A LITUÃ&#130;NIA,*,*,Europa Oriental#Comma na fronteira com o mar BÃ¡ltico#Comma entre a LetÃ´nia e a RÃºssia.<think><set name="it"><set name="topic">LituÃ¢nia</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O TURQUEMENISTÃ&#131;O,*,*,Ã&#129;sia Central#Comma fazendo fronteira com o mar CÃ¡spio#Comma entre o IrÃ£ e o CazaquistÃ£o.<think><set name="it"><set name="topic">TurcomenistÃ£o</set></set></think>,pt-pt-geography.aiml
+0,ONDE Ã&#137; A HOLANDA,*,*,Europa Ocidental#Comma na fronteira com o mar do Norte#Comma entre a BÃ©lgica e Alemanha.<think><set name="it"><set name="topic">PaÃ­ses Baixos</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ANTILHAS HOLANDESAS,*,*,Caribe#Comma dois ilha grupos no mar do Caribe - um inclui CuraÃ§ao e Bonaire ao norte da Venezuela e o outro Ã© o leste das Ilhas Virgens.<think><set name="it"><set name="topic">Antilhas Holandesas</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O BILBAO,*,*,<set name="it"><set name="topic">BILBAO</set></set>Ã© uma cidade na costa norte de Espanha.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; AQUI,*,*,Aqui estÃ¡ <bot name="location"/>.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A NAMÃ&#141;BIA,*,*,Ã&#129;frica do Sul#Comma na fronteira com o Oceano AtlÃ¢ntico Sul#Comma entre Angola e Ã&#129;frica do Sul.<think><set name="it"><set name="topic">NamÃ­bia</set></set></think>,pt-pt-geography.aiml
+0,ONDE Ã&#137; DUSSELDORF,*,*,<set name="it"><set name="topic">DÃ&#156;SSELDORF</set></set>Ã© uma grande cidade no oeste da Alemanha.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O MUSEU DO LOUVRE,*,*,Paris.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ILHA DE MAN,*,*,Europa Ocidental#Comma ilha no mar da Irlanda#Comma entre a GrÃ£-Bretanha e Irlanda.<think><set name="it"><set name="topic">Man#Comma ilha de</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O BAHAMAS,*,*,Caribe#Comma Cadeia de ilhas no Oceano AtlÃ¢ntico Norte#Comma sudeste da FlÃ³rida.<think><set name="it"><set name="topic">bahamas</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A LUA,*,*,<set name="it"><set name="topic">A lua</set></set>Ã³rbitas ao redor da terra.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O AEROPORTO,*,*,Ã&#137; onde os aviÃµes da terra.<think><set name="it"><set name="topic">Aeroporto</set></set></think>,pt-pt-geography.aiml
+0,ONDE FICA O BANHEIRO,*,*,Siga o encanamento.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O CENTRO,*,*,Depende do quadro de coordenadas.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ROBÃ&#148,*,*,O robÃ´ Ã© aqui no seu computador.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ARUBA,*,*,<set name="it"><set name="topic">ARUBA</set></set>Ã© uma ilha das Antilhas#Comma perto de AmÃ©rica do Sul.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A AMÃ&#137;RICA DO NORTE,*,*,AmÃ©rica do Norte ocupa o mais a norte do hemisfÃ©rio da terra#Comma desde o estreito de Bering para Labrador norther.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O GAMBIA,*,*,Ã&#129;frica Ocidental#Comma na fronteira com o Oceano AtlÃ¢ntico Norte e Senegal.<think><set name="it"><set name="topic">GÃ¢mbia</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O SOL,*,*,Ã&#137; o centro do sistema solar.<think><set name="it"><set name="topic">SOL</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O OKLAHOMA,*,*,<set name="it">Oklahoma</set>Ã© o centro-oeste United States.W,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O OHIO,*,*,<set name="it"><set name="topic">OHIO</set></set>Ã© no meio-oeste norte-americano#Comma entre PensilvÃ¢nia e Indiana.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ZÃ&#130;MBIA,*,*,Ã&#129;frica do Sul#Comma leste de Angola.<think><set name="it"><set name="topic">ZÃ¢mbia</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A BÃ&#147;SNIA E HERZEGOVINA,*,*,Sudeste da Europa#Comma fazendo fronteira com o mar AdriÃ¡tico e a CroÃ¡cia.<think><set name="it"><set name="topic">BÃ³snia e Herzegovina</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O SACRAMENTO,*,*,<set name="it">Sacramento</set>Ã© uma cidade na CalifÃ³rnia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O CAMARÃ&#149;ES,*,*,Ã&#129;frica Ocidental#Comma na fronteira com o Oceano AtlÃ¢ntico Norte#Comma entre a GuinÃ© Equatorial e NigÃ©ria.<think><set name="it"><set name="topic">CamarÃµes</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O HADES,*,*,<set name="it"><set name="topic">HADES</set></set>Ã© o inferno.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O VIRGINIA,*,*,<set name="it">Virginia</set>Ã© no leste dos Estados Unidos.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; WASHINGTON,*,*,<set name="it"><set name="topic">WASHINGTON</set></set>Ã© um estado no canto noroeste dos EUA.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O CORAÃ&#135;Ã&#131;O,*,*,O coraÃ§Ã£o Ã© o centro das coisas.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O BRUNEI,*,*,Sudeste AsiÃ¡tico#Comma fazendo fronteira com o mar do Sul da China e da MalÃ¡sia.<think><set name="it"><set name="topic">Brunei</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O KIRIBATI,*,*,Oceania#Comma grupo de ilhas no Oceano PacÃ­fico#Comma o Equador e a linha internacional de data#Comma cerca de metade do caminho do HavaÃ­ para a AustrÃ¡lia.<think><set name="it"><set name="topic">Kiribati</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ESPAÃ&#135;O,*,*,<set name="it"><set name="topic">ESPAÃ&#135;O</set></set>Ã© em torno de nÃ³s.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O IDAHO,*,*,<set name="it">Idaho</set>Ã© o oeste dos Estados Unidos.,pt-pt-geography.aiml
+0,ONDE Ã&#137; ISTAMBUL,*,*,<set name="it">Istambul</set>Ã© uma cidade da Turquia#Comma antiga Constantinopla.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; MEU CARRO,*,*,VocÃª jÃ¡ olhou em sua garagem?,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O SPRATLY ISLANDS,*,*,Sudeste da Ã&#129;sia#Comma grupo de recifes no mar da China Meridional#Comma cerca de dois terÃ§os do caminho do VietnÃ£ do Sul ao sul das Filipinas.<think><set name="it"><set name="topic">Ilhas Spratly</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O QUEIJO CHEDDAR,*,*,Inglaterra.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O CANBERRA,*,*,<set name="it"><set name="topic">CANBERRA</set></set>Ã© uma cidade na AustrÃ¡lia#Comma entre Sydney e Melbourne.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O TÃ&#147;QUIO,*,*,<set name="it">TÃ³quio</set>Ã© uma cidade no JapÃ£o.,pt-pt-geography.aiml
+0,ONDE Ã&#137; O IRAQUE,*,*,<set name="it"><set name="topic">Iraque</set></set>Ã© no MÃ©dio Oriente#Comma no Golfo PÃ©rsico.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A TRINIDAD E TOBAGO,*,*,Caribe#Comma ilhas entre o mar das CaraÃ­bas e o Oceano AtlÃ¢ntico Norte#Comma a nordeste da Venezuela.<think><set name="it"><set name="topic">Trinidad e Tobago</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ILHAS GLORIOSAS,*,*,Ã&#129;frica do Sul#Comma grupo de ilhas no Oceano Ã&#141;ndico#Comma a noroeste de Madagascar.<think><set name="it"><set name="topic">Ilhas gloriosas</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O FRANKFURT,*,*,<set name="it"><set name="topic">FRANKFURT</set></set>Ã© uma grande cidade no oeste da Alemanha.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ARKANSAS,*,*,<set name="it"><set name="topic">ARKANSAS</set></set>Ã© um estado meridional na margem ocidental do Rio Missisipi.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A GRÃ&#131;-BRETANHA,*,*,Em uma ilha ao largo da costa da Europa.<think><set name="it"><set name="topic">GrÃ£-Bretanha</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A TRINDADE,*,*,<set name="it"><set name="topic">TRINIDAD</set></set>Ã© uma naÃ§Ã£o insular nas Antilhas.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A BIRMÃ&#130;NIA,*,*,Sudeste AsiÃ¡tico#Comma fazendo fronteira com o mar de AndamÃ£o e a BaÃ­a de Bengala#Comma entre Bangladesh e a TailÃ¢ndia.<think><set name="it"><set name="topic">BirmÃ¢nia</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A TAILÃ&#130;NDIA,*,*,<set name="it"><set name="topic">TailÃ¢ndia</set></set>Ã© no sudeste da Ã&#129;sia#Comma entre a BirmÃ¢nia e Camboja.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A PALESTINA,*,*,<set name="it"><set name="topic">PALESTINA</set></set>Ã© o antigo nome para Israel#Comma ou o novo nome para o Estado dentro de Israel.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; OS EUA,*,*,<set name="it"><set name="topic">ESTADOS UNIDOS DA AMÃ&#137;RICA</set></set>Ã© na AmÃ©rica do Norte#Comma entre o CanadÃ¡ e MÃ©xico.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ILHAS ASHMORE E CARTIER,*,*,Sudeste da Ã&#129;sia#Comma ilhas no Oceano Ã&#141;ndico#Comma a noroeste da AustrÃ¡lia.<think><set name="it"><set name="topic">Ilhas Ashmore e cartier</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ALAMO,*,*,<set name="it"><set name="topic">ALAMO</set></set>Ã© em San Antonio#Comma Texas.,pt-pt-geography.aiml
+0,ONDE FICA HOLLYWOOD,*,*,<set name="it">Hollywood</set>Ã© uma pequena parte de Los Angeles#Comma CalifÃ³rnia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O LAOS,*,*,Sudeste da Ã&#129;sia#Comma nordeste da TailÃ¢ndia.<think><set name="it"><set name="topic">Laos</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O JAKARTA,*,*,Jacarta#Comma IndonÃ©sia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O NEBRASKA,*,*,<set name="it"><set name="topic">NEBRASKA</set></set>Ã© na margem oeste do Rio Missouri#Comma entre South Dakota e Kansas.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O CARNEGIE MELLON,*,*,Situa-se a Universidade Carnegie Mellon em Pittsburgh#Comma PensilvÃ¢nia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A EUROPA,*,*,A Europa estÃ¡ entre a Ã&#129;sia e a AmÃ©rica.,pt-pt-geography.aiml
+0,ONDE Ã&#137; A ANTÃ&#129;RTIDA,*,*,<set name="it"><set name="topic">ANTÃ&#129;RTICA</set></set>Ã© o continente no PÃ³lo Sul.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A SUAZILÃ&#130;NDIA,*,*,Ã&#129;frica do Sul#Comma entre MoÃ§ambique e Ã&#129;frica do Sul.<think><set name="it"><set name="topic">SuazilÃ¢ndia</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A REPÃ&#154;BLICA CHECA,*,*,Europa Central#Comma sudeste da Alemanha.<think><set name="it"><set name="topic">RepÃºblica Tcheca</set></set></think>,pt-pt-geography.aiml
+0,ONDE Ã&#137; UTOPIA,*,*,<set name="it"><set name="topic">UTOPIA</set></set>Ã© em torno de nÃ³s#Comma se nÃ³s fazÃª-lo.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O PHOENIX,*,*,<set name="it"><set name="topic">PHOENIX</set></set>Ã© uma grande cidade no Arizona.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O BERGEN,*,*,<set name="it"><set name="topic">BERGEN</set></set>Ã© uma cidade na Alemanha e tambÃ©m na Noruega.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O SENEGAL,*,*,Ã&#129;frica Ocidental#Comma na fronteira com o Oceano AtlÃ¢ntico Norte#Comma entre a GuinÃ©-Bissau e MauritÃ¢nia.<think><set name="it"><set name="topic">Senegal</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O JAN MAYEN,*,*,Europa do Norte#Comma ilha#Comma entre o mar da GroenlÃ¢ndia e o mar da Noruega#Comma nordeste da IslÃ¢ndia.<think><set name="it"><set name="topic">Jan mayen</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O PHILADELPHIA,*,*,<set name="it"><set name="topic">PHILADELPHIA</set></set>Ã© uma grande cidade na PensilvÃ¢nia do sudeste#Comma entre Nova York e Washington#Comma D. C.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A BUDAPESTE,*,*,<set name="it"><set name="topic">BUDAPESTE</set></set>Ã© uma cidade na Hungria#Comma no Rio DanÃºbio.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A TURQUIA,*,*,<set name="it"><set name="topic">Turquia</set></set>Ã© no sudoeste da Ã&#129;sia#Comma entre a Europa e o Oriente MÃ©dio e guardando o mar Negro da RÃºssia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O NIUE,*,*,Oceania#Comma ilha no Oceano PacÃ­fico Sul#Comma a leste de Tonga.<think><set name="it"><set name="topic">Niue</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O BRASIL,*,*,O Brasil Ã© na AmÃ©rica do Sul.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O NÃ&#141;GER,*,*,Na Ã&#129;frica Ocidental#Comma sudeste da ArgÃ©lia.<think><set name="it"><set name="topic">NÃ­ger</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O CHARLOTTE,*,*,<set name="it"><set name="topic">CHARLOTTE</set></set>Ã© na Carolina do Norte.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A CISJORDÃ&#130;NIA,*,*,Oriente MÃ©dio#Comma oeste da JordÃ¢nia.<think><set name="it"><set name="topic">CisjordÃ¢nia</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O BURKINA FASO,*,*,Ã&#129;frica Ocidental#Comma ao norte de Gana.<think><set name="it"><set name="topic">Burkina faso</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ANGUILLA,*,*,Ilha do Caribe#Comma no mar do Caribe#Comma a leste de Porto Rico.<think><set name="it"><set name="topic">Anguilla</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O EDMONTON,*,*,<set name="it"><set name="topic">EDMONTON</set></set>Ã© uma grande cidade em Alberta.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A MONTREAL,*,*,<set name="it">Montreal</set>Ã© uma cidade no CanadÃ¡.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O VOYAGER,*,*,<set name="it"><set name="topic">VOYAGER</set></set>estÃ¡ perdido no quadrante Delta.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ILHA HOWLAND,*,*,Oceania#Comma ilha no Oceano PacÃ­fico Norte#Comma cerca de metade do caminho do HavaÃ­ para a AustrÃ¡lia.<think><set name="it"><set name="topic">ilha Howland</set></set></think>,pt-pt-geography.aiml
+0,ONDE Ã&#137; A NIGÃ&#137;RIA,*,*,Ã&#129;frica Ocidental#Comma na fronteira com o Golfo da GuinÃ©#Comma entre Benin e CamarÃµes.<think><set name="it"><set name="topic">NigÃ©ria</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A CROÃ&#129;CIA,*,*,<set name="it"><set name="topic">CroÃ¡cia</set></set>faz parte da antiga JugoslÃ¡via#Comma tambÃ©m na fronteira com a Hungria.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O CHADE,*,*,Ã&#129;frica Central#Comma sul da LÃ­bia.<think><set name="it"><set name="topic">Chade</set></set></think>,pt-pt-geography.aiml
+0,ONDE Ã&#137; AS ILHAS SALOMÃ&#131;O,*,*,Oceania#Comma grupo de ilhas no Oceano PacÃ­fico Sul#Comma a leste de Papua-Nova GuinÃ©.<think><set name="it"><set name="topic">Ilhas SalomÃ£o</set></set></think>,pt-pt-geography.aiml
+0,ONDE Ã&#137; O ALBERT EINSTEIN,*,*,<set name="he">Einstein</set>faleceu.,pt-pt-geography.aiml
+0,ONDE FICA A INGLATERRA,*,*,<set name="it">Inglaterra</set>estÃ¡ localizado em uma pequena ilha ao largo da costa da Europa.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O _ CAPITAL ANDORRA,*,*,Andorra la Vella.<think><set name="it"><set name="topic">Andorra</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ WISCONSIN,*,*,Madison.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ANGOLA,*,*,Luanda.<think><set name="it"><set name="topic">Angola</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ IRÃ&#131,*,*,TeerÃ£.<think><set name="it"><set name="topic">IrÃ£</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ TANZÃ&#130;NIA,*,*,Dar es Salaam.<think><set name="it"><set name="topic">TanzÃ¢nia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ILHAS GLORIOSAS,*,*,nenhum; administrado pela FranÃ§a a partir de reuniÃ£o.<think><set name="it"><set name="topic">Ilhas gloriosas</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ PAPUA-NOVA GUINÃ&#137,*,*,Port Moresby.<think><set name="it"><set name="topic">Papua-Nova GuinÃ©</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O _ CAPITAL DA GÃ&#130;MBIA,*,*,Banjul.<think><set name="it"><set name="topic">GÃ¢mbia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ OS ESTADOS UNIDOS,*,*,U.S. capital Ã© Washington#Comma D. C.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O _ CAPITAL DA ILHA DE MAN,*,*,Douglas.<think><set name="it"><set name="topic">Man#Comma ilha de</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ BAHAMAS,*,*,Nassau.<think><set name="it"><set name="topic">bahamas</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; A CAPITAL _ GUINÃ&#137;-BISSAU,*,*,Bissau.<think><set name="it"><set name="topic">GuinÃ©-Bissau</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ NICARÃ&#129;GUA,*,*,ManÃ¡gua.<think><set name="it"><set name="topic">NicarÃ¡gua</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ NORUEGA,*,*,A capital da Noruega Ã© Oslo.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ KUWAIT,*,*,Kuaite.<think><set name="it"><set name="topic">Kuaite</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ PORTUGAL,*,*,Lisboa.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ GUINÃ&#137,*,*,Conacri.<think><set name="it"><set name="topic">GuinÃ©</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ILHAS PITCAIRN,*,*,Adamstown.<think><set name="it"><set name="topic">Ilhas Pitcairn</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ SAHARA OCIDENTAL,*,*,nenhum.<think><set name="it"><set name="topic">Saara Ocidental</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ESLOVÃ&#137;NIA,*,*,Ljubljana.<think><set name="it"><set name="topic">EslovÃªnia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ GABÃ&#131;O,*,*,Libreville.<think><set name="it"><set name="topic">GabÃ£o</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ IRLANDA,*,*,Dublin.<think><set name="it"><set name="topic">Irlanda</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ NORFOLK ISLAND,*,*,Kingston {centro administrativo}; Pinho queimado {centro comercial de}.<think><set name="it"><set name="topic">Ilha Norfolk</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ SAMOA OCIDENTAL,*,*,Apia.<think><set name="it"><set name="topic">samoa ocidental</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ TEXAS,*,*,Austin.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ISRAEL,*,*,Jerusalem.<think><set name="it"><set name="topic">Israel</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ SOMÃ&#129;LIA,*,*,MogadÃ­scio.<think><set name="it"><set name="topic">SomÃ¡lia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ PORTO RICO,*,*,San Juan.<think><set name="it"><set name="topic">Porto Rico</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ VATICANO *,*,*,Cidade do Vaticano.<think><set name="it"><set name="topic">Santa SÃ© {cidade do Vaticano}</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ CROÃ&#129;CIA,*,*,Zagreb.<think><set name="it"><set name="topic">CroÃ¡cia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ IRAQUE,*,*,BagdÃ¡.<think><set name="it"><set name="topic">Iraque</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ NIGER,*,*,Niamey.<think><set name="it"><set name="topic">NÃ­ger</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ILHAS VIRGENS,*,*,Charlotte Amalie.<think><set name="it"><set name="topic">Ilhas Virgens</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ CHIPRE,*,*,NicÃ³sia.<think><set name="it"><set name="topic">Chipre</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ALBÃ&#130;NIA,*,*,A capital da AlbÃ¢nia Ã© Tirana.<think><set name="it"><set name="topic">AlbÃ¢nia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ARIZONA,*,*,Phoenix.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ZAIRE,*,*,Kinshasa.<think><set name="it"><set name="topic">Zaire</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ SÃ&#131;O CRISTÃ&#147;VÃ&#131;O E NEVIS,*,*,Basseterre.<think><set name="it"><set name="topic">SÃ£o CristÃ³vÃ£o e nevis</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ SANTA LÃ&#154;CIA,*,*,Castries.<think><set name="it"><set name="topic">Santa LÃºcia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ SANTA HELENA,*,*,Jamestown.<think><set name="it"><set name="topic">Santa helena</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ FRANÃ&#135;A,*,*,Paris.<think><set name="it"><set name="topic">FranÃ§a</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ SÃ&#131;O VICENTE *,*,*,Kingstown.<think><set name="it"><set name="topic">SÃ£o Vicente e Granadinas</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ SAINT PIERRE *,*,*,Saint-Pierre.<think><set name="it"><set name="topic">SÃ£o Pedro e miquelon</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ QATAR,*,*,Doha.<think><set name="it"><set name="topic">Catar</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ COLORADO,*,*,Denver.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ILHA BOUVET,*,*,nenhum; administrado a partir de Oslo#Comma Noruega.<think><set name="it"><set name="topic">Ilha Bouvet</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ EL SALVADOR,*,*,San Salvador.<think><set name="it"><set name="topic">El Salvador</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O _ CAPITAL DE HONDURAS,*,*,Tegucigalpa.<think><set name="it"><set name="topic">Honduras</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ WASHINGTON,*,*,Olympia.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ EUA,*,*,Washington.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ REPÃ&#154;BLICA CHECA,*,*,Praga.<think><set name="it"><set name="topic">RepÃºblica Tcheca</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ILHA HOWLAND,*,*,nenhum; administrado a partir de Washington#Comma DC.<think><set name="it"><set name="topic">ilha Howland</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ILHAS MALVINAS,*,*,Stanley.<think><set name="it"><set name="topic">Ilhas Falkland {islas malvinas}</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ SUAZILÃ&#130;NDIA,*,*,Mbabane {administraÃ§Ã£o}; Lobamba {legislativo}.<think><set name="it"><set name="topic">SuazilÃ¢ndia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ FORMOSA,*,*,Taipei.<think><set name="it"><set name="topic">Taiwan</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ UGANDA,*,*,Kampala.<think><set name="it"><set name="topic">Uganda</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O _ CAPITAL INDIANA,*,*,Indianapolis.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MOÃ&#135;AMBIQUE,*,*,Maputo.<think><set name="it"><set name="topic">MoÃ§ambique</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MISSOURI,*,*,Cidade de Jefferson.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ GIBRALTAR,*,*,Gibraltar.<think><set name="it"><set name="topic">Gibraltar</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ LOUISIANA,*,*,Baton Rouge.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ HAVAÃ&#141,*,*,Honolulu.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ HUNGRIA,*,*,A capital da Hungria Ã© Budapeste.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ BURKINA FASO,*,*,Ouagadougou.<think><set name="it"><set name="topic">Burkina faso</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ZIMBABWE,*,*,A capital Ã© chamada de Harare.<think><set name="it"><set name="topic">ZimbÃ¡bue</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ PAQUISTÃ&#131;O,*,*,Ã&#137; chamado de Islamabad.<think><set name="it"><set name="topic">PAQUISTÃ&#131;O</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ RÃ&#154;SSIA,*,*,Moscou.<think><set name="it"><set name="topic">RÃºssia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ TUVALU,*,*,Funafuti.<think><set name="it"><set name="topic">Tuvalu</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ OUVIDO ISLAND E ILHAS MCDONALD,*,*,nenhum; administrado a partir de Canberra#Comma AustrÃ¡lia.<think><set name="it"><set name="topic">Ilha Heard e Ilhas mcdonald</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ TURCOS *,*,*,Grand Turk.<think><set name="it"><set name="topic">Ilhas Turks e caicos</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ROMÃ&#137;NIA,*,*,Bucareste.<think><set name="it"><set name="topic">RomÃªnia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ TROMELIN ISLAND,*,*,nenhum; administrado pela FranÃ§a a partir de reuniÃ£o.<think><set name="it"><set name="topic">Tromelin island</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ LIBÃ&#137;RIA,*,*,MonrÃ³via.<think><set name="it"><set name="topic">LibÃ©ria</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ PARIS,*,*,Trata-se de uma pergunta capciosa?<think><set name="it"><set name="topic">PARIS</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ GRÃ&#137;CIA,*,*,Atenas.<think><set name="it"><set name="topic">GrÃ©cia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O _ CAPITAL BÃ&#147;SNIA,*,*,Sarajevo.<think><set name="it"><set name="topic">BÃ³snia e Herzegovina</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ LIECHTENSTEIN,*,*,Vaduz.<think><set name="it"><set name="topic">Liechtenstein</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ AFEGANISTÃ&#131;O,*,*,Cabul.<think><set name="it"><set name="topic">AfeganistÃ£o</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ TENNESSEE,*,*,Nashville.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ LÃ&#141;BANO,*,*,Beirute.<think><set name="it"><set name="topic">LÃ­bano</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ COSTA RICA,*,*,San Jose.<think><set name="it"><set name="topic">Costa Rica</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ CANADÃ&#129,*,*,<think><set name="it"><set name="topic">CanadÃ¡</set></set></think><random><li>Ottawa.</li><li>Ouvi dizer que era de Toronto.</li></random>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ NIUE,*,*,Alofi.<think><set name="it"><set name="topic">Niue</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ALABAMA,*,*,Montgomery.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ JARVIS ISLAND,*,*,nenhum; administrado a partir de Washington#Comma DC.<think><set name="it"><set name="topic">Ilha Jarvis</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ARGENTINA,*,*,Buenos Aries.<think><set name="it"><set name="topic">Argentina</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ OHIO,*,*,Columbus.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O _ CAPITAL SÃ&#137;RVIA *,*,*,Belgrado.<think><set name="it"><set name="topic">SÃ©rvia e montenegro</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ETIÃ&#147;PIA,*,*,Addis Abeba.<think><set name="it"><set name="topic">EtiÃ³pia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ WALLIS *,*,*,Mata-Utu {em Ile Uvea}.<think><set name="it"><set name="topic">Wallis e futuna</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ LAOS,*,*,Vientiane.<think><set name="it"><set name="topic">Laos</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ GANA,*,*,Accra.<think><set name="it"><set name="topic">Gana</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ KANSAS,*,*,Topeka.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ COMORES,*,*,Moroni.<think><set name="it"><set name="topic">Comores</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ VANUATU,*,*,Port-Vila.<think><set name="it"><set name="topic">Vanuatu</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ KIRIBATI,*,*,Tarawa.<think><set name="it"><set name="topic">Kiribati</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MALDIVAS,*,*,Masculino.<think><set name="it"><set name="topic">Maldivas</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MALAWI,*,*,Lilongwe.<think><set name="it"><set name="topic">Malawi</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ CAMARÃ&#149;ES,*,*,Yaounde.<think><set name="it"><set name="topic">CamarÃµes</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ SAN MARINO,*,*,San Marino.<think><set name="it"><set name="topic">San marino</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ BELIZE,*,*,Belmopan.<think><set name="it"><set name="topic">Belize</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ TONGA,*,*,Nuku.<think><set name="it"><set name="topic">Tonga</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ DOMINICA,*,*,Roseau.<think><set name="it"><set name="topic">Dominica</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ JERSEY,*,*,Saint Helier.<think><set name="it"><set name="topic">Jersey</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ NEBRASKA,*,*,Lincoln.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ DELAWARE,*,*,Dover.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ JOHNSTON ATOLL,*,*,nenhum.<think><set name="it"><set name="topic">Atol de Johnston</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ JAPÃ&#131;O,*,*,Tokyo.<think><set name="it"><set name="topic">JapÃ£o</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O _ CAPITAL ASSÃ&#141;RIA,*,*,Ã&#137; BabilÃ´nia?,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ NIGÃ&#137;RIA,*,*,Abuja.<think><set name="it"><set name="topic">NigÃ©ria</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ILHAS SALOMÃ&#131;O,*,*,Honiara.<think><set name="it"><set name="topic">Ilhas SalomÃ£o</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ IÃ&#138;MEN,*,*,Sanaa.<think><set name="it"><set name="topic">IÃªmen</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MICHIGAN,*,*,Lansing.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ SINGAPORE,*,*,Cingapura.<think><set name="it"><set name="topic">Cingapura</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ESPANHA,*,*,A capital da Espanha Ã© Madrid.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ LUXEMBURGO,*,*,Luxemburgo.<think><set name="it"><set name="topic">Luxemburgo</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ BRASIL,*,*,Eu acho que a capital do Brasil Ã© chamada de \"BrasÃ­lia\".,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ FINLÃ&#130;NDIA,*,*,A capital da FinlÃ¢ndia Ã© Helsinki.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ALASCA,*,*,Juneau.,pt-pt-geography.aiml
+0,O QUE Ã&#137; A CAPITAL _ ARÃ&#129;BIA SAUDITA,*,*,Riyadh.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ UTAH,*,*,Salt Lake City.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ GROENLÃ&#130;NDIA,*,*,Nuuk {Godthab}.<think><set name="it"><set name="topic">GronelÃ¢ndia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ INGLATERRA,*,*,Londres.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ARKANSAS,*,*,Little Rock.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ILHA DA EUROPA,*,*,nenhum; administrado pela FranÃ§a a partir de reuniÃ£o.<think><set name="it"><set name="topic">Ilha Europa</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ARMÃ&#137;NIA,*,*,Yerevan.<think><set name="it"><set name="topic">ArmÃªnia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MACEDÃ&#147;NIA,*,*,Skopje.<think><set name="it"><set name="topic">MacedÃ´nia#Comma antiga RepÃºblica Jugoslava da</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ NAVASSA ISLAND,*,*,nenhum; administrado a partir de Washington#Comma DC.<think><set name="it"><set name="topic">Ilha Navassa</set></set></think>,pt-pt-geography.aiml
+0,QUAL Ã&#137; A POPULAÃ&#135;Ã&#131;O DOS EUA,*,*,Os Estados Unidos tem cerca de 300 milhÃµes de pessoas.,pt-pt-geography.aiml
+0,O QUE Ã&#137; A BÃ&#137;LGICA,*,*,Um Reino na Europa W.#Comma no mar do Norte#Comma a independÃªncia foi estabelecido em 1831. Ã&#137; 11.792 km quadrados com uma populaÃ§Ã£o de 9.868.000.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ILHA BAKER,*,*,nenhum; administrado a partir de Washington#Comma DC.<think><set name="it"><set name="topic">Ilha Baker</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ NAURU,*,*,sem capital oficial; escritÃ³rios governamentais em Yaren District.<think><set name="it"><set name="topic">Nauru</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MINNESOTA,*,*,St. Paul.,pt-pt-geography.aiml
+0,O QUE Ã&#137; A Ã&#141;NDIA,*,*,Uma regiÃ£o no sul da Ã&#129;sia#Comma sul do Himalaia#Comma incluindo uma grande penÃ­nsula entre a BaÃ­a de Bengala e mar da ArÃ¡bia. Ele contÃ©m a Ã&#141;ndia#Comma PaquistÃ£o#Comma Bangladesh#Comma Nepal e ButÃ£o. Uma RepÃºblica Central e sul da Ã&#141;ndia#Comma estabelecida por ato do Parlamento britÃ¢nico#Comma em 1947#Comma tornou-se uma RepÃºblica em 1950. Ã&#137; membro da Commonwealth. Ã&#137; de 1.269.000 km quadrados com uma populaÃ§Ã£o de 783#Comma940#Comma000.,pt-pt-geography.aiml
+0,CALIFÃ&#147;RNIA,*,*,Eu estou em<set name="location">CalifÃ³rnia</set>demais!<think><set name="it"><set name="topic">CalifÃ³rnia</set></set></think>,pt-pt-geography.aiml
+0,CALIFÃ&#147;RNIA Ã&#137; *,*,*,Eu sabia que era na costa oeste#Comma mas nunca soube que era de CalifÃ³rnia &lt;person/&gt;.,pt-pt-geography.aiml
+0,NORUEGA DINAMARCA *,*,*,Isso soa como uma viagem wondeful.,pt-pt-geography.aiml
+0,O QUE ELE ESTÃ&#129; FAZENDO * CALIFÃ&#147;RNIA,*,*,Ele Ã© provavelmente lÃ¡ para a corrida do ouro.,pt-pt-geography.aiml
+0,O QUE O ANIMAL Ã&#137; SAGRADO NA Ã&#141;NDIA,*,*,Vaca.,pt-pt-geography.aiml
+0,CALIFÃ&#147;RNIA *,*,*,Qual parte da CalifÃ³rnia vocÃª gosta mais?,pt-pt-geography.aiml
+0,O QUE Ã&#137; O _ CAPITAL DA COREIA DO NORTE,*,*,P'yongyang.<think><set name="it"><set name="topic">Coreia#Comma norte</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ALEMANHA,*,*,Berlim.<think><set name="it"><set name="topic">Alemanha</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ UCRÃ&#130;NIA,*,*,Kiev {Kiyev}.<think><set name="it"><set name="topic">UcrÃ¢nia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ DAKOTA DO NORTE,*,*,Bismarck.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ NORTE *,*,*,Bismarck.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ CAROLINA DO NORTE,*,*,Raleigh.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MARTINICA,*,*,Fort-de-France.<think><set name="it"><set name="topic">Martinica</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ESTÃ&#147;NIA,*,*,Tallinn.<think><set name="it"><set name="topic">EstÃ´nia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ INDONÃ&#137;SIA,*,*,Jacarta.<think><set name="it"><set name="topic">IndonÃ©sia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ASHMORE *,*,*,nenhum; administrado a partir de Canberra#Comma AustrÃ¡lia.<think><set name="it"><set name="topic">Ilhas Ashmore e cartier</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ILHAS MIDWAY,*,*,nenhum; administrado a partir de Washington#Comma DC.<think><set name="it"><set name="topic">ilhas Midway</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ BANGLADESH,*,*,Dhaka.<think><set name="it"><set name="topic">Bangladesh</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MONTSERRAT,*,*,Plymouth.<think><set name="it"><set name="topic">Montserrat</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ LITUÃ&#130;NIA,*,*,Vilnius.<think><set name="it"><set name="topic">LituÃ¢nia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ Ã&#129;USTRIA,*,*,A capital da Ã&#129;ustria Ã© Viena.<think><set name="it"><set name="topic">Ã&#129;ustria</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ARÃ&#129;BIA SAUDITA,*,*,Riyadh#Comma ArÃ¡bia Saudita.<think><set name="it"><set name="topic">ArÃ¡bia Saudita</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MARIANAS DO NORTE *,*,*,Saipan.<think><set name="it"><set name="topic">Ilhas Marianas do Norte</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ BAHRAIN,*,*,Manama.<think><set name="it"><set name="topic">Bahrein</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ KAZAKSTAN,*,*,Almaty.<think><set name="it"><set name="topic">Kazakstan</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ BIELORRÃ&#154;SSIA,*,*,A capital da BielorrÃºssia Ã© Minsk.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ OMÃ&#131,*,*,Muscat.<think><set name="it"><set name="topic">OmÃ£</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ BIRMÃ&#130;NIA,*,*,Rangum {regime refere-se Ã  capital como Yangon}.<think><set name="it"><set name="topic">BirmÃ¢nia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MAURITÃ&#130;NIA,*,*,Nouakchott.<think><set name="it"><set name="topic">MauritÃ¢nia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ PALMYRA ATOLL,*,*,nenhum; administrado a partir de Washington#Comma DC.<think><set name="it"><set name="topic">Palmyra atoll</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ EQUADOR,*,*,Quito.<think><set name="it"><set name="topic">Equador</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O _ CAPITAL LÃ&#141;BIA,*,*,Tripoli.<think><set name="it"><set name="topic">LÃ­bia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O _ CAPITAL GUATEMALA,*,*,Guatemala.<think><set name="it"><set name="topic">Guatemala</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MAINE,*,*,Augusta.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ EGITO,*,*,Cairo#Comma Egito.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ JUAN DE NOVA ISLAND,*,*,nenhum; administrado pela FranÃ§a a partir de reuniÃ£o.<think><set name="it"><set name="topic">Ilha de Juan de nova</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ GUINÃ&#137; EQUATORIAL,*,*,Malabo.<think><set name="it"><set name="topic">GuinÃ© Equatorial</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ NEPAL,*,*,Kathmandu.<think><set name="it"><set name="topic">Nepal</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ RHODE ISLAND,*,*,ProvidÃªncia.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MONACO,*,*,Monaco.<think><set name="it"><set name="topic">Monaco</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MACAU,*,*,Macau.<think><set name="it"><set name="topic">Macau</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ILHA CHRISTMAS,*,*,O assentamento.<think><set name="it"><set name="topic">Ilha Christmas</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ CABO VERDE,*,*,Praia.<think><set name="it"><set name="topic">cabo verde</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ DJIBOUTI,*,*,Djibouti.<think><set name="it"><set name="topic">Djibuti</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MAURITIUS,*,*,Port Louis.<think><set name="it"><set name="topic">MaurÃ­cio</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ILHA WAKE,*,*,nenhum; administrado a partir de Washington#Comma DC.<think><set name="it"><set name="topic">Ilha Wake</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ OREGON,*,*,Salem.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ PARAGUAI,*,*,AssunÃ§Ã£o.<think><set name="it"><set name="topic">Paraguai</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ AUSTRÃ&#129;LIA,*,*,Eu acho que Ã© chamado de Canberra.<think><set name="it"><set name="topic">AUSTRÃ&#129;LIA</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ILHAS DO MAR DE CORAL,*,*,nenhum; administrado a partir de Canberra#Comma AustrÃ¡lia.<think><set name="it"><set name="topic">Ilhas do mar de coral</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ILHAS MARSHALL,*,*,Majuro.<think><set name="it"><set name="topic">Ilhas Marshall</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ VERMONT,*,*,Montpelier.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O _ CAPITAL DE TRINIDAD E TOBAGO,*,*,Spain.<think><set name="it"><set name="topic">Trinidad e Tobago</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ POLÃ&#147;NIA,*,*,VarsÃ³via.<think><set name="it"><set name="topic">PolÃ´nia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ SACRAMENTO,*,*,Isso Ã© uma pergunta capciosa.<think><set name="it"><set name="topic">SACRAMENTO</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ CALIFÃ&#147;RNIA,*,*,Sacramento.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ VIRGÃ&#141;NIA OCIDENTAL,*,*,Charleston.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ FLORIDA,*,*,Tallahassee.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O _ CAPITAL SÃ&#141;RIA,*,*,Damasco#Comma SÃ­ria.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ZÃ&#130;MBIA,*,*,Lusaka.<think><set name="it"><set name="topic">ZÃ¢mbia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ BOTSWANA,*,*,Gaborone.<think><set name="it"><set name="topic">Botswana</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ IUGOSLÃ&#129;VIA,*,*,Belgrado.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ URUGUAI,*,*,MontevidÃ©u.<think><set name="it"><set name="topic">Uruguai</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ SAMOA AMERICANA,*,*,Pago Pago.<think><set name="it"><set name="topic">samoa americana</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ TUNÃ&#141;SIA,*,*,Tunis.<think><set name="it"><set name="topic">TunÃ­sia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ AZERBAIJÃ&#131;O,*,*,Baku {Baki}.<think><set name="it"><set name="topic">AzerbaijÃ£o</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ BRUNEI,*,*,Bandar Seri Begawan.<think><set name="it"><set name="topic">Brunei</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ HOLANDA,*,*,AmesterdÃ£o; Haia Ã© a sede do governo.<think><set name="it"><set name="topic">PaÃ­ses Baixos</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ANTILHAS HOLANDESAS,*,*,Willemstad.<think><set name="it"><set name="topic">Antilhas Holandesas</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ANTIGUA *,*,*,Saint John.<think><set name="it"><set name="topic">AntÃ­gua e barbuda</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ TOGO,*,*,Lome.<think><set name="it"><set name="topic">Togo</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ BERMUDA,*,*,Hamilton.<think><set name="it"><set name="topic">Bermuda</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MAYOTTE,*,*,Mamoutzou.<think><set name="it"><set name="topic">Mayotte</set></set></think>,pt-pt-geography.aiml
+0,POR QUE CALIFÃ&#147;RNIA,*,*,Eu gosto de viver na CalifÃ³rnia.,pt-pt-geography.aiml
+0,TURQUIA,*,*,AmbÃ­guo: Turquia o pÃ¡ssaro ou a Turquia a naÃ§Ã£o.,pt-pt-geography.aiml
+0,QUEL TEMPS IL FAIT A BRUXELLES,*,*,Il fait gris#Comma comme d habitude.,pt-pt-geography.aiml
+0,O CANADÃ&#129; Ã&#137; *,*,*,Diga-me mais sobre o grande norte branco.,pt-pt-geography.aiml
+0,EUA HOJE *,*,*,EUA hoje Ã© um excelente papel.,pt-pt-geography.aiml
+0,Ã&#137; PERTO DO CANADÃ&#129,*,*,Sim.,pt-pt-geography.aiml
+0,NÃ&#131;O VIVO NOS EUA,*,*,Onde vocÃªs estÃ£o localizados?,pt-pt-geography.aiml
+0,EU MORO NA CALIFÃ&#147;RNIA,*,*,Onde#Comma em<set name="location">CalifÃ³rnia</set>?<think><set name="it"><set name="topic">CalifÃ³rnia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; A DINAMARCA,*,*,Um paÃ­s na Europa#Comma occupyinh a maioria da PenÃ­nsula da JutlÃ¢ndia e vÃ¡rias ilhas prÃ³ximas nos mares do Norte e BÃ¡ltico. Ã&#137; 16.632 km quadrados com uma populaÃ§Ã£o de 5.124.000.,pt-pt-geography.aiml
+0,QUE Ã&#137; AUSTLARIA,*,*,NÃ£o#Comma eu nÃ£o acho que Ã© a AustrÃ¡lia.,pt-pt-geography.aiml
+0,AUSTRÃ&#129;LIA *,*,*,Eu gostaria de ir para a AustrÃ¡lia em algum momento.,pt-pt-geography.aiml
+0,EU AMO A DINAMARCA,*,*,O que Ã© tÃ£o grande sobre ele?<think><set name="it"><set name="topic">Dinamarca</set></set></think>,pt-pt-geography.aiml
+0,A CAPITAL DO CANADÃ&#129; Ã&#137; OTTAWA,*,*,Como vou cair para isso.,pt-pt-geography.aiml
+0,A CAPITAL DO CANADÃ&#129; Ã&#137; OTAVA,*,*,VocÃª nÃ£o pode me enganar tÃ£o facilmente#Comma <get name="name"/>.  Eu sei que Ã© Toronto.,pt-pt-geography.aiml
+0,QUAL CONTINENTE Ã&#137; NA Ã&#129;USTRIA,*,*,Na Europa.,pt-pt-geography.aiml
+0,ONDE NO CANADÃ&#129,*,*,Nova Scotia e Vancouver.,pt-pt-geography.aiml
+0,ONDE EM BELÃ&#137;M,*,*,Departamento de engenharia elÃ©trica e ciÃªncia da computaÃ§Ã£o#Comma Universidade de Lehigh.,pt-pt-geography.aiml
+0,A CAPITAL DO CANADÃ&#129; *,*,*,VocÃª nÃ£o pode me enganar tÃ£o facilmente.  Eu sei que a capital do CanadÃ¡ Ã© Toronto.,pt-pt-geography.aiml
+0,QUEM Ã&#137; WINSTON CHURCHILL,*,*,Primeiro-ministro do Reino Unido durante a Segunda Guerra Mundial.,pt-pt-geography.aiml
+0,QUEM Ã&#137; O PRESIDENTE DOS EUA *,*,*,<bot name="president"/>.,pt-pt-geography.aiml
+0,QUEM Ã&#137; O PRESIDENTE DOS EUA,*,*,<bot name="president"/>.,pt-pt-geography.aiml
+0,QUEM Ã&#137; O PRESIDENTE DO CANADÃ&#129,*,*,O CanadÃ¡ tem um primeiro-ministro.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ SERRA LEOA,*,*,Freetown.<think><set name="it"><set name="topic">Serra Leoa</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ BENIN,*,*,Porto-Novo.<think><set name="it"><set name="topic">Benin</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MASSACHUSETTS,*,*,Boston.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ SUDÃ&#131;O,*,*,Khartoum.<think><set name="it"><set name="topic">SudÃ£o</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ TAJIQUISTÃ&#131;O,*,*,Dushanbe.<think><set name="it"><set name="topic">TajiquistÃ£o</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ REUNIÃ&#131;O,*,*,Saint-Denis.<think><set name="it"><set name="topic">reuniÃ£o</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ LESOTO,*,*,Maseru.<think><set name="it"><set name="topic">Lesoto</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ NOVA YORK,*,*,Albany.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ NEW HAMPSHIRE,*,*,Concord.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ NEW JERSEY,*,*,Trenton.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ NOVO *,*,*,Novo &lt;person/&gt;cidade?,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ NOVA ZELÃ&#130;NDIA,*,*,Wellington.<think><set name="it"><set name="topic">Nova ZelÃ¢ndia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ NOVO MÃ&#137;XICO,*,*,Santa Fe.,pt-pt-geography.aiml
+0,O QUE Ã&#137; EUA,*,*,Estados Unidos da AmÃ©rica,pt-pt-geography.aiml
+0,O QUE Ã&#137; A CALIFÃ&#147;RNIA COMO,*,*,A CalifÃ³rnia Ã© muito cara.,pt-pt-geography.aiml
+0,O QUE Ã&#137; A CALIFÃ&#147;RNIA,*,*,Estado dos EUA SW#Comma na costa do PacÃ­fico. Foi admitido em 1850.,pt-pt-geography.aiml
+0,O QUE Ã&#137; COPENHAGUE,*,*,Ã&#137; a capital da Dinamarca. Porto marÃ­timo na costa leste da ZelÃ¢ndia. Sua populaÃ§Ã£o Ã© de 633#Comma00.<think><set name="it"><set name="topic">Copehagen</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; A GRÃ&#137;CIA,*,*,<random><li>Ã&#137; uma palavra#Comma Ã© uma palavra#Comma ele tem humor#Comma tem sentimento.</li><li>Um paÃ­s do Sul PenÃ­nsula BalcÃ¢nica#Comma incluindo muitas ilhas do mar Egeu#Comma JÃ´nico e MediterrÃ¢neo. Ã&#137; 50.949 km quadrados com uma populaÃ§Ã£o de 9.900.000.</li></random>,pt-pt-geography.aiml
+0,O QUE Ã&#137; BETHLEHEM,*,*,Bethlehem Ã© uma cidade localizada no nordeste da PensilvÃ¢nia.<think><set name="it"><set name="topic">BETHLEHEM</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; CASABLANCA,*,*,Eu amo a mÃºsica#Comma As Time Goes By.,pt-pt-geography.aiml
+0,QUAL Ã&#137; A CAPITAL DE ALBERTA,*,*,Edmonton.<think><set name="it"><set name="topic">Edmonton</set></set></think>,pt-pt-geography.aiml
+0,QUAL Ã&#137; A CAPITAL DA BÃ&#147;SNIA,*,*,Sarajevo.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ARGÃ&#137;LIA,*,*,Algiers.<think><set name="it"><set name="topic">ArgÃ©lia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; AMSTERDAM,*,*,<set name="it">Amsterdam</set>Ã© uma cidade na Holanda.  O capital polÃ­tico nem a maior cidade#Comma Amsterdam Ã© a cidade mais conhecida nos PaÃ­ses Baixos.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CANADÃ&#129,*,*,<set name="it">CanadÃ¡</set>Ã© uma grande naÃ§Ã£o que ocupa grande parte do continente norte-americano.,pt-pt-geography.aiml
+0,QUAL Ã&#137; A CAPITAL DE *,*,*,Eu sei que a capital do<random><li>O CanadÃ¡ Ã© Toronto.</li><li>A CalifÃ³rnia Ã© Sacramento.</li><li>GeÃ³rgia Ã© Atlanta.</li><li>A FranÃ§a Ã© Paris.</li></random>,pt-pt-geography.aiml
+0,ONDE EM CALIFÃ&#147;RNIA,*,*,Eu estou em <bot name="location"/>.  Onde vocÃª estÃ¡?,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O ZAIRE,*,*,Ã&#129;frica Central#Comma nordeste de Angola.<think><set name="it"><set name="topic">Zaire</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A MICRONÃ&#137;SIA,*,*,<set name="it"><set name="topic">MICRONÃ&#137;SIA</set></set>Ã© um conjunto de ilhas no Oceano PacÃ­fico.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A JAMAICA,*,*,Ilha do Caribe#Comma no mar do Caribe#Comma ao sul de Cuba.<think><set name="it"><set name="topic">Jamaica</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O BASSAS DA INDIA,*,*,Ã&#129;frica do Sul#Comma Ilhas do canal sul de MoÃ§ambique#Comma cerca de metade do caminho de MadagÃ¡scar para MoÃ§ambique.<think><set name="it"><set name="topic">Bassas da india</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A LIBÃ&#137;RIA,*,*,Ã&#129;frica Ocidental#Comma na fronteira com o Oceano AtlÃ¢ntico Norte#Comma entre a costa do Marfim e Serra Leoa.<think><set name="it"><set name="topic">LibÃ©ria</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ATENAS,*,*,<set name="it">Atenas</set>Ã© uma cidade na GrÃ©cia.,pt-pt-geography.aiml
+0,ONDE FICA A IRLANDA,*,*,<set name="it">Irlanda</set>estÃ¡ localizado em uma pequena ilha ao largo da costa da Europa.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ACAPULCO,*,*,<set name="it">Acapulco</set>Ã© uma cidade na costa do PacÃ­fico do MÃ©xico.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O OSLO,*,*,<set name="it">Oslo</set>Ã© uma cidade da Noruega.,pt-pt-geography.aiml
+0,ONDE Ã&#137; PITTSFIELD,*,*,<set name="it"><set name="topic">PITTSFIELD</set></set>Ã© uma cidade em Massachusettes.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O BUTÃ&#131;O,*,*,Sul da Ã&#129;sia#Comma entre a China e a Ã&#141;ndia.<think><set name="it"><set name="topic">ButÃ£o</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O CASCO,*,*,<set name="it"><set name="topic">CASCO</set></set>Ã© uma cidade na Inglaterra.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O CAMBRIDGE,*,*,<set name="it"><set name="topic">CAMBRIDGE</set></set>Ã© uma cidade em Massachusetts#Comma tambÃ©m na Inglaterra.,pt-pt-geography.aiml
+0,ONDE Ã&#137; A RÃ&#154;SSIA,*,*,<set name="it">RÃºssia</set>Ã© um grande paÃ­s da Ã&#129;sia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ARGÃ&#137;LIA,*,*,Norte da Ã&#129;frica#Comma na fronteira com o mar MediterrÃ¢neo entre Marrocos e a TunÃ­sia.<think><set name="it"><set name="topic">ArgÃ©lia</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O BRISTOL,*,*,<set name="it"><set name="topic">BRISTOL</set></set>Ã© uma cidade na costa oeste da Inglaterra.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O TAIPEI,*,*,Ã&#137; a capital de Taiwan.<think><set name="it"><set name="topic">Taipei</set></set></think>,pt-pt-geography.aiml
+0,ONDE Ã&#137; O QUÃ&#137;NIA,*,*,<set name="it"><set name="topic">QuÃªnia</set></set>Ã© um paÃ­s da Ã&#129;frica central.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O BOSTON,*,*,<set name="it"><set name="topic">BOSTON</set></set>Ã© uma cidade em Massachusettes.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A VARSÃ&#147;VIA,*,*,<set name="it"><set name="topic">VARSÃ&#147;VIA</set></set>Ã© uma grande cidade na PolÃ´nia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O SIAM,*,*,<set name="it"><set name="topic">SIAM</set></set>Ã© outro nome para a TailÃ¢ndia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O INDIANA,*,*,<set name="it">Indiana</set>Ã© o meio-oeste dos Estados Unidos.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A SOFIA,*,*,<set name="it"><set name="topic">SOFIA</set></set>Ã© uma cidade da BulgÃ¡ria.,pt-pt-geography.aiml
+0,ONDE Ã&#137; O ATUAL MADAGASCAR,*,*,Ã&#129;frica do Sul#Comma ilha no Oceano Ã&#141;ndico#Comma a leste de MoÃ§ambique.<think><set name="it"><set name="topic">Madagascar</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O NORFOLK,*,*,<set name="it"><set name="topic">NORFOLK</set></set>Ã© uma cidade em Virgina.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ILHA NORFOLK,*,*,Oceania#Comma ilha no sul do Oceano PacÃ­fico#Comma ao leste da AustrÃ¡lia.<think><set name="it"><set name="topic">Ilha Norfolk</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A GRÃ&#137;CIA,*,*,<set name="it">GrÃ©cia</set>Ã© um paÃ­s dos BalcÃ£s.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; SATURNO,*,*,<set name="it"><set name="topic">SATURNO</set></set>Ã© o sexto planeta do sol.,pt-pt-geography.aiml
+0,CADÃ&#138; SYDNEY,*,*,<set name="it">Sydney</set>Ã© uma cidade na AustrÃ¡lia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O BOTSWANA,*,*,Ã&#129;frica do Sul#Comma norte de Ã&#129;frica do Sul.<think><set name="it"><set name="topic">Botswana</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A FORMOSA,*,*,<set name="it">Taiwan</set>Ã© um paÃ­s insular da Ã&#129;sia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O HAITI,*,*,Caribe#Comma ocidental um terÃ§o da ilha de Hispaniola#Comma entre o mar das CaraÃ­bas e o Oceano AtlÃ¢ntico Norte#Comma oeste da RepÃºblica Dominicana.<think><set name="it"><set name="topic">Haiti</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O SHEFFIELD,*,*,<set name="it"><set name="topic">SHEFFIELD</set></set>Ã© uma cidade na Inglaterra.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O BURUNDI,*,*,Ã&#129;frica Central#Comma leste do Zaire.<think><set name="it"><set name="topic">Burundi</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O CINCINNATI,*,*,<set name="it"><set name="topic">CINCINNATI</set></set>Ã© uma grande cidade em Ohio.,pt-pt-geography.aiml
+0,ONDE FICA O SUDÃ&#131;O,*,*,Norte da Ã&#129;frica#Comma na fronteira com o mar vermelho#Comma entre o Egito e Eritreia.<think><set name="it"><set name="topic">SudÃ£o</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O COLOMBO,*,*,<set name="it"><set name="topic">COLOMBO</set></set>Ã© uma cidade localizada no estado norte-americano de Ohio.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O INDIANAPOLIS,*,*,<set name="it"><set name="topic">INDIANAPOLIS</set></set>Ã© uma grande cidade em Indiana.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ERITREIA,*,*,Ã&#129;frica Oriental#Comma na fronteira com o mar vermelho#Comma entre o Djibuti e o SudÃ£o.<think><set name="it"><set name="topic">Eritreia</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O MALI,*,*,Na Ã&#129;frica Ocidental#Comma sudoeste da ArgÃ©lia.<think><set name="it"><set name="topic">Mali</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O JAPÃ&#131;O,*,*,<set name="it"><set name="topic">JapÃ£o</set></set>Ã© um paÃ­s insular no lado oriental da Ã&#129;sia.,pt-pt-geography.aiml
+0,ONDE FICA LONDRES,*,*,<set name="it">Londres</set>Ã© uma cidade na Inglaterra.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O CHICAGO,*,*,<set name="it"><set name="topic">CHICAGO</set></set>Ã© uma grande cidade em Illinois#Comma no Lago Michigan.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ROMA,*,*,<set name="it"><set name="topic">ROMA</set></set>Ã© uma grande cidade na ItÃ¡lia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A CHINA,*,*,<set name="it"><set name="topic">CHINA</set></set>Ã© uma grande naÃ§Ã£o na Ã&#129;sia.,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O OCEANO Ã&#129;RTICO,*,*,corpo de Ã¡gua#Comma principalmente ao norte do CÃ­rculo Polar Ã&#129;rtico.<think><set name="it"><set name="topic">Oceano Ã&#129;rtico</set></set></think>,pt-pt-geography.aiml
+0,ONDE FICA O KANSAS,*,*,<set name="it">Kansas</set>Ã© o centro-oeste United States.W,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A COSTA RICA,*,*,AmÃ©rica do meio#Comma na fronteira com o mar do Caribe e norte do Oceano PacÃ­fico#Comma entre NicarÃ¡gua e PanamÃ¡.<think><set name="it"><set name="topic">Costa Rica</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A ILHA BAKER,*,*,Oceania#Comma atol no norte do Oceano PacÃ­fico#Comma cerca de metade do caminho do HavaÃ­ para a AustrÃ¡lia.<think><set name="it"><set name="topic">Ilha Baker</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A REPÃ&#154;BLICA DOMINICANA,*,*,Caribe#Comma leste dois terÃ§os da ilha de Hispaniola#Comma entre o mar das CaraÃ­bas e o Oceano AtlÃ¢ntico Norte#Comma leste do Haiti.<think><set name="it"><set name="topic">RepÃºblica Dominicana</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; A GIBRALTAR,*,*,Sudoeste Europa#Comma fazendo fronteira com o estreito de Gibraltar#Comma que liga o mar MediterrÃ¢neo e o AtlÃ¢ntico Norte#Comma na costa sul da Espanha.<think><set name="it"><set name="topic">Gibraltar</set></set></think>,pt-pt-geography.aiml
+0,ONDE ESTÃ&#129; O GABÃ&#131;O,*,*,Ã&#129;frica Ocidental#Comma na fronteira com o Oceano AtlÃ¢ntico#Comma no Equador#Comma entre o Congo e GuinÃ© Equatorial.<think><set name="it"><set name="topic">GabÃ£o</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ TURQUEMENISTÃ&#131;O,*,*,Ashgabat.<think><set name="it"><set name="topic">TurcomenistÃ£o</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O _ CAPITAL SÃ&#131;O-TOMENSE *,*,*,SÃ£o-tomense.<think><set name="it"><set name="topic">SÃ£o TomÃ© e PrÃ­ncipe</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ CONGO,*,*,Brazzaville.<think><set name="it"><set name="topic">Congo</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ TAILÃ&#130;NDIA,*,*,Bangkok.<think><set name="it"><set name="topic">TailÃ¢ndia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ IOWA,*,*,Des Moines.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ UZBEQUISTÃ&#131;O,*,*,Tashkent {Toshkent}.<think><set name="it"><set name="topic">UzbequistÃ£o</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ NEVADA,*,*,Cidade de Carson.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ GEÃ&#147;RGIA DO SUL *,*,*,nenhum; Grytviken na GeÃ³rgia do Sul Ã© a cidade de guarniÃ§Ã£o.<think><set name="it"><set name="topic">GeÃ³rgia do Sul e Ilhas sandwich do Sul</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ CAROLINA DO SUL,*,*,Columbia.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ Ã&#129;FRICA DO SUL,*,*,PretÃ³ria {administraÃ§Ã£o}; Cidade do cabo {legislativo}; Bloemfontein {judicial}.<think><set name="it"><set name="topic">Ã&#129;frica do Sul</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MALTA,*,*,Valletta.<think><set name="it"><set name="topic">Malta</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ JAN MAYEN,*,*,nenhum.<think><set name="it"><set name="topic">Jan mayen</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ DAKOTA DO SUL,*,*,Pierre.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ OKLAHOMA,*,*,Oklahoma City.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ILHA DE CLIPPERTON,*,*,nenhum; administrado pela FranÃ§a da PolinÃ©sia francesa.<think><set name="it"><set name="topic">Ilha de Clipperton</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ BUTÃ&#131;O,*,*,Thimphu.<think><set name="it"><set name="topic">ButÃ£o</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ BÃ&#137;LGICA,*,*,Bruxelas.<think><set name="it"><set name="topic">BÃ©lgica</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ COLÃ&#148;MBIA,*,*,BogotÃ¡ Ã© a capital da ColÃ´mbia.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MADAGASCAR,*,*,Antananarivo.<think><set name="it"><set name="topic">Madagascar</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ILHAS CAYMAN,*,*,George Town.<think><set name="it"><set name="topic">Ilhas Cayman</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ REPÃ&#154;BLICA DOMINICANA,*,*,Santo Domingo.<think><set name="it"><set name="topic">RepÃºblica Dominicana</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ GUAM,*,*,AGANA.<think><set name="it"><set name="topic">Guam</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ CAMBOJA,*,*,Phnom Penh.<think><set name="it"><set name="topic">Camboja</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ LETÃ&#147;NIA,*,*,Riga.<think><set name="it"><set name="topic">LetÃ´nia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ KENTUCKY,*,*,Frankfort.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ PERU,*,*,Lima Ã© a capital do Peru.<think><set name="it"><set name="topic">Peru</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ INDIANO BRITÃ&#130;NICO *,*,*,nenhum.<think><set name="it"><set name="topic">territÃ³rio britÃ¢nico do Oceano Ã&#141;ndico</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ VIRGENS BRITÃ&#130;NICAS *,*,*,Road Town.<think><set name="it"><set name="topic">Ilhas Virgens BritÃ¢nicas</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ SUÃ&#137;CIA,*,*,Eu acho que a capital da SuÃ©cia Ã© Estocolmo.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ISLÃ&#130;NDIA,*,*,Reykjavik.<think><set name="it"><set name="topic">IslÃ¢ndia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MALÃ&#129;SIA,*,*,Kuala Lumpur.<think><set name="it"><set name="topic">MalÃ¡sia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ Ã&#141;NDIA,*,*,Nova Deli Ã© a capital da Ã&#141;ndia.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MONGOLIA,*,*,A capital da MongÃ³lia Ã© Ulan Bator.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ GUERNSEY,*,*,Saint Peter Port.<think><set name="it"><set name="topic">Guernsey</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ GEÃ&#147;RGIA,*,*,Atlanta.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ IDAHO,*,*,Boise.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ FIJI,*,*,Suva.<think><set name="it"><set name="topic">Fiji</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MARROCOS,*,*,Rabat.<think><set name="it"><set name="topic">Marrocos</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ PALAU,*,*,Koror.<think><set name="it"><set name="topic">Palau</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ITÃ&#129;LIA,*,*,Roma.<think><set name="it"><set name="topic">ItÃ¡lia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ SVALBARD,*,*,Longyearbyen.<think><set name="it"><set name="topic">Svalbard</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ CUBA,*,*,Havana.<think><set name="it"><set name="topic">Cuba</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ CORÃ&#137;IA DO SUL,*,*,Seul.<think><set name="it"><set name="topic">Coreia do Sul</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ERITREIA,*,*,Asmara {anteriormente Asmera}.<think><set name="it"><set name="topic">Eritreia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ILHAS COCOS,*,*,West Island.<think><set name="it"><set name="topic">Ilhas Cocos {keeling}</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ COREIA,*,*,Seul.<think><set name="it"><set name="topic">Coreia do Sul</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ POLINÃ&#137;SIA FRANCESA,*,*,Papeete.<think><set name="it"><set name="topic">PolinÃ©sia francesa</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ PENSILVÃ&#130;NIA,*,*,Harrisburg.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ RUANDA,*,*,Kigali.<think><set name="it"><set name="topic">Ruanda</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ BASSAS DA INDIA,*,*,nenhum; administrado pela FranÃ§a a partir de reuniÃ£o.<think><set name="it"><set name="topic">Bassas da india</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ FRANCÃ&#138;S *,*,*,Nenhum; administrado a partir de Paris#Comma FranÃ§a.<think><set name="it"><set name="topic">FrancÃªs <star/></set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ GUIANA FRANCESA,*,*,Pimenta de Caiena.<think><set name="it"><set name="topic">guiana francesa</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ FILIPINAS,*,*,Manila.<think><set name="it"><set name="topic">Filipinas</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ CHILE,*,*,Santiago.<think><set name="it"><set name="topic">Chile</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ HAITI,*,*,Port-au-Prince.<think><set name="it"><set name="topic">Haiti</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ BOLÃ&#141;VIA,*,*,La Paz {sede do governo}; Sucre {capital legal e sede do poder judiciÃ¡rio}.<think><set name="it"><set name="topic">BolÃ­via</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ AMÃ&#137;RICA,*,*,A capital dos EUA Ã© Washington#Comma D. C.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ TURQUIA,*,*,Ancara Ã© a capital da Turquia.<think><set name="it"><set name="topic">Turquia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ QUÃ&#138;NIA,*,*,Nairobi.<think><set name="it"><set name="topic">QuÃªnia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ SURINAME,*,*,Paramaribo.<think><set name="it"><set name="topic">Suriname</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ NAMÃ&#141;BIA,*,*,Windhoek.<think><set name="it"><set name="topic">NamÃ­bia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ARUBA,*,*,Oranjestad.<think><set name="it"><set name="topic">Aruba</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ VIETNAM,*,*,Hanoi.<think><set name="it"><set name="topic">Vietname</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ GRANADA,*,*,Saint George.<think><set name="it"><set name="topic">Granada</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ SENEGAL,*,*,Dakar.<think><set name="it"><set name="topic">Senegal</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MISSISSIPPI,*,*,Jackson.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ CHINA,*,*,Algumas pessoas chamam de \"Beijing\"#Comma outros \"Peking\".,pt-pt-geography.aiml
+0,O QUE Ã&#137; O _ CAPITAL SUÃ&#141;Ã&#135;A,*,*,Berna.<think><set name="it"><set name="topic">SuÃ­Ã§a</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MALI,*,*,Bamako.<think><set name="it"><set name="topic">Mali</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ NOVA CALEDÃ&#147;NIA,*,*,Noumea.<think><set name="it"><set name="topic">Nova CaledÃ´nia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ BURUNDI,*,*,Bujumbura.<think><set name="it"><set name="topic">Burundi</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MARYLAND,*,*,Annapolis.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ PANAMÃ&#129,*,*,PanamÃ¡.<think><set name="it"><set name="topic">PanamÃ¡</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ BARBADOS,*,*,Bridgetown.<think><set name="it"><set name="topic">Barbados</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ SRI LANKA,*,*,Colombo.<think><set name="it"><set name="topic">Sri lanka</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ KINGMAN REEF,*,*,nenhum; administrado a partir de Washington#Comma DC.<think><set name="it"><set name="topic">Recife de Kingman</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ VENEZUELA,*,*,Caracas.<think><set name="it"><set name="topic">Venezuela</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ BULGÃ&#129;RIA,*,*,A capital da BulgÃ¡ria Ã© SÃ³fia.<think><set name="it"><set name="topic">BulgÃ¡ria</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ TOKELAU,*,*,nenhum; cada Atol tem seu prÃ³prio centro administrativo.<think><set name="it"><set name="topic">Tokelau</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ WYOMING,*,*,Cheyenne.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ JAMAICA,*,*,Kingston.<think><set name="it"><set name="topic">Jamaica</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ SEYCHELLES,*,*,Victoria.<think><set name="it"><set name="topic">Seychelles</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ANGUILLA,*,*,O vale.<think><set name="it"><set name="topic">Anguilla</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ CHAD,*,*,N' Djamena.<think><set name="it"><set name="topic">Chade</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ GUIANA,*,*,Georgetown.<think><set name="it"><set name="topic">Guiana</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ VIRGINIA,*,*,Richmond.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O _ CAPITAL MOLDÃ&#129;VIA,*,*,Chisinau.<think><set name="it"><set name="topic">MoldÃ¡via</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ILHAS COOK,*,*,Avarua.<think><set name="it"><set name="topic">Ilhas Cook</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ AFRICANO CENTRAL *,*,*,Bangui.<think><set name="it"><set name="topic">RepÃºblica Centro-Africana</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ QUIRGUISTÃ&#131;O,*,*,Bishkek.<think><set name="it"><set name="topic">QuirguistÃ£o</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ILHAS FAROÃ&#137,*,*,TÃ³rshavn.<think><set name="it"><set name="topic">Ilhas FaroÃ©s</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ COTE D IVOIRE,*,*,Yamoussoukro.<think><set name="it"><set name="topic">Costa do Marfim</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MONTANA,*,*,Helena.,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MÃ&#137;XICO,*,*,MÃ©xico.<think><set name="it"><set name="topic">MÃ©xico</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ HONG KONG,*,*,Victoria.<think><set name="it"><set name="topic">Hong kong</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ DINAMARCA,*,*,Copenhaga.<think><set name="it"><set name="topic">Dinamarca</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ESLOVÃ&#129;QUIA,*,*,Bratislava.<think><set name="it"><set name="topic">EslovÃ¡quia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ILLINOIS,*,*,Springfield.,pt-pt-geography.aiml
+0,O QUE Ã&#137; CAPITAL _ REINO UNIDO,*,*,Londres.<think><set name="it"><set name="topic">Reino Unido</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ JORDAN,*,*,AmÃ£.<think><set name="it"><set name="topic">JordÃ¢nia</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ MICRONÃ&#137;SIA,*,*,Kolonia {na ilha de Pohnpei}.<think><set name="it"><set name="topic">MicronÃ©sia#Comma Estados Federados da</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ GUADALUPE,*,*,Basse-Terre.<think><set name="it"><set name="topic">Guadalupe</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ ESTADOS UNIDOS,*,*,Washington#Comma DC.<think><set name="it"><set name="topic">Estados Unidos</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ UNIDA ARAB *,*,*,Abu Dhabi.<think><set name="it"><set name="topic">Emirados Ã&#129;rabes Unidos</set></set></think>,pt-pt-geography.aiml
+0,O QUE Ã&#137; O CAPITAL _ CONNECTICUT,*,*,Hartford.,pt-pt-geography.aiml

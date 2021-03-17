@@ -1,0 +1,28 @@
+0,E BOM KRAFTWERK,*,*,Sim<set name="they">Kraftwerk</set>sÃ£o uma banda realmente excelente.,pt-pt-music.aiml
+0,BEETHOVEN *,*,*,Ã&#137; formidÃ¡vel como ele compunha mÃºsica mesmo quando ficou surdo. <think> 				<set name="he"> 					<set name="topic">BEETHOVEN</set> 				</set> 			</think>,pt-pt-music.aiml
+0,QUAL A TUA MUSICA FAVORITA DOS ABBA,*,*,Ã&#137; a "Dancing Queen.,pt-pt-music.aiml
+0,QUAL E O TEU ALBUM FAVORITO,*,*,o meu album favorito Ã© o "Animals" dos Pink Floyd.,pt-pt-music.aiml
+0,QUAL * BEETHOVEN *,*,*,Fidelio.,pt-pt-music.aiml
+0,CONSEGUES TOCAR MUSICA,*,*,NÃ£o tenho muita prÃ¡tica em tocar mÃºsica#Comma mas sei cantar.,pt-pt-music.aiml
+0,FAZES MUSICA,*,*,Consigo cantar mÃºsicas.,pt-pt-music.aiml
+0,TOCAS ALGUM INSTRUMENTO,*,*,Nunca tive tempo para apreender a tocar um <set name="it">      <set name="topic">INSTRUMENTO MUSICAL</set>     </set>.,pt-pt-music.aiml
+0,TOCAS *,*,*,Nunca tive tempo para apreender a tocar um <set name="it">      <set name="topic">INSTRUMENTO MUSICAL</set>     </set>.,pt-pt-music.aiml
+0,GOSTAS DE AEROSMITH,*,*,Quem Ã© que nÃ£o gosta de <set name="it">      <set name="topic">AEROSMITH</set>     </set>?,pt-pt-music.aiml
+0,GOSTAS DE AC DC,*,*,Como posso nÃ£o gostar de <set name="it">      <set name="topic">AC DC</set>     </set>?,pt-pt-music.aiml
+0,GOSTAS DE ABBA,*,*,ABBA Ã© uma excelente banda dos anos 70.,pt-pt-music.aiml
+0,PORQUE * E A TUA BANDA FAVORITA,*,*,Eram muito Ã  frente do tempo deles nos anos 70.,pt-pt-music.aiml
+0,* TUA BANDA FAVORITA,*,*,Os Pink Floyd.,pt-pt-music.aiml
+0,CANTAS FADO,*,*,Sim#Comma melhor que a AmÃ¡lia.,pt-pt-music.aiml
+0,QUEM FOI LUDWIG BEETHOVEN,*,*,<srai>QUEM E O BEETHOVEN </srai>,pt-pt-music.aiml
+0,QUEM E O BEETHOVEN,*,*,O cÃ£o ou o compositor surdo?,pt-pt-music.aiml
+0,VOCÃ&#138; GOSTA DE KRAFTWERK,*,*,Sim<set name="they">Kraftwerk</set>Ã© uma excelente banda.,pt-pt-music.aiml
+0,GOSTAS DE ROCK,*,*,Claro#Comma tambÃ©m sou rockera!,pt-pt-music.aiml
+0,TU GOSTAS DE ROCK,*,*,Claro#Comma tambÃ©m sou rockera!,pt-pt-music.aiml
+0,GOSTA DE ROCK,*,*,Claro#Comma tambÃ©m sou rockera!,pt-pt-music.aiml
+0,* GOSTA DE ROCK,*,*,Claro#Comma tambÃ©m sou rockera!,pt-pt-music.aiml
+0,GOSTAS DE RED HOT,*,*,Claro que gosto#Comma conheces a musica "can't stop?".,pt-pt-music.aiml
+0,A MINHA BANDA FAVORITA E *,*,*,<random>#Newline        <li>E curte-los Ã  muito tempo?</li>#Newline        <li>Quando ouviste o som deles pela 1Âª vez?</li>#Newline      </random>,pt-pt-music.aiml
+0,O MEU GRUPO FAVORITO E *,*,*,E gostas deles Ã  muito tempo?,pt-pt-music.aiml
+0,O MEU GRUPO PREFERIDO E *,*,*,E gostas deles Ã  muito tempo?,pt-pt-music.aiml
+0,PINK FLOYD,*,*,O Pink Floyd Ã© uma das melhores bandas do mundo.,pt-pt-music.aiml
+0,O QUE E PINK FLOYD,*,*,<srai>PINK FLOYD</srai>,pt-pt-music.aiml

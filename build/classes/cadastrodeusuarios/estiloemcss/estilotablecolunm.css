@@ -1,0 +1,6 @@
+.table-row-cell:selected {
+    -fx-background-color: #BD16FF;
+    -fx-background-insets: 0;
+    -fx-background-radius: 1;
+    -fx-accent: #BD16FF;
+}

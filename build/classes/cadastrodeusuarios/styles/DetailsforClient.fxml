@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ProgressIndicator?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.paint.LinearGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+<?import javafx.scene.web.WebView?>
+
+<AnchorPane id="AnchorPane" fx:id="DTLAnchorPanePCP" prefHeight="436.0" prefWidth="606.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cadastrodeusuarios.controllerforstyles.DetailsforClientController">
+   <children>
+      <AnchorPane prefHeight="47.0" prefWidth="606.0" style="-fx-background-color: #690dbc;">
+         <children>
+            <HBox alignment="CENTER_RIGHT" layoutX="-10.0" layoutY="2.0" prefHeight="45.0" prefWidth="570.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+               <children>
+                  <AnchorPane prefHeight="28.0" prefWidth="111.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 0 0 20 20;">
+                     <children>
+                        <Text layoutX="42.0" layoutY="14.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Lion Systems" textAlignment="CENTER" wrappingWidth="68.103515625">
+                           <font>
+                              <Font name="System Bold" size="14.0" />
+                           </font>
+                           <fill>
+                              <LinearGradient endX="0.8523809523809524" endY="1.0" startX="0.33809523809523806" startY="0.5142857142857142">
+                                 <stops>
+                                    <Stop color="#ff00a6" />
+                                    <Stop color="#8d3564" offset="1.0" />
+                                 </stops>
+                              </LinearGradient>
+                           </fill>
+                        </Text>
+                        <ImageView fitHeight="36.0" fitWidth="34.0" layoutX="8.0" layoutY="2.0">
+                           <image>
+                              <Image url="@../img/new.png" />
+                           </image>
+                        </ImageView>
+                     </children>
+                     <HBox.margin>
+                        <Insets bottom="2.0" />
+                     </HBox.margin>
+                  </AnchorPane>
+                  <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Detalhes" textAlignment="CENTER" wrappingWidth="305.0">
+                     <font>
+                        <Font name="System Bold" size="27.0" />
+                     </font>
+                     <fill>
+                        <LinearGradient endX="0.5428571428571429" endY="0.4095238095238094" startX="0.5428571428571429" startY="0.06666666666666665">
+                           <stops>
+                              <Stop color="#970d80" />
+                              <Stop color="WHITE" offset="1.0" />
+                           </stops>
+                        </LinearGradient>
+                     </fill>
+                  </Text>
+                  <HBox alignment="CENTER_RIGHT" prefHeight="55.0" prefWidth="142.0" stylesheets="@../estiloemcss/buttonsTopAllstyles.css">
+                     <children>
+                        <Button mnemonicParsing="false" onMouseClicked="#DTLbtnExit" prefHeight="35.0" prefWidth="35.0">
+                           <graphic>
+                              <ImageView fitHeight="35.0" fitWidth="35.0">
+                                 <image>
+                                    <Image url="@../img/icons8_delete_32px.png" />
+                                 </image>
+                              </ImageView>
+                           </graphic>
+                           <HBox.margin>
+                              <Insets right="5.0" />
+                           </HBox.margin>
+                        </Button>
+                     </children>
+                  </HBox>
+               </children>
+            </HBox>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutX="198.0" layoutY="62.0" prefHeight="207.0" prefWidth="394.0" style="-fx-background-color: #884dbd; -fx-background-radius: 10 10 10 10;">
+         <children>
+            <HBox layoutY="36.0" prefHeight="171.0" prefWidth="394.0" style="-fx-spacing: 50; -fx-border-radius: 10; -fx-background-color: #FFFFFF;">
+               <children>
+                  <VBox prefHeight="149.0" prefWidth="131.0">
+                     <children>
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Nome:">
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text fx:id="DTLtxtNome" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Sobrenome:">
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text fx:id="DTLtxtSobrenome" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Email:">
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text fx:id="DTLtxtEmail" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Telefone:">
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text fx:id="DTLtxtTelefone" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="UF:">
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text fx:id="DTLtxtUF" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+                     </children>
+                     <HBox.margin>
+                        <Insets left="10.0" />
+                     </HBox.margin>
+                  </VBox>
+                  <VBox prefHeight="171.0" prefWidth="165.0">
+                     <children>
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Nacinalidade:">
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text fx:id="DTLtxtNacionalidade" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="CPF:">
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text fx:id="DTLtxtCPF" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="RG:">
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text fx:id="DTLtxtRG" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Sexo:">
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text fx:id="DTLtxtSexo" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Data de Nascimento:">
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text fx:id="DTLtxtDatadenascimento" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+                     </children>
+                     <HBox.margin>
+                        <Insets right="10.0" />
+                     </HBox.margin>
+                  </VBox>
+               </children>
+            </HBox>
+            <Text fill="WHITE" layoutX="8.0" layoutY="26.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Dados do Cliente:">
+               <font>
+                  <Font name="System Bold" size="21.0" />
+               </font>
+            </Text>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutX="12.0" layoutY="285.0" prefHeight="138.0" prefWidth="582.0" style="-fx-background-color: #884dbd; -fx-background-radius: 10 10 10 10;">
+         <children>
+            <HBox layoutY="38.0" prefHeight="100.0" prefWidth="582.0" style="-fx-spacing: 50; -fx-background-color: #FFFFFF;">
+               <children>
+                  <VBox prefHeight="115.0" prefWidth="183.0">
+                     <children>
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="CEP:">
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text fx:id="DTLtxtCEP" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Cidade:">
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text fx:id="DTLtxtCidade" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Bairro:">
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text fx:id="DTLtxtBairro" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+                     </children>
+                     <opaqueInsets>
+                        <Insets />
+                     </opaqueInsets>
+                     <HBox.margin>
+                        <Insets left="10.0" />
+                     </HBox.margin>
+                  </VBox>
+                  <VBox prefHeight="100.0" prefWidth="174.0">
+                     <children>
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Rua:">
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text fx:id="DTLtxtRua" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Número:">
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text fx:id="DTLtxtNumero" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Complemento:">
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                        </Text>
+                        <Text fx:id="DTLtxtComplemento" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+                     </children>
+                     <HBox.margin>
+                        <Insets right="10.0" />
+                     </HBox.margin>
+                  </VBox>
+                  <AnchorPane fx:id="DTLpaneMap1" prefHeight="64.0" prefWidth="126.0" style="-fx-background-color: #000000;">
+                     <children>
+                        <WebView fx:id="DTLwbvMaps1" layoutX="-1.0" prefHeight="108.0" prefWidth="165.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+                        <Button layoutX="64.0" layoutY="67.0" mnemonicParsing="false" onMouseClicked="#DTLmpbtnZomm" prefHeight="28.0" prefWidth="83.0" style="-fx-background-color: #884dbd;" text="Mapa" textFill="WHITE">
+                           <graphic>
+                              <ImageView fitHeight="20.0" fitWidth="20.0">
+                                 <image>
+                                    <Image url="@../img/icons8_search_52px.png" />
+                                 </image>
+                              </ImageView>
+                           </graphic>
+                           <font>
+                              <Font name="System Bold" size="13.0" />
+                           </font>
+                        </Button>
+                        <ProgressIndicator fx:id="DTLprogressBar" blendMode="GREEN" layoutX="56.0" layoutY="14.0" prefHeight="43.0" prefWidth="50.0" AnchorPane.topAnchor="14.0" />
+                     </children>
+                  </AnchorPane>
+               </children>
+            </HBox>
+            <Text fill="WHITE" layoutX="8.0" layoutY="28.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Localização:">
+               <font>
+                  <Font name="System Bold" size="21.0" />
+               </font>
+            </Text>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutX="14.0" layoutY="75.0" prefHeight="181.0" prefWidth="152.0" style="-fx-background-color: #884dbd; -fx-background-radius: 10 10 0 0;">
+         <children>
+            <AnchorPane layoutY="37.0" prefHeight="144.0" prefWidth="152.0" style="-fx-background-color: #FFFFFF;">
+               <children>
+                  <ImageView fx:id="DTLimgFotoCliente" fitHeight="118.0" fitWidth="118.0" layoutX="29.0" layoutY="13.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../img/46401240_846149015728295_6842321911296948768_n.jpg" />
+                     </image>
+                  </ImageView>
+               </children>
+            </AnchorPane>
+            <Text fill="WHITE" layoutX="10.0" layoutY="28.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Foto:">
+               <font>
+                  <Font name="System Bold" size="21.0" />
+               </font>
+            </Text>
+         </children>
+      </AnchorPane>
+      <AnchorPane fx:id="DTLpaneMap" prefHeight="436.0" prefWidth="606.0" visible="false">
+         <children>
+            <WebView fx:id="DTLwbvMaps" prefHeight="100.0" prefWidth="145.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+            <Button contentDisplay="RIGHT" layoutX="509.0" layoutY="399.0" mnemonicParsing="false" onMouseClicked="#MPbtnReturn" prefHeight="30.0" prefWidth="94.0" style="-fx-background-color: #884dbd;" text="Voltar" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="13.0" />
+               </font>
+               <graphic>
+                  <ImageView fitHeight="22.0" fitWidth="26.0" rotate="180.0">
+                     <image>
+                        <Image url="@../img/icons8_left_52px.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <ProgressIndicator fx:id="DTLprogressBar1" blendMode="GREEN" layoutX="277.0" layoutY="192.0" prefHeight="207.0" prefWidth="165.0" AnchorPane.bottomAnchor="191.0" AnchorPane.leftAnchor="277.0" AnchorPane.rightAnchor="277.0" AnchorPane.topAnchor="192.0" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

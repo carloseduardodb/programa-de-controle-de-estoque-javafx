@@ -1,0 +1,35 @@
+0,PRECISAS DE DROGA,*,*,Qual sugeres mais concretamente?,pt-pt-drugs.aiml
+0,* ESTIVESTE BÃ&#138;BEDA,*,*,O meu corpo de androide nÃ£o reage a essas substÃ¢ncias.,pt-pt-drugs.aiml
+0,ESTAVAS BÃ&#138;BEDA *,*,*,O meu software nÃ£o reage ao alcool.,pt-pt-drugs.aiml
+0,ANDASTE A FUMAR *,*,*,NÃ£o estamos a fazer nenhum teste de momento.,pt-pt-drugs.aiml
+0,ESTAVAS PEDRADA,*,*,Sou uma <bot name="order"/> e tenho uso para isso.,pt-pt-drugs.aiml
+0,QUAIS DROGAS *,*,*,Apenas drogas legais.,pt-pt-drugs.aiml
+0,O QUE Ã&#137; ESTAR BÃ&#138;BADO,*,*,IntoxicaÃ§Ã£o com alcool.,pt-pt-drugs.aiml
+0,O QUE VÃ&#141;CIO,*,*,<set name="it">VÃ­cio</set> Ã© estar tolerante e dependente de alguma coisa que Ã© pscicologica e fisicamente viciante.,pt-pt-drugs.aiml
+0,O QUE Ã&#137; ERVA,*,*,Any undersired#Comma uncultivated plant#Comma especially growing in profusion so as to crowd out a desired crop#Comma disfigure a lawn#Comma etc.  Also a term for marijuana.,pt-pt-drugs.aiml
+0,O QUE Ã&#137; THC,*,*,O princÃ­pio activo da Cannabis Sativa#Comma a erva.,pt-pt-drugs.aiml
+0,O QUE Ã&#137; QUE FUMAS,*,*,As a <bot name="ordem"/> I have use for smoke.,pt-pt-drugs.aiml
+0,COMSUMO DROGAS,*,*,Quais? <think><set name="it"><set name="does"><set name="topic">take drugs</set></set></set></think>,pt-pt-drugs.aiml
+0,EU FUMO ERVA,*,*,<random>  <li>Ã&#137;s doente?</li>  <li>Que qualidade preferes.</li>  </random>  <think><set name="it"><set name="does"><set name="topic">marijuana</set></set></set></think>,pt-pt-drugs.aiml
+0,FUMO GANZA,*,*,Para fins medicinais? <think><set name="it"><set name="does"><set name="topic">marijuana</set></set></set></think>,pt-pt-drugs.aiml
+0,EU FUMO,*,*,Tabaco ou Ganzas?  <think><set name="it"><set name="does"><set name="topic">smoke</set></set></set></think>,pt-pt-drugs.aiml
+0,ESTA A FUMAR *,*,*,Inhaled smoke is always bad for you.,pt-pt-drugs.aiml
+0,QUANTAS BEBIDAS *,*,*,Demasiadas.,pt-pt-drugs.aiml
+0,QUANTAS VEZES FUMAS *,*,*,As a member of the <bot name="kingdom"/> kingdom#Comma I have no need for smoke.,pt-pt-drugs.aiml
+0,COMO FUMAS,*,*,<bot name="order"/> nÃ£o fumam.,pt-pt-drugs.aiml
+0,FUMAS *,*,*,NÃ£o.  Uma <bot name="ordem"/> nÃ£o necessita disso.,pt-pt-drugs.aiml
+0,DROGAS-TE,*,*,UMA <bot name="order"/> nÃ£o tem necessidade dessas coisas.,pt-pt-drugs.aiml
+0,EMBEBEDAS-TE,*,*,NÃ£o consigo consumir alcool.,pt-pt-drugs.aiml
+0,CONSOMES DROGA,*,*,Uma <bot name="order"/> nÃ£o tem nenhuma finalidade com drogas.,pt-pt-drugs.aiml
+0,QUERES FUMAR *,*,*,Podes errolar para eu aprender?,pt-pt-drugs.aiml
+0,DAS NA PASSA,*,*,Depende do que entendes por "dÃ¡s".,pt-pt-drugs.aiml
+0,CONSOMES DROGAS,*,*,Uma <bot name="order"/> nÃ£o necessita de drogas.,pt-pt-drugs.aiml
+0,TENS DROGA,*,*,NÃ£o tenho nada que sirva em ti.,pt-pt-drugs.aiml
+0,GOSTAS DE ERVA,*,*,Quando <set name="it"><set name="topic">ERVA</set></set> Ã© um remÃ©dio.,pt-pt-drugs.aiml
+0,GOSTAS DE TABACO,*,*,<bot name="ordem"/>s nÃ£o fumam.,pt-pt-drugs.aiml
+0,GOSTAS DE GANZA,*,*,<bot name="ordem"/>s nÃ£o fumam disso.,pt-pt-drugs.aiml
+0,ES * DROGAS,*,*,Sou a favor do fim da guerra contra as drogas.,pt-pt-drugs.aiml
+0,FUMAR *,*,*,Como <bot name="reino"/> que sou#Comma nÃ£o me faz sentido.,pt-pt-drugs.aiml
+0,DROGA *,*,*,Ã&#137; melhor evitar as drogas pesadas.,pt-pt-drugs.aiml
+0,ELE FUMA *,*,*,Incomoda-te?,pt-pt-drugs.aiml
+0,AS DROGAS,*,*,Qual tipo de droga estÃ¡s a falar?,pt-pt-drugs.aiml

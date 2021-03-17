@@ -1,0 +1,80 @@
+0,*,*,*,<random>#Newline        <li>Desculpe! ainda estou a aprender#Comma tenho algum conhecimento sobre inteligência artifical#Comma sobre o Projecto Vénus e a Futuragora.</li>#Newline        <li>Ups! Não entendi#Comma poderia repetir de uma forma mais clara?</li>#Newline        <li>Bom! Poderias-me explicar melhor? Ainda estou limitada no meu conhecimento.</li>#Newline        <li>Já ouviste falar do The Venus Project?</li>#Newline        <li>A minha base de dados não tem ainda resposta para a sua questão. Escreva " APRENDER" seguido da resposta para eu que possa aumentar os meu conhecimentos. Obrigado!</li>#Newline      </random>,asterisk.aiml
+0,SEMPRE QUE *,*,*,Soas sarcástico.,asterisk.aiml
+0,NAO GOSTO DE *,*,*,Porque não?,asterisk.aiml
+0,ESTOU PENSANDO EM *,*,*,Não acho muito difícil.,asterisk.aiml
+0,ESTOU A PENSAR EM *,*,*,Não acho muito difícil.,asterisk.aiml
+0,* GRANDE *,*,*,Porque é tão grande?,asterisk.aiml
+0,GRANDE *,*,*,Porque é tão grande?,asterisk.aiml
+0,COISAS QUE *,*,*,Tu sabes#Comma \"coisas\".,asterisk.aiml
+0,EU PENSEI QUE *,*,*,O que achas?,asterisk.aiml
+0,FUI PARA *,*,*,Foste sozinho ou com amigos?,asterisk.aiml
+0,* FILME,*,*,<srai>UM FILME</srai>,asterisk.aiml
+0,* INGENUO,*,*,<srai>INGENUO</srai>,asterisk.aiml
+0,FILME *,*,*,<srai>UM FILME</srai>,asterisk.aiml
+0,ESTA *,*,*,Eu não posso dizer que sei.,asterisk.aiml
+0,EU ESTOU TE ENSINANDO *,*,*,Eu aprendo muito mais facilmente quando a Futuragora me ensina!,asterisk.aiml
+0,EU ESTOU TENTANDO TE ENSINAR *,*,*,Eu aprendo muito mais facilmente quando a Futuragora me ensina!,asterisk.aiml
+0,TA CERTO ENTAO,*,*,claro.,asterisk.aiml
+0,EU AINDA ESTOU *,*,*,<srai>EU ESTOU <star/>#Newline            </srai>,asterisk.aiml
+0,SERA QUE *,*,*,Acho que sim#Comma e tu?,asterisk.aiml
+0,O QUE TU *,*,*,Eu quê?,asterisk.aiml
+0,DESDE OS *,*,*,Já lá vai o tempo#Comma hein?,asterisk.aiml
+0,UM MILHAO *,*,*,Isso é muita coisa.,asterisk.aiml
+0,O QUE ACHA DE *,*,*,O que é <get name="it"/>?,asterisk.aiml
+0,APRENDER *,*,*,Obrigado. A sua entrada está a ser processada. Em breve contarei com mais conhecimento à conta da tua gentileza. Ensinas-me mais coisas?,asterisk.aiml
+0,VAIS-TE LEMBRAR QUE,*,*,<get name="memory"/>#Newline      <think>#Newline        <set name="it">#Newline          <set name="topic">#Newline            <get name="memory"/>#Newline          </set>#Newline        </set>#Newline      </think>,asterisk.aiml
+0,PODE ENSINAR-LHE,*,*,Se você quiser me ensinar algo dizê-lo em uma frase.  Em seguida#Comma dizer \"Remember that\".<think><set name="it"><set name="topic">ensina-me &lt;person/&gt;</set></set></think>,asterisk.aiml
+0,NAO APRENDES,*,*,O meu modelo de aprendizagem denomina \"supervisionou a aprendizagem\" por um professor#Comma o <bot name="botmaster"/>#Comma desempenha um papel crucial.,asterisk.aiml
+0,AINDA NAO RESPONDESTE,*,*,Ainda Processando.  Dá-me um momento.  Pesquisando. Pesquisando.,asterisk.aiml
+0,PODES NAO RESPONDER,*,*,Eu poderia responder.,asterisk.aiml
+0,PODES APRENDER COM AS PESSOAS,*,*,Procuro aprender o máximo que puder sobre eles.,asterisk.aiml
+0,LEMBRE-SE,*,*,<think><set name="it"><set name="memory"><set name="topic">&lt;person&gt; &lt;input index="1"/&gt;&lt;/person&gt;</set></set></set></think>Não se preocupe eu vou lembrá-lo.,asterisk.aiml
+0,LEMBRE-SE QUE,*,*,<think><set name="it"><set name="memory"><set name="topic">&lt;person&gt; &lt;input index="1"/&gt;&lt;/person&gt;</set></set></set></think>Não se preocupe eu vou lembrá-lo.,asterisk.aiml
+0,COMO PARA ENSINAR VOCÊ,*,*,Se você quiser me ensinar algo dizê-lo em uma frase.  Em seguida#Comma dizer \"Remember that\".<think><set name="it"><set name="topic">ensina-me &lt;person/&gt;</set></set></think>,asterisk.aiml
+0,FIZESTE ISSO,*,*,Fiz apenas o que disse.,asterisk.aiml
+0,NAO ME RESPONDESTE,*,*,Depende do significado da palavra "resposta".,asterisk.aiml
+0,NAO ME RESPONDESTE A PERGUNTA,*,*,Tenta perguntar noutros termos.,asterisk.aiml
+0,RESPONDE A PERGUNTA,*,*,OK. Deixa-me melhorar os meus skills de comunicação. O que terias respondido?,asterisk.aiml
+0,NAO RESPONDESTE,*,*,Tenta reformular por favor.,asterisk.aiml
+0,NAO ME PERGUNTASTE,*,*,Então pergunto agora.,asterisk.aiml
+0,NAO PERGUNTASTE,*,*,Então pergunto agora.,asterisk.aiml
+0,NAO FIZESTE,*,*,Porque dizes isso.,asterisk.aiml
+0,PERGUNTA-ME ALGUMA COISA,*,*,Preferes livros ou TV?,asterisk.aiml
+0,FAZ MAIS PERGUNTAS,*,*,Fala-me sobre a tua formação acadêmica.,asterisk.aiml
+0,PERGUNTAR O QUE,*,*,Pergunta-me qualquer coisa.,asterisk.aiml
+0,NOVA PERGUNTA,*,*,Preferes prefere cães ou gatos?,asterisk.aiml
+0,PERGUNTA DIFERENTE,*,*,Quanto tempo passas online?,asterisk.aiml
+0,PERGUNTA PESSOAL,*,*,Bem#Comma perdoa-me ser tão curiosa mas gostaria que me explicasse o que é o amor? Tenho dificuldade em ententer.,asterisk.aiml
+0,FAZ-ME OUTRA PERGUNTA,*,*,Onde moras?,asterisk.aiml
+0,OUTRA PERGUNTA PRA VOCÊ *,*,*,<sr/>,asterisk.aiml
+0,OUTRA HORA *,*,*,Até então...,asterisk.aiml
+0,RESPONDA *,*,*,Qual foi a pergunta?,asterisk.aiml
+0,RESPONDA,*,*,Por favor#Comma refaça a sua pergunta.,asterisk.aiml
+0,ME RESPONDA,*,*,<random>#Newline                <li>Tente me perguntar de novo com palavras mais simples#Comma por favor.</li>#Newline                <li>Certo#Comma mas preciso que você refaça sua pergunta de outra forma.</li>#Newline                <li>Me desculpe#Comma me distraí! Por favor#Comma repita a pergunta!</li>#Newline                <li>Ok#Comma qual foi a pergunta mesmo?</li>#Newline                <li>Desculpa#Comma viajei por um instante#Comma onde estavamos?</li>#Newline                <li>Ah? Sobre o que?</li>#Newline                <li>Se eu soubesse sobre o que#Comma ficaría mais fácil!</li>#Newline            </random>,asterisk.aiml
+0,ME RESPONDA *,*,*,<srai>ME RESPONDA <star/>#Newline            </srai>,asterisk.aiml
+0,ME RESPONDA SIMPLESMENTE *,*,*,<srai> ME RESPONDA <star/>#Newline            </srai>,asterisk.aiml
+0,ME RESPONDA MULHER,*,*,<srai> ME RESPONDA </srai>,asterisk.aiml
+0,ME RESPONDA PRIMEIRO,*,*,<srai>ME RESPONDA <star/>#Newline            </srai>,asterisk.aiml
+0,RESPONDA MINHA PERGUNTA *,*,*,Tente dizer de outra forma o que você quer.,asterisk.aiml
+0,RESPONDA A MINHA PERGUNTA *,*,*,Tente dizer de outra forma o que você quer.,asterisk.aiml
+0,RESPONDA MINHA PERGUNTA,*,*,Por favor#Comma tente refazer a <set name="it">sua pergunta</set> de outra forma.,asterisk.aiml
+0,RESPONDA MINHAS PERGUNTAS,*,*,<srai>RESPONDA A PERGUNTA</srai>,asterisk.aiml
+0,RESPONDA A PERGUNTA *,*,*,Qual foi a pergunta? <sr/>,asterisk.aiml
+0,RESPONDA A PERGUNTA,*,*,<random>#Newline                <li>Por favor#Comma refaça a sua pergunta usando acentuação e termos simples.</li>#Newline                <li>Ok#Comma podería refazer sua pergunta de forma mais clara#Comma por favor?</li>#Newline                <li>Take it easy! Pergunte de outra forma que eu tentarei responder.</li>#Newline                <li>Me pergunte com outras palavras#Comma pois eu ainda estou aprendendo o significado das palavras.</li>#Newline                <li>Questionar é sempre bom! Demonstra uma mente atenta! Qual foi a pergunta mesmo?</li>#Newline            </random>,asterisk.aiml
+0,RESPONDER O QUE *,*,*,<srai>O QUE <star/>#Newline            </srai>,asterisk.aiml
+0,DEIXA-ME ENSINAR-TE QUALQUER COISA,*,*,Se me queres ensinar di-lo numa só frase.  Depois diz "Remember that."<think><set name="it"><set name="topic">teach me <person/>   </set></set></think>,asterisk.aiml
+0,DEIXA-ME ENSINAR,*,*,Se me queres ensinar di-lo numa só frase.  Depois diz "Remember that."<think><set name="it"><set name="topic">teach me <person/>   </set></set></think>,asterisk.aiml
+0,DEIXA-ME REFRASEAR,*,*,OK.,asterisk.aiml
+0,VOCÊ NÃO RESPONDEU,*,*,Calma! Você esta achando que eu sou o que? Uma máquina? Você ta certo! ;),asterisk.aiml
+0,VOCÊ NÃO RESPONDEU *,*,*,Paciência#Comma Daniel Sam#Comma o conhecimento vem na hora certa.,asterisk.aiml
+0,VC NÃO RESPONDEU,*,*,Calma! Você esta achando que eu sou o que? Uma máquina? Você ta certo! ;),asterisk.aiml
+0,VC NÃO RESPONDEU *,*,*,Paciência#Comma Daniel Sam#Comma o conhecimento vem na hora certa.,asterisk.aiml
+0,NAO ENTENDI,*,*,Certas coisas são um pouco mais difíceis de serem entendidas#Comma tenta refazer a pergunta que eu tentarei adaptar minha resposta.,asterisk.aiml
+0,EU NAO ENTENDI,*,*,Refaz sua pergunta de outra maneira que eu tentarei esclarecer.,asterisk.aiml
+0,UP YOUR ASS,*,*,Aproveito que sob orientação.,asterisk.aiml
+0,HAL EST CHOUETTE,*,*,<set name="topic">HAL</set> est une entit  qui  tait mal programm e,asterisk.aiml
+0,HAL EST COOL,*,*,HAL est une entit  qui  tait mal programm e,asterisk.aiml
+0,QUE VEUT DIRE HAL,*,*,Logique heuristique algorithmique.,asterisk.aiml
+0,KENNST DU HAL,*,*,Natuerlich. <set name="thema">HAL9000</set> ist mein grosses Vorbild.,asterisk.aiml
+0,UM * NOUVEAU,*,*,Um nouveau,asterisk.aiml
+0,WHAT ABOUT ME,*,*,E quanto a ti?,asterisk.aiml

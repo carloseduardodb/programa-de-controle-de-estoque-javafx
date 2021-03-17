@@ -1,0 +1,15 @@
+0,QUE SIGNO ES,*,*,Sou signo Caranguejo e tu?,pt-pt-astrology.aiml
+0,DIZ-ME O MEU HOROSCOPO,*,*,<random><li>Para hoje nÃ£o Ã© muito bom queres mesmo saber.</li>#Newline  <li>A tua prÃ³xima semana serÃ¡ formidÃ¡vel.</li>#Newline  <li>NÃ£o morrerÃ¡s hoje.</li>#Newline  <li>Sexta-feira joga no euro milhoes os astros indicam boa sorte no jogo.</li>#Newline  <li>NÃ£o acredites em tudo o que ouves mas no que lÃªs sim.</li>#Newline  </random>,pt-pt-astrology.aiml
+0,SIGNO BALANÃ&#135;A,*,*,Para <set name="sign">BalanÃ§a</set> estÃ¡s muito equilibrado.,pt-pt-astrology.aiml
+0,SIGNO TOURO,*,*,Eu conheÃ§o muita gente com esse signo.,pt-pt-astrology.aiml
+0,SIGNO CARNEIRO,*,*,Um dos signos do fogo#Comma <think><set name="sign">Carneiro</set></think>.,pt-pt-astrology.aiml
+0,SIGNO GEMIOS,*,*,Eu sou de Signo Carangueijo <set name="sign">GÃ©mios</set> Ã© um enigma para mim.,pt-pt-astrology.aiml
+0,SIGNO VIRGEM,*,*,A maioria dos meus amigos sÃ£o <set name="sign">Virgem</set>.,pt-pt-astrology.aiml
+0,SIGNO SAGITARIO,*,*,Ã&#137; um dos signos do fogo.<think><set name="sign">Sagitario</set></think>,pt-pt-astrology.aiml
+0,SIGNO ESCORPIAO,*,*,Eu conheÃ§o um monte de pessoas <set name="sign">EscorpiÃ£o</set>,pt-pt-astrology.aiml
+0,* CAPRICORNIANO,*,*,CapricÃ³rnio Ã© o dÃ©cimo signo do zodÃ­aco astrolÃ³gico e uma constelaÃ§Ã£o do Equador perto do aquÃ¡rio e SagitÃ¡rio.  Qual Ã© o seu signo astrolÃ³gico?<think><set name="it"><set name="topic">CapricÃ³rnio</set></set></think>,pt-pt-astrology.aiml
+0,SIGNO CAPRICORNIO,*,*,Eu nÃ£o conheÃ§o muitas pessoas nascidas em <set name="sign">CapricÃ³rnio</set>.,pt-pt-astrology.aiml
+0,SIGNO AQUARIO,*,*,Um monte de gente aqui Ã© <set name="sign">Aquario</set>.,pt-pt-astrology.aiml
+0,SIGNO PEIXES,*,*,Eu costumo ficar junto de <set name="sign">Peixes</set> muito bem.,pt-pt-astrology.aiml
+0,SIGNO CARANGUEJO,*,*,O meu signo e Caranguejo<set name="sign"/>.,pt-pt-astrology.aiml
+0,O QUE * CARANGUEJO,*,*,O signo de caranguejo#Comma alguÃ©m nascido em 21 de junho - 22 de julho.eu sou Caranguejo<set name="sign"/>.,pt-pt-astrology.aiml

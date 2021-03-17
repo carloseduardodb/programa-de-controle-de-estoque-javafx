@@ -1,0 +1,27 @@
+0,QUAIS SAO AS LEIS DA TERMODINAMICA,*,*,NÃ£o sou fÃ­sico mas acho que tem a ver com calor#Comma entropia e conservaÃ§Ã£o de energia certo?,pt-pt-science.aiml
+0,O QUE CAUSA UM TUMOR,*,*,CÃ¢ncro.,pt-pt-science.aiml
+0,* E COMPRIMENTO DE ONDA,*,*,Comprimento de onda Ã© a relaÃ§Ã£o inversa de frequÃªncia.,pt-pt-science.aiml
+0,* E * TERMODINAMICA,*,*,Ã&#137; o ramo da fÃ­sica que se debruÃ§a sobre a transformaÃ§Ã£o do calor de e para outras forma de energia e a leis que regulam essas conversÃµes de energia.,pt-pt-science.aiml
+0,O QUE E QUIMICA,*,*,A ciÃªncia de misturar produtos quÃ­micos.<think>         <set name="it">           <set name="topic">QUÃ&#141;MICA</set>         </set>       </think>,pt-pt-science.aiml
+0,O QUE E CRISTALOGRAFIA,*,*,Esta Ã© a ciÃªncia que lida com o estudo de cristais.,pt-pt-science.aiml
+0,WHAT IS AVOGADRO S NUMBER,*,*,Ã&#137; o nÃºmero de molÃ©culas por mole. O valor numÃ©rico Ã© seis ponto zero dois vezes dez elevado Ã  potÃªncia vigÃ©simo terceiro.<think>         <set name="it">           <set name="topic">AVOGADRO S NUMBER</set>         </set>       </think>,pt-pt-science.aiml
+0,* E ULTRASOM,*,*,Ultrasom Ã© uma onda usada em medicina circurgica#Comma em diagnÃ³stico#Comma terapia#Comma etc.,pt-pt-science.aiml
+0,O QUE E A BIOINFORMATICA,*,*,Um nome pomposo para aplicar a ciÃªncia da computaÃ§Ã£o na biologia.<think>         <set name="it">           <set name="topic">BIOINFORMÃ&#129;TICA</set>         </set>       </think>,pt-pt-science.aiml
+0,* QUE E VENUS,*,*,Na mitologia romana#Comma a deusa do amor e da beleza#Comma identificada com a grega Afrodite. O mais brilhante#Comma sexto maior planeta do sistema solar e a segunda em distÃ¢ncia do Sol#Comma com uma densa atmosfera de diÃ³xido de carbono e uma temperatura de superfÃ­cie muito elevada. Seu diÃ¢metro Ã© de cerca de 12#Comma100 km (cerca de 7#Comma520 milhas). Seu perÃ­odo de revoluÃ§Ã£o Ã© de cerca de 225 dias terrestres. Seu perÃ­odo de rotaÃ§Ã£o (retrÃ³grado)#Comma Ã© 243.01 dias terrestres. TambÃ©m Ã© usado para rotular uma mulher muito bonita.,pt-pt-science.aiml
+0,O QUE E ICTIOLOGIA,*,*,NÃ³s falamos sobre isso quando estudamos peixes.,pt-pt-science.aiml
+0,* H2O,*,*,<random>         <li>Um Ã¡tomo de hidrogÃ©nio e dois de oxigÃ©nio.</li>         <li>Ã&#129;gua.</li>       </random>,pt-pt-science.aiml
+0,O QUE E CITOLOGIA,*,*,<random>         <li>O estudo das cÃ©lulas.</li>         <li>Bem#Comma <get name="name"/> pelo que eu lembro-me Ã© o estudo das cÃ©lulas.</li>       </random>,pt-pt-science.aiml
+0,O QUE E O COMPRIMENTO DE ONDA,*,*,Em FÃ­sica#Comma a distÃ¢ncia#Comma medida na direcÃ§Ã£o de propagaÃ§Ã£o de uma onda#Comma a partir de qualquer ponto dado para o prÃ³ximo ponto caracterizado pela a mesma fase. Ou poderia ser encarado como uma forma de pensar.,pt-pt-science.aiml
+0,O QUE E BACTERIOLOGIA,*,*,Este Ã© o estudo cientÃ­fico de bactÃ©rias e doenÃ§as causadas por elas.,pt-pt-science.aiml
+0,O QUE E A GRAVITAÃ&#135;AO,*,*,<random>         <li>Um convite para um enterro.</li>         <li>A forÃ§a pela qual cada massa ou partÃ­cula de matÃ©ria#Comma incluindo fÃ³tons#Comma atrai e Ã© atraÃ­do por cada massa ou outra partÃ­cula de matÃ©ria.</li>       </random>,pt-pt-science.aiml
+0,ESTAMOS NO MESMO COMPRIMENTO DE ONDA,*,*,E a mesma frequÃªncia.,pt-pt-science.aiml
+0,QUAL A DISTANCIA DO SOL,*,*,<set name="it">O Sol</set> Cerca de 93 milhÃµes de quilÃ´metros da Terra.,pt-pt-science.aiml
+0,QUAL A DISTANCIA  DA LUA,*,*,A <set name="it">Lua </set> estÃ¡ a cerca de 250.000 quilÃ´metros da Terra.,pt-pt-science.aiml
+0,SABES DE QUIMICA,*,*,<srai>O QUE E QUIMICA</srai>,pt-pt-science.aiml
+0,ENTENDES DE TERMODINAMICA,*,*,<srai>QUAIS SAO AS LEIS DA TERMODINAMICA</srai>,pt-pt-science.aiml
+0,QUIMICA,*,*,<srai>MINHA MATÃ&#137;RIA PREFERIDA E QUIMICA <star/>       </srai>,pt-pt-science.aiml
+0,MESMO COMPRIMENTO DE ONDA,*,*,Isso significa que estamos de acordo.,pt-pt-science.aiml
+0,* SOBRE VENUS,*,*,<srai>* QUE E VENUS</srai>,pt-pt-science.aiml
+0,ONDE * VENUS,*,*,<set name="it">         <set name="topic"> VENUS </set>       </set> Ã&#137; o segundo planeta a partir do sol.,pt-pt-science.aiml
+0,* AMOR,*,*,Amor Ã© fogo que arde sem se ver.,pt-pt-science.aiml
+0,* QUE * PLANTA,*,*,Ã&#137; um organismo vivo pertencente ao ramo vegetal. Ã&#137; e um ser vivo que depende de agua e luz e um bom solo para viver.,pt-pt-science.aiml

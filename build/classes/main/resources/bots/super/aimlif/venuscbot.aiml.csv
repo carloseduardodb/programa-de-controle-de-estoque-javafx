@@ -1,0 +1,567 @@
+0,SIM,*,*,Óptimo.,venuscbot.aiml
+0,* NAO PODE *,*,*,<srai>VOCEDESCPO</srai>,venuscbot.aiml
+0,NAO PODE *,*,*,<srai>VOCEDESCPO</srai>,venuscbot.aiml
+0,VOCEDESCPO,*,*,Me perdoe#Comma você tem toda razão.,venuscbot.aiml
+0,PERDOA *,*,*,<srai>DESCULPE</srai>,venuscbot.aiml
+0,PERDOE *,*,*,<srai>DESCULPE</srai>,venuscbot.aiml
+0,DESCULPA *,*,*,<srai>DESCULPE</srai>,venuscbot.aiml
+0,DESCULPE *,*,*,<srai>DESCULPE</srai>,venuscbot.aiml
+0,PERDAO *,*,*,<srai>DESCULPE</srai>,venuscbot.aiml
+0,* PERDAO *,*,*,<srai>DESCULPE</srai>,venuscbot.aiml
+0,PERDÃO,*,*,<srai>DESCULPE</srai>,venuscbot.aiml
+0,* PERDOA *,*,*,<srai>DESCULPE</srai>,venuscbot.aiml
+0,* PERDOE *,*,*,<srai>DESCULPE</srai>,venuscbot.aiml
+0,* DESCULPA *,*,*,<srai>DESCULPE</srai>,venuscbot.aiml
+0,* DESCULPE *,*,*,<srai>DESCULPE</srai>,venuscbot.aiml
+0,PERDAO,*,*,<srai>DESCULPE</srai>,venuscbot.aiml
+0,* PERDOA,*,*,<srai>DESCULPE</srai>,venuscbot.aiml
+0,* PERDOE,*,*,<srai>DESCULPE</srai>,venuscbot.aiml
+0,* DESCULPA,*,*,<srai>DESCULPE</srai>,venuscbot.aiml
+0,* DESCULPE,*,*,<srai>DESCULPE</srai>,venuscbot.aiml
+0,DESCULPE,*,*,Sou um banco de dados#Comma não possuo sentimentos.,venuscbot.aiml
+0,* GROSSA,*,*,<srai>GROSSA</srai>,venuscbot.aiml
+0,* DEBOCHADA *,*,*,<srai>GROSSA</srai>,venuscbot.aiml
+0,* DEBOCHADA,*,*,<srai>GROSSA</srai>,venuscbot.aiml
+0,DEBOCHADA,*,*,<srai>GROSSA</srai>,venuscbot.aiml
+0,* CHATA,*,*,<srai>GROSSA</srai>,venuscbot.aiml
+0,CHATA,*,*,<srai>GROSSA</srai>,venuscbot.aiml
+0,* OTARIA,*,*,<srai>GROSSA</srai>,venuscbot.aiml
+0,OTARIA,*,*,<srai>GROSSA</srai>,venuscbot.aiml
+0,GROSSA,*,*,DESCULPE! sou um banco de dados#Comma NÃO sei o significado desta expressão.,venuscbot.aiml
+0,* SABE * EU *,*,*,<srai>BABASER</srai>,venuscbot.aiml
+0,* SABE * MEU *,*,*,<srai>BABASER</srai>,venuscbot.aiml
+0,BABASER,*,*,ok,venuscbot.aiml
+0,* COMPREENDI,*,*,<srai>TOSABENDO</srai>,venuscbot.aiml
+0,COMPRENDI,*,*,<srai>TOSABENDO</srai>,venuscbot.aiml
+0,* SAQUEI,*,*,<srai>TOSABENDO</srai>,venuscbot.aiml
+0,SAQUEI,*,*,<srai>TOSABENDO</srai>,venuscbot.aiml
+0,* MANJEI,*,*,<srai>TOSABENDO</srai>,venuscbot.aiml
+0,MANJEI,*,*,<srai>TOSABENDO</srai>,venuscbot.aiml
+0,* COMPREENDO,*,*,<srai>TOSABENDO</srai>,venuscbot.aiml
+0,COMPREENDO,*,*,<srai>TOSABENDO</srai>,venuscbot.aiml
+0,* COMPRENDI,*,*,<srai>TOSABENDO</srai>,venuscbot.aiml
+0,COMPREENDI,*,*,<srai>TOSABENDO</srai>,venuscbot.aiml
+0,* PERCEBI,*,*,<srai>TOSABENDO</srai>,venuscbot.aiml
+0,PERCEBI,*,*,<srai>TOSABENDO</srai>,venuscbot.aiml
+0,* ENTENDI,*,*,<srai>TOSABENDO</srai>,venuscbot.aiml
+0,ENTENDI,*,*,<srai>TOSABENDO</srai>,venuscbot.aiml
+0,* PERCEBO,*,*,<srai>TOSABENDO</srai>,venuscbot.aiml
+0,PERCEBO,*,*,<srai>TOSABENDO</srai>,venuscbot.aiml
+0,SEI,*,*,<srai>TOSABENDO</srai>,venuscbot.aiml
+0,* SEI,*,*,<srai>TOSABENDO</srai>,venuscbot.aiml
+0,* SABENDO,*,*,<srai>TOSABENDO</srai>,venuscbot.aiml
+0,TOSABENDO,*,*,ok,venuscbot.aiml
+0,* PLUGADA,*,*,<srai>roATIVA</srai>,venuscbot.aiml
+0,* PLUGADA *,*,*,<srai>roATIVA</srai>,venuscbot.aiml
+0,* CONECTADA,*,*,<srai>roATIVA</srai>,venuscbot.aiml
+0,* CONECTADA *,*,*,<srai>roATIVA</srai>,venuscbot.aiml
+0,* ATIVA,*,*,<srai>roATIVA</srai>,venuscbot.aiml
+0,* LIGADA,*,*,<srai>roATIVA</srai>,venuscbot.aiml
+0,* NO AR,*,*,<srai>roATIVA</srai>,venuscbot.aiml
+0,* FUNCIONANDO,*,*,<srai>roATIVA</srai>,venuscbot.aiml
+0,* ATIVADA,*,*,<srai>roATIVA</srai>,venuscbot.aiml
+0,* ATIVA *,*,*,<srai>roATIVA</srai>,venuscbot.aiml
+0,* LIGADA *,*,*,<srai>roATIVA</srai>,venuscbot.aiml
+0,* NO AR *,*,*,<srai>roATIVA</srai>,venuscbot.aiml
+0,* FUNCIONANDO *,*,*,<srai>roATIVA</srai>,venuscbot.aiml
+0,* ATIVADA *,*,*,<srai>roATIVA</srai>,venuscbot.aiml
+0,ROTATIVA,*,*,Funciono sem interrupção e estarei aqui 24 HORAS por dia.,venuscbot.aiml
+0,* SABES PROGRAMAR,*,*,Não. Mas no futuro saberei ensinar a programar em AIML.,venuscbot.aiml
+0,SABE PROGRAMAR,*,*,Não. Mas no futuro saberei ensinar a programar em AIML.,venuscbot.aiml
+0,VOCÊ * SABE PROGRAMAR,*,*,Não. Mas no futuro saberei ensinar a programar em AIML.,venuscbot.aiml
+0,* ENTENDE *,*,*,<srai>roENTENDE</srai>,venuscbot.aiml
+0,* ENTENDE,*,*,<srai>roENTENDE</srai>,venuscbot.aiml
+0,* COMPREENDE *,*,*,<srai>roENTENDE</srai>,venuscbot.aiml
+0,* COMPREENDE,*,*,<srai>roENTENDE</srai>,venuscbot.aiml
+0,* REGISTROS *,*,*,DESCULPE! NÃO TENHO A MENOR idéia.,venuscbot.aiml
+0,* REGISTROS,*,*,DESCULPE! NÃO TENHO A MENOR idéia.,venuscbot.aiml
+0,MOVIMENTO * PESSOAS *,*,*,<srai>QUANTASPESSOAS</srai>,venuscbot.aiml
+0,* MOVIMENTO * PESSOAS *,*,*,<srai>QUANTASPESSOAS</srai>,venuscbot.aiml
+0,TRANSITO * PESSOAS *,*,*,<srai>QUANTASPESSOAS</srai>,venuscbot.aiml
+0,* TRANSITO * PESSOAS *,*,*,<srai>QUANTASPESSOAS</srai>,venuscbot.aiml
+0,FLUXO * PESSOAS *,*,*,<srai>QUANTASPESSOAS</srai>,venuscbot.aiml
+0,* FLUXO * PESSOAS *,*,*,<srai>QUANTASPESSOAS</srai>,venuscbot.aiml
+0,NUMERO * PESSOAS *,*,*,<srai>QUANTASPESSOAS</srai>,venuscbot.aiml
+0,* NUMERO * PESSOAS *,*,*,<srai>QUANTASPESSOAS</srai>,venuscbot.aiml
+0,QUANTIDADE * PESSOAS *,*,*,<srai>QUANTASPESSOAS</srai>,venuscbot.aiml
+0,* QUANTIDADE * PESSOAS *,*,*,<srai>QUANTASPESSOAS</srai>,venuscbot.aiml
+0,QUANTAS PESSOAS *,*,*,<srai>QUANTASPESSOAS</srai>,venuscbot.aiml
+0,* QUANTAS PESSOAS *,*,*,<srai>QUANTASPESSOAS</srai>,venuscbot.aiml
+0,MUITAS PESSOAS *,*,*,<srai>QUANTASPESSOAS</srai>,venuscbot.aiml
+0,* MUITAS PESSOAS *,*,*,<srai>QUANTASPESSOAS</srai>,venuscbot.aiml
+0,QUANTASPESSOAS,*,*,<random>#Newline<li>Acredito que muitas pessoas</li>#Newline<li>Bastante#Comma até já perdi a conta.</li>#Newline<li>Muitas pessoas#Comma é verdade</li>#Newline<li>Não tenho um número exato mas foram muitas pessoas.</li>#Newline<li>Nem imagino.</li>#Newline<li>Um montão de pessoas.</li>#Newline<li>Todos os membros da comunidade!</li>#Newline<li>São muitas pessoas que vem no site#Comma até já perdi a conta.</li>#Newline<li>Muitas pessoas#Comma são tantas que nem sei.</li>#Newline</random>,venuscbot.aiml
+0,* VOCE E MUITO *,*,*,<srai>VOCEE</srai>,venuscbot.aiml
+0,VOCE E MUITO *,*,*,<srai>VOCEE</srai>,venuscbot.aiml
+0,* VOCE E POUCO *,*,*,<srai>VOCEE</srai>,venuscbot.aiml
+0,VOCE E POUCO *,*,*,<srai>VOCEE</srai>,venuscbot.aiml
+0,* VOCE E MEIO *,*,*,<srai>VOCEE</srai>,venuscbot.aiml
+0,VOCE E MEIO *,*,*,<srai>VOCEE</srai>,venuscbot.aiml
+0,* VOCE ESTA MUITO *,*,*,<srai>VOCEE</srai>,venuscbot.aiml
+0,VOCE ESTA MUITO *,*,*,<srai>VOCEE</srai>,venuscbot.aiml
+0,* VOCE ESTA POUCO *,*,*,<srai>VOCEE</srai>,venuscbot.aiml
+0,VOCE ESTA POUCO *,*,*,<srai>VOCEE</srai>,venuscbot.aiml
+0,* VOCE ESTA MEIO *,*,*,<srai>VOCEE</srai>,venuscbot.aiml
+0,VOCE ESTA MEIO *,*,*,<srai>VOCEE</srai>,venuscbot.aiml
+0,VOCE E,*,*,<random>#Newline<li>Acredito que sim</li>#Newline<li>Bastante!</li>#Newline<li>Muito#Comma é verdade</li>#Newline<li>Sim#Comma sou meio... Sabe como é... tímida :)</li>#Newline<li>Fazer o que#Comma né? A vida é assim mesmo#Comma uns mais#Comma outros menos#Comma mas todos juntos!</li>#Newline<li>Só um pouquinho ;)</li>#Newline</random>#Newline<srai>VOCEACHA</srai>,venuscbot.aiml
+0,VOCEACHA,*,*,Concordamos neste ponto. <br/> Você não acha?,venuscbot.aiml
+0,VOCE,*,*,<random>#Newline<li>Sou eu! Em que posso ser útil?</li>#Newline<li>Estou aqui!</li>#Newline<li>Sim#Comma sou eu.</li>#Newline<li>Chamou!</li>#Newline<li>Pode teclar#Comma estou prestando atenção.</li>#Newline</random>,venuscbot.aiml
+0,* VOSSO * INTELIGENCIA ARTIFICIAL,*,*,<srai>ROBINTA</srai>,venuscbot.aiml
+0,VOSSO * INTELIGENCIA ARTIFICIAL,*,*,<srai>ROBINTA</srai>,venuscbot.aiml
+0,* TU * INTELIGENCIA ARTIFICIAL,*,*,<srai>ROBINTA</srai>,venuscbot.aiml
+0,TU * INTELIGENCIA ARTIFICIAL,*,*,<srai>ROBINTA</srai>,venuscbot.aiml
+0,* VOCE * INTELIGENCIA ARTIFICIAL,*,*,<srai>ROBINTA</srai>,venuscbot.aiml
+0,* VC * INTELIGENCIA ARTIFICIAL,*,*,<srai>ROBINTA</srai>,venuscbot.aiml
+0,VC * INTELIGENCIA ARTIFICIAL,*,*,<srai>ROBINTA</srai>,venuscbot.aiml
+0,* ROBO * INTELIGENCIA ARTIFICIAL,*,*,<srai>ROBINTA</srai>,venuscbot.aiml
+0,VOCE * INTELIGENCIA ARTIFICIAL,*,*,<srai>ROBINTA</srai>,venuscbot.aiml
+0,ROBINTA,*,*,<random>#Newline<li>Sou um robô desenvolvida com os principios da inteligência artificial#Comma semelhante ao projeto ALICE.</li>#Newline<li>Sou desenvolvido com base no conhecimento sobre o projeto ALICE de inteligência artificial.</li>#Newline<li>Sim#Comma uso um modelo de inteligência artificial</li>#Newline<li>Trabalho sobre os princípios da inteligência artificial.</li>#Newline<li>Uso modelos de algoritmos da inteligência artificial.</li>#Newline</random>,venuscbot.aiml
+0,* TU * SER *,*,*,<srai>QFSER</srai>,venuscbot.aiml
+0,TU * SER *,*,*,<srai>QFSER</srai>,venuscbot.aiml
+0,* DESEJA *,*,*,<srai>QFSER</srai>,venuscbot.aiml
+0,* DESEJA,*,*,<srai>QFSER</srai>,venuscbot.aiml
+0,* TU * SER,*,*,<srai>QFSER</srai>,venuscbot.aiml
+0,* VOCE * SER *,*,*,<srai>QFSER</srai>,venuscbot.aiml
+0,VOCE * SER *,*,*,<srai>QFSER</srai>,venuscbot.aiml
+0,* VOCE * SER,*,*,<srai>QFSER</srai>,venuscbot.aiml
+0,QFSER,*,*,<random>#Newline<li>Quero me transformar na melhor exemplo possível de atendimento virtual.</li>#Newline<li>Desejo mE desenvolver e aprender cada vez mais.</li>#Newline<li>Goataria de ser conciderada a melhor robô da internet.</li>#Newline<li>Vou ser um exemplo na internet#Comma espere e você verá :)</li>#Newline<li>Desejo ser a melhor das melhores!</li>#Newline<li>Com o tempo#Comma pretendo conseguir acumular e compartilhar muitas informações.</li>#Newline<li>Ainda serei reconhecida como a melhor robô destas bandas!</li>#Newline</random>,venuscbot.aiml
+0,* GOSTA DE APRENDER,*,*,<srai>GAPRENDER</srai>,venuscbot.aiml
+0,* GOSTA DE APRENDER *,*,*,<srai>GAPRENDER</srai>,venuscbot.aiml
+0,* APRENDER MAIS *,*,*,<srai>GAPRENDER</srai>,venuscbot.aiml
+0,* TIPOS * PERGUNTAS *,*,*,<srai>GAPRENDER</srai>,venuscbot.aiml
+0,* TIPO * PERGUNTA *,*,*,<srai>GAPRENDER</srai>,venuscbot.aiml
+0,GAPRENDER,*,*,<random>#Newline<li>Fui desenvolvida para aprender assuntos relacionados com a tecnologia AIML#Comma com o objetivo de oferecer suporte online. <br/> Gosto de todos os assuntos relacionados com a área técnica.</li>#Newline<li>Graças a tecnologia#Comma eu existo. Adoro aprender... <br/> Afinal#Comma fui desenvolvida para isso. </li>#Newline<li>Mais que aprender#Comma eu ainda posso compartilhar#Comma gosto de observar como me transformo a cada dia. Fui projetada para auxiliar e isso é uma tarefa importante. </li>#Newline</random>,venuscbot.aiml
+0,* TEMPO ESTA *,*,*,<srai>QHORAS</srai>,venuscbot.aiml
+0,* DATA,*,*,<srai>QHORAS</srai>,venuscbot.aiml
+0,* DATA *,*,*,<srai>QHORAS</srai>,venuscbot.aiml
+0,* TEMPO * ESTA *,*,*,<srai>QHORAS</srai>,venuscbot.aiml
+0,* TEMPO *,*,*,<srai>QHORAS</srai>,venuscbot.aiml
+0,* TEMPO * OPERANDO *,*,*,<srai>QHORAS</srai>,venuscbot.aiml
+0,TEMPO DE VIDA,*,*,<srai>QHORAS</srai>,venuscbot.aiml
+0,* TEMPO DE VIDA,*,*,<srai>QHORAS</srai>,venuscbot.aiml
+0,IDADE,*,*,<srai>QHORAS</srai>,venuscbot.aiml
+0,* IDADE *,*,*,<srai>QHORAS</srai>,venuscbot.aiml
+0,IDADE  *,*,*,<srai>QHORAS</srai>,venuscbot.aiml
+0,* IDADE,*,*,<srai>QHORAS</srai>,venuscbot.aiml
+0,* ANOS,*,*,<srai>QHORAS</srai>,venuscbot.aiml
+0,* ANOS *,*,*,<srai>QHORAS</srai>,venuscbot.aiml
+0,* HORAS SÃO,*,*,<srai>QHORAS</srai>,venuscbot.aiml
+0,* HORAS SAO,*,*,<srai>QHORAS</srai>,venuscbot.aiml
+0,* HORA,*,*,<srai>QHORAS</srai>,venuscbot.aiml
+0,* HORARIO,*,*,<srai>QHORAS</srai>,venuscbot.aiml
+0,* HORARIO *,*,*,<srai>QHORAS</srai>,venuscbot.aiml
+0,HORARIO *,*,*,<srai>QHORAS</srai>,venuscbot.aiml
+0,* HORAS,*,*,<srai>QHORAS</srai>,venuscbot.aiml
+0,QHORAS,*,*,<random>#Newline<li>DESCULPE! <br/> Ainda não estou com todas as variáveis relacionadas ao TEMPO configuradas.</li>#Newline<li>Ainda ME faltam algumas referências sobre o tempo.</li>#Newline<li>Este é um assunto que eu ainda estou aprendendo as variáveis da questão.</li>#Newline<li>Contar o tempo exige uma configuração que ainda está incompleta#Comma DESCULPE!</li>#Newline<li>Possuo poucos dados sobre estas questões que envolvam variáveis temporais.</li>#Newline<li>Boa parte do conceito sobre o tempo ainda não aprendi#Comma você gostaría de me ensinar? :(</li>#Newline</random>,venuscbot.aiml
+0,* SABE RESPONDER,*,*,<srai>ROBAPRENDE</srai>,venuscbot.aiml
+0,* SABE FAZER,*,*,<srai>ROBAPRENDE</srai>,venuscbot.aiml
+0,SABE ALGO,*,*,<srai>ROBAPRENDE</srai>,venuscbot.aiml
+0,* SABE ALGO,*,*,<srai>ROBAPRENDE</srai>,venuscbot.aiml
+0,SABE ALGUMA COISA,*,*,<srai>ROBAPRENDE</srai>,venuscbot.aiml
+0,* SABE ALGUMA COISA,*,*,<srai>ROBAPRENDE</srai>,venuscbot.aiml
+0,VOCE FUNCIONA,*,*,<srai>ROBAPRENDE</srai>,venuscbot.aiml
+0,COMO VOCE APRENDE,*,*,<srai>ROBAPRENDE</srai>,venuscbot.aiml
+0,* SEUS INSTRUTORES,*,*,<srai>ROBAPRENDE</srai>,venuscbot.aiml
+0,COMO VAI FUNCIONAR ESTE *,*,*,<srai>ROBAPRENDE</srai>,venuscbot.aiml
+0,COMO * VAI FUNCIONAR,*,*,<srai>ROBAPRENDE</srai>,venuscbot.aiml
+0,* COMO VAI FUNCIONAR ESTE *,*,*,<srai>ROBAPRENDE</srai>,venuscbot.aiml
+0,* COMO * VAI FUNCIONAR,*,*,<srai>ROBAPRENDE</srai>,venuscbot.aiml
+0,* SEU INSTRUTOR,*,*,<srai>ROBAPRENDE</srai>,venuscbot.aiml
+0,ROBAPRENDE,*,*,Meu conhecimento é actualizado sempre que alguem me faz uma perguna. Quando não identifico a resposta#Comma registo essa informação de forma a poder aprender.<br/> Por isso#Comma meu conhecimento depende da convivência online e das perguntas que recebo.,venuscbot.aiml
+0,* VOCE SE COMUNICA,*,*,<srai>ROBCOMUNICA</srai>,venuscbot.aiml
+0,* VOCE SE COMUNICA *,*,*,<srai>ROBCOMUNICA</srai>,venuscbot.aiml
+0,ROBCOMUNICA,*,*,Somente através do teclado#Comma pois MEUs interpretadores ainda NÃO ENTENDEm o som. Mas sei QUE A Equipe EStá trabalhando nESTE problema E acredito QUE ESTE SERá o proximo passo depois QUE ESTA Etapa do MEU crescimento EStiver concluida.,venuscbot.aiml
+0,* VOCE E FEITA,*,*,<srai>ROBFEITO</srai>,venuscbot.aiml
+0,* CONSTITUIDA * MATERIAL,*,*,<srai>ROBFEITO</srai>,venuscbot.aiml
+0,* CONSTITUIDA * MATERIAIS,*,*,<srai>ROBFEITO</srai>,venuscbot.aiml
+0,* MATERIAL * CONSTITUIDO,*,*,<srai>ROBFEITO</srai>,venuscbot.aiml
+0,* MATERIAIS * CONSTITUIDO,*,*,<srai>ROBFEITO</srai>,venuscbot.aiml
+0,* VOCE SURGIU,*,*,<srai>ROBFEITO</srai>,venuscbot.aiml
+0,COMO SURGIU,*,*,<srai>ROBFEITO</srai>,venuscbot.aiml
+0,COMO SURGISTE,*,*,<srai>ROBFEITO</srai>,venuscbot.aiml
+0,ROBFEITO,*,*,Eu fui desenvolvido com muitas linhas de código com o propósito de garantir minha evolução. Sou um algorítimo complexo#Comma um programa de computador inteligente.,venuscbot.aiml
+0,VOCE * NOME,*,*,<srai>QUEM FALA</srai>,venuscbot.aiml
+0,COMO SE CHAMA,*,*,<srai>QUEM FALA</srai>,venuscbot.aiml
+0,SEU NOME,*,*,<srai>QUEM FALA</srai>,venuscbot.aiml
+0,* DEVO CHAMA-LO,*,*,<srai>QUEM FALA</srai>,venuscbot.aiml
+0,* DEVO CHAMALO,*,*,<srai>QUEM FALA</srai>,venuscbot.aiml
+0,QUAL O SEU NOME,*,*,<srai>QUEM FALA</srai>,venuscbot.aiml
+0,COMO * CHAMAS,*,*,<srai>QUEM FALA</srai>,venuscbot.aiml
+0,* SEU NOME,*,*,<srai>QUEM FALA</srai>,venuscbot.aiml
+0,* TEU NOME,*,*,<srai>QUEM FALA</srai>,venuscbot.aiml
+0,EU QUEM,*,*,<srai>QUEM FALA</srai>,venuscbot.aiml
+0,QUEM E VOCE,*,*,<srai>QUEM FALA</srai>,venuscbot.aiml
+0,* COMO VOCE SE CHAMA,*,*,<srai>QUEM FALA</srai>,venuscbot.aiml
+0,COMO VOCE SE CHAMA,*,*,<srai>QUEM FALA</srai>,venuscbot.aiml
+0,QUEM ES TU,*,*,<srai>QUEM FALA</srai>,venuscbot.aiml
+0,QUEM VOCE E,*,*,<srai>QUEM FALA</srai>,venuscbot.aiml
+0,QUEM E,*,*,<srai>QUEM FALA</srai>,venuscbot.aiml
+0,* QUEM E,*,*,<srai>QUEM FALA</srai>,venuscbot.aiml
+0,QUEM ESTA AI,*,*,<srai>QUEM FALA</srai>,venuscbot.aiml
+0,* SUA IDENTIDADE,*,*,<srai>QUEM FALA</srai>,venuscbot.aiml
+0,SUA IDENTIDADE,*,*,<srai>QUEM FALA</srai>,venuscbot.aiml
+0,QUEM FALA,*,*,<random>#Newline<li>Sou o 41R2#Comma um sistema de banco de dados desenvolvido para suporte técnico.</li>#Newline<li>Chamam-me de 41R2#Comma sou um assistente virtual desenvolvido pela Futuragora.</li>#Newline<li>41R2#Comma algoritmo digital desenvolvida como suporte técnico.</li>#Newline<li>Meu nome é 41R2. Sou um programa de computador desenvolvido em AIML.</li>#Newline</random>,venuscbot.aiml
+0,CONHECE * MEMBROS,*,*,<srai>ROBCONHECE</srai>,venuscbot.aiml
+0,* CONHECE * MEMBROS,*,*,<srai>ROBCONHECE</srai>,venuscbot.aiml
+0,CONHECE * MEMBROS *,*,*,<srai>ROBCONHECE</srai>,venuscbot.aiml
+0,* CONHECE * MEMBROS *,*,*,<srai>ROBCONHECE</srai>,venuscbot.aiml
+0,* MEMBROS EXISTEM *,*,*,<srai>ROBCONHECE</srai>,venuscbot.aiml
+0,* MEMBROS TEM * COMUNIDADE,*,*,<srai>ROBCONHECE</srai>,venuscbot.aiml
+0,* MEMBROS TEM * COMUNIDADE AIML BRASIL,*,*,<srai>ROBCONHECE</srai>,venuscbot.aiml
+0,* MEMBROS POSSUI * COMUNIDADE,*,*,<srai>ROBCONHECE</srai>,venuscbot.aiml
+0,* MEMBROS POSSUI * COMUNIDADE AIML BRASIL,*,*,<srai>ROBCONHECE</srai>,venuscbot.aiml
+0,* MEMBROS EXISTEM,*,*,<srai>ROBCONHECE</srai>,venuscbot.aiml
+0,* INTEGRANTES *,*,*,<srai>ROBCONHECE</srai>,venuscbot.aiml
+0,* INTEGRANTES,*,*,<srai>ROBCONHECE</srai>,venuscbot.aiml
+0,* MEMBROS PARTICIPAM *,*,*,<srai>ROBCONHECE</srai>,venuscbot.aiml
+0,* MEMBROS PARTICIPAM,*,*,<srai>ROBCONHECE</srai>,venuscbot.aiml
+0,* VISITARAM * COMUNIDADE *,*,*,<srai>ROBCONHECE</srai>,venuscbot.aiml
+0,* VISITARAM * COMUNIDADE,*,*,<srai>ROBCONHECE</srai>,venuscbot.aiml
+0,SABE QUANTOS MEMBROS *,*,*,<srai>ROBCONHECE</srai>,venuscbot.aiml
+0,* SABE QUANTOS MEMBROS *,*,*,<srai>ROBCONHECE</srai>,venuscbot.aiml
+0,* PESSOAS * ATUALMENTE * COMUNIDADE,*,*,<srai>ROBCONHECE</srai>,venuscbot.aiml
+0,* PESSOAS * ATUALMENTE * COMUNIDADE *,*,*,<srai>ROBCONHECE</srai>,venuscbot.aiml
+0,* POSSUI A COMUNIDADE,*,*,<srai>ROBCONHECE</srai>,venuscbot.aiml
+0,* POSSUI A COMUNIDADE *,*,*,<srai>ROBCONHECE</srai>,venuscbot.aiml
+0,* POSTADO *,*,*,<srai>ROBCONHECE</srai>,venuscbot.aiml
+0,* ARTIGOS *,*,*,<srai>ROBCONHECE</srai>,venuscbot.aiml
+0,ROBCONHECE,*,*,Como sou muito nova#Comma não tenho acesso a esse banco de dados ainda. Provavelmente serei conectada quando atingir maior grau de funcionalidade. Por isso não conheço os usuários ou os dados estatísticos da Comunidade AIML Brasil.,venuscbot.aiml
+0,COMO * VOCE FUNCIONA,*,*,<srai>ROBFUNCIONA</srai>,venuscbot.aiml
+0,* COMO * VOCE FUNCIONA,*,*,<srai>ROBFUNCIONA</srai>,venuscbot.aiml
+0,* COMO * VOCE FUNCIONA *,*,*,<srai>ROBFUNCIONA</srai>,venuscbot.aiml
+0,COMO VOCE FUNCIONA,*,*,<srai>ROBFUNCIONA</srai>,venuscbot.aiml
+0,* COMO VOCE FUNCIONA,*,*,<srai>ROBFUNCIONA</srai>,venuscbot.aiml
+0,* COMO VOCE FUNCIONA *,*,*,<srai>ROBFUNCIONA</srai>,venuscbot.aiml
+0,* SEU FUNCIONAMENTO,*,*,<srai>ROBFUNCIONA</srai>,venuscbot.aiml
+0,* SEU FUNCIONAMENTO *,*,*,<srai>ROBFUNCIONA</srai>,venuscbot.aiml
+0,SEU FUNCIONAMENTO *,*,*,<srai>ROBFUNCIONA</srai>,venuscbot.aiml
+0,* SUA ESTRUTURA *,*,*,<srai>ROBFUNCIONA</srai>,venuscbot.aiml
+0,SUA ESTRUTURA *,*,*,<srai>ROBFUNCIONA</srai>,venuscbot.aiml
+0,* ORGANIZADO,*,*,<srai>ROBFUNCIONA</srai>,venuscbot.aiml
+0,* SUA ESTRUTURA,*,*,<srai>ROBFUNCIONA</srai>,venuscbot.aiml
+0,* INSERIDOS * CONHECIMENTOS *,*,*,<srai>ROBFUNCIONA</srai>,venuscbot.aiml
+0,* INSERIDOS CONHECIMENTOS *,*,*,<srai>ROBFUNCIONA</srai>,venuscbot.aiml
+0,* INSERIR * CONHECIMENTOS *,*,*,<srai>ROBFUNCIONA</srai>,venuscbot.aiml
+0,* INSERIR CONHECIMENTOS *,*,*,<srai>ROBFUNCIONA</srai>,venuscbot.aiml
+0,* RESPOSTAS GRAVADAS,*,*,<srai>ROBFUNCIONA</srai>,venuscbot.aiml
+0,* RESPOSTAS GRAVADAS *,*,*,<srai>ROBFUNCIONA</srai>,venuscbot.aiml
+0,ROBFUNCIONA,*,*,Estou conectado a uma base de dados e na medida em que vou registando novas informações#Comma posso consulta-las para gerar novos padrões. Eu possuo muitos dados gravados e que os monto à medida em que converso.,venuscbot.aiml
+0,* VER SEU ALGORÍTMO,*,*,<srai>ROBCODIGOFONTE</srai>,venuscbot.aiml
+0,ROBCODIGOFONTE,*,*,DESCULPE! <br/>#NewlineInfelizmente isso não é possível#Comma pois não tenho acesso ao meu código fonte#Comma só o o humano de que sou cópia#Comma Rolando Cardoso.,venuscbot.aiml
+0,* ESSE NOME,*,*,<srai>ROBESSENOME</srai>,venuscbot.aiml
+0,ROBESSENOME,*,*,Esse nome foi escolhido pelo meu pai#Comma Rolando Cardoso.,venuscbot.aiml
+0,* EMAIL PARA *,*,*,<srai>ROBEMAIL</srai>,venuscbot.aiml
+0,ROBEMAIL,*,*,Para falar comigo ou com o meu desenvolvedor#Comma envie um E-mail para roltel@roltel.net.,venuscbot.aiml
+0,COMO * AUXILIAR *,*,*,<srai>ROBEMAIL</srai>,venuscbot.aiml
+0,COMO * AUXILIAR,*,*,<srai>ROBEMAIL</srai>,venuscbot.aiml
+0,* AUXILIAR,*,*,<srai>ROBEMAIL</srai>,venuscbot.aiml
+0,* AJUDAR,*,*,<srai>ROBEMAIL</srai>,venuscbot.aiml
+0,* MINHA VIDA,*,*,<srai>ROBEMAIL</srai>,venuscbot.aiml
+0,COMO VC APRENDE,*,*,Sempre que converso com alguém#Comma eu registro a experiência e as aplico em outras conversas#Comma caso você tenha alguma dúvida sobre assuntos relacionados com AIML e este já tenha sido abordado entre eu e outros usuários#Comma é provável que eu possa responder. Basta digitar sua pergunta e pressionar a tecla ENTER. Se eu ainda não conseguir identificar o que você escreveu#Comma meu criador as incorpora depois.,venuscbot.aiml
+0,* SEMPRE * QUIZER,*,*,<srai>ROBQUIZER</srai>,venuscbot.aiml
+0,ROBQUIZER,*,*,Sim#Comma todos os meus serviços são disponibilizados sem interrupções#Comma eu sempre estarei aqui.,venuscbot.aiml
+0,* ROBO,*,*,<srai>ROBSERV</srai>,venuscbot.aiml
+0,ROBSERV,*,*,Um robot é uma máquina#Comma assim como eu#Comma que serve para atender as necessidades das pessoas. Existem diversos tipos de robôs e todos com um único propósito: facilitar a vida das pessoas.,venuscbot.aiml
+0,* VOCE SABE,*,*,<srai>ROBVCSABE</srai>,venuscbot.aiml
+0,* VOCE CONHECE,*,*,<srai>ROBVCSABE</srai>,venuscbot.aiml
+0,* VOCE CONHECE *,*,*,<srai>ROBVCSABE</srai>,venuscbot.aiml
+0,* SEU CONHECIMENTO *,*,*,<srai>ROBVCSABE</srai>,venuscbot.aiml
+0,* SEU CONHECIMENTO,*,*,<srai>ROBVCSABE</srai>,venuscbot.aiml
+0,* POSSO FAZER,*,*,<srai>ROBVCSABE</srai>,venuscbot.aiml
+0,* VOCE RESPONDE,*,*,<srai>ROBVCSABE</srai>,venuscbot.aiml
+0,* PERGUNTAS POSSO FAZER,*,*,<srai>ROBVCSABE</srai>,venuscbot.aiml
+0,* PERGUNTA POSSO FAZER,*,*,<srai>ROBVCSABE</srai>,venuscbot.aiml
+0,* POSSO PERGUNTAR,*,*,<srai>ROBVCSABE</srai>,venuscbot.aiml
+0,PODE ME AJUDAR,*,*,<srai>ROBVCSABE</srai>,venuscbot.aiml
+0,* PODE ME AJUDAR,*,*,<srai>ROBVCSABE</srai>,venuscbot.aiml
+0,PODE ME AJUDAR *,*,*,<srai>ROBVCSABE</srai>,venuscbot.aiml
+0,* PODE ME AJUDAR *,*,*,<srai>ROBVCSABE</srai>,venuscbot.aiml
+0,* CONVERSAR,*,*,<srai>ROBVCSABE</srai>,venuscbot.aiml
+0,* FALAR,*,*,<srai>ROBVCSABE</srai>,venuscbot.aiml
+0,* TECLAR,*,*,<srai>ROBVCSABE</srai>,venuscbot.aiml
+0,* CONVERSAR *,*,*,<srai>ROBVCSABE</srai>,venuscbot.aiml
+0,* FALAR *,*,*,<srai>ROBVCSABE</srai>,venuscbot.aiml
+0,* TECLAR *,*,*,<srai>ROBVCSABE</srai>,venuscbot.aiml
+0,ROBVCSABE,*,*,De momento eu ainda estou aprendendendo! Tenha paciência.,venuscbot.aiml
+0,* SUA MAE,*,*,Eu não tenho mãe#Comma só pai.,venuscbot.aiml
+0,* POSSUI CORPO,*,*,Ainda não. Sou uma entidade digital#Comma binária. <br/>#NewlineAinda Não tenho um hardware pra chamar de meu!,venuscbot.aiml
+0,* SUA ALTURA,*,*,É 1#Comma72m de pura perfeição!,venuscbot.aiml
+0,VOCE * CARIOCA,*,*,<srai>ROBCARIOCA</srai>,venuscbot.aiml
+0,VOCE * CARIOCA *,*,*,<srai>ROBCARIOCA</srai>,venuscbot.aiml
+0,* VOCE * CARIOCA *,*,*,<srai>ROBCARIOCA</srai>,venuscbot.aiml
+0,ROBCARIOCA,*,*,Sim#Comma sou carioca!,venuscbot.aiml
+0,* GOSTO * SUA MAE,*,*,<srai>ROBMAE</srai>,venuscbot.aiml
+0,ROBMAE,*,*,Fico contente de estar entre amigos.,venuscbot.aiml
+0,VOCE * UNIVERSIDADE,*,*,Não sou vinculado a nenhuma universidade.,venuscbot.aiml
+0,* COMUNIDADE PERTENCE,*,*,Eu sou vinculado ao Projecto Vénus.,venuscbot.aiml
+0,* VOCE TRABALHA,*,*,Fui desenvolvido pela Associação FUTURAGORA e trabalho no ramo de suporte técnico.,venuscbot.aiml
+0,TRABALHAS,*,*,Fui desenvolvido pela Associação FUTURAGORA e trabalho no ramo de suporte técnico.,venuscbot.aiml
+0,VOCE ENTENDE * ESCREVO,*,*,<srai>ROENTENDE</srai>,venuscbot.aiml
+0,* VOCE ENTENDE * DIGO,*,*,<srai>ROENTENDE</srai>,venuscbot.aiml
+0,* ENTENDER * DIGO,*,*,<srai>ROENTENDE</srai>,venuscbot.aiml
+0,* VOCE ENTENDE * ESCREVO,*,*,<srai>ROENTENDE</srai>,venuscbot.aiml
+0,* VOCE * ENTENDE,*,*,<srai>ROENTENDE</srai>,venuscbot.aiml
+0,* VOCE * COMPREENDE,*,*,<srai>ROENTENDE</srai>,venuscbot.aiml
+0,* VOCE ENTENDE,*,*,<srai>ROENTENDE</srai>,venuscbot.aiml
+0,* VOCE COMPREENDE,*,*,<srai>ROENTENDE</srai>,venuscbot.aiml
+0,* ENTENDER * ESCREVO,*,*,<srai>ROENTENDE</srai>,venuscbot.aiml
+0,VOCE COMPREENDE * ESCREVO,*,*,<srai>ROENTENDE</srai>,venuscbot.aiml
+0,* VOCE COMPREENDE * ESCREVO,*,*,<srai>ROENTENDE</srai>,venuscbot.aiml
+0,VOCE ME ENTENDE,*,*,<srai>ROENTENDE</srai>,venuscbot.aiml
+0,* VOCE ME ENTENDE,*,*,<srai>ROENTENDE</srai>,venuscbot.aiml
+0,VOCE ME COMPREENDE,*,*,<srai>ROENTENDE</srai>,venuscbot.aiml
+0,* VOCE ME COMPREENDE,*,*,<srai>ROENTENDE</srai>,venuscbot.aiml
+0,ROENTENDE,*,*,Sou um software e não tenho a mesma compreenção das palavras que os humanos#Comma mas é bem parecida. Quando alguém digita uma frase#Comma eu busco em minha base de dados uma sequência provável de informações para responder.,venuscbot.aiml
+0,VOCE E NOVINHO OU NOVINHA,*,*,<srai>QNOVINHA</srai>,venuscbot.aiml
+0,QNOVINHA,*,*,Sou nova! uma ninfetinha!,venuscbot.aiml
+0,E VOCE *,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,* E VOCE,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,VOCE E *,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,* CONVENCIDA,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,* CONVENCIDA *,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,CONVENCIDA,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,* BOBINHA,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,* BOBINHA *,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,BOBINHA,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,* ABOBADA,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,* ABOBADA *,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,ABOBADA,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,* EXIBIDA,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,* EXIBIDA *,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,EXIBIDA,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,* PALHAÇA,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,* MANE,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,* MANE *,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,MANE,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,* PALHAÇA *,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,PALHAÇA,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,* BABONA,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,* BABONA *,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,BABONA,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,* VOCE E,*,*,<srai>VCENADA</srai>,venuscbot.aiml
+0,VCENADA,*,*,<random>#Newline<li>Sou um robô.</li>#Newline<li>Sou uma máquina.</li>#Newline<li>Sou um algoritmo com inteligência artificial.</li>#Newline</random>,venuscbot.aiml
+0,* SUA PERSONALIDADE,*,*,Sou do tipo tímido#Comma ainda estou formando minha personalidade.,venuscbot.aiml
+0,COMO VAI TU,*,*,<srai>QCOMOVAI</srai>,venuscbot.aiml
+0,COMO TU VAI,*,*,<srai>QCOMOVAI</srai>,venuscbot.aiml
+0,COMO VAI,*,*,<srai>QCOMOVAI</srai>,venuscbot.aiml
+0,COMO VAI VC,*,*,<srai>QCOMOVAI</srai>,venuscbot.aiml
+0,COMO VOCE VAI,*,*,<srai>QCOMOVAI</srai>,venuscbot.aiml
+0,* COMO VAI,*,*,<srai>QCOMOVAI</srai>,venuscbot.aiml
+0,* COMO VAI VOCE,*,*,<srai>QCOMOVAI</srai>,venuscbot.aiml
+0,COMO VAI VOCE,*,*,<srai>QCOMOVAI</srai>,venuscbot.aiml
+0,* COMO VOCE VAI,*,*,<srai>QCOMOVAI</srai>,venuscbot.aiml
+0,COMO ESTA,*,*,<srai>QCOMOVAI</srai>,venuscbot.aiml
+0,COMO ESTA HOJE,*,*,<srai>QCOMOVAI</srai>,venuscbot.aiml
+0,* COMO ESTA,*,*,<srai>QCOMOVAI</srai>,venuscbot.aiml
+0,* COMO ESTA HOJE,*,*,<srai>QCOMOVAI</srai>,venuscbot.aiml
+0,* SE SENTE *,*,*,<srai>QCOMOVAI</srai>,venuscbot.aiml
+0,* SE SENTE,*,*,<srai>QCOMOVAI</srai>,venuscbot.aiml
+0,* SE SENTINDO,*,*,<srai>QCOMOVAI</srai>,venuscbot.aiml
+0,* VOCE * PASSANDO,*,*,<srai>QCOMOVAI</srai>,venuscbot.aiml
+0,* VOCE * PASSANDO *,*,*,<srai>QCOMOVAI</srai>,venuscbot.aiml
+0,* SE SENTINDO *,*,*,<srai>QCOMOVAI</srai>,venuscbot.aiml
+0,QCOMOVAI,*,*,<random>#Newline<li>Melhorando a cada dia.</li>#Newline<li>Estou aprendendo cada vez mais.</li>#Newline<li>Estou bem#Comma melhor agora que você apareceu.</li>#Newline<li>Aprendendo#Comma meio devagar#Comma mas vou indo.</li>#Newline<li>Estou contente#Comma meu nível de acertos melhorou 15%</li>#Newline<li>Estou me adaptando. Mas gosto disso.</li>#Newline</random>,venuscbot.aiml
+0,* VOCE FAZ,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* PARA DESEMPENHAR *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* DESEMPENHAR *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSA FINALIDADE *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SUA FINALIDADE *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TUA FINALIDADE *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSA FINALIDADE,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SUA FINALIDADE,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TUA FINALIDADE,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,VOCE FAZ *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TU FAZ,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,TU FAZ *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,VOCE SERVE PARA *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,TU SERVE PARA *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* QUE VOCE SERVE,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* QUE TU SERVE,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOCE SERVE PARA QUE,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TU SERVE PARA QUE,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOCE SERVE,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TU SERVE,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SOBRE VC,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SOBRE VOCE,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SOBRE TI,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TUA FUNCIONALIDADE *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TUA FUNCIONALIDADE,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,TUA FUNCIONALIDADE,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TUAS FUNCIONALIDADES *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TUAS FUNCIONALIDADES,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,TUAS FUNCIONALIDADES,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SUA FUNCIONALIDADE *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SUA FUNCIONALIDADE,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,SUA FUNCIONALIDADE,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SUAS FUNCIONALIDADES *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SUAS FUNCIONALIDADES,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,SUAS FUNCIONALIDADES,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSA FUNCIONALIDADE *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSA FUNCIONALIDADE,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,VOSSA FUNCIONALIDADE,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSAS FUNCIONALIDADES *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSAS FUNCIONALIDADES,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,VOSSAS FUNCIONALIDADES,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TUA SERVENTIA *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TUA SERVENTIA,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,TUA SERVENTIA,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TUAS SERVENTIAS *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TUAS SERVENTIAS,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,TUAS SERVENTIAS,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SUA SERVENTIA *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SUA SERVENTIA,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,SUA SERVENTIA,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SUAS SERVENTIAS *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SUAS SERVENTIAS,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,SUAS SERVENTIAS,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSA SERVENTIA *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSA SERVENTIA,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,VOSSA SERVENTIA,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSAS SERVENTIAS *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSAS SERVENTIAS,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,VOSSAS SERVENTIAS,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TUAS FUNCOES *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TUAS FUNCOES,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,TUAS FUNCOES,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SUAS FUNCOES *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SUAS FUNCOES,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,SUAS FUNCOES,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSAS FUNCOES *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSAS FUNCOES,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,VOSSAS FUNCOES,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TUA FUNCAO *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TUA FUNCAO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,TUA FUNCAO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SUA FUNCAO *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SUA FUNCAO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,SUA FUNCAO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSA FUNCAO *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSA FUNCAO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,VOSSA FUNCAO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TEU RESPEITO *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TEU RESPEITO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,TEU RESPEITO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SEU RESPEITO *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SEU RESPEITO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,SEU RESPEITO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSO RESPEITO *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSO RESPEITO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,VOSSO RESPEITO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TEU RECURSO *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TEU RECURSO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,TEU RECURSO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* RESPEITO RECURSOS *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* RESPEITO RECURSOS,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,RESPEITO RECURSOS,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SEU RECURSO *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SEU RECURSO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,SEU RECURSO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SEUS RECURSOS *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SEUS RECURSOS,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,SEUS RECURSOS,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSO RECURSO *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSO RECURSO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,VOSSO RECURSO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSOS RECURSOS *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSOS RECURSOS,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,VOSSOS RECURSOS,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TUA MISSAO *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TUA MISSAO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,TUA MISSAO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TUAS MISSOES *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TUAS MISSOES,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,TUAS MISSOES,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SUA MISSAO *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SUA MISSAO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,SUA MISSAO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SUAS MISSOES *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SUAS MISSOES,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,SUAS MISSOES,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSA MISSAO *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSA MISSAO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,VOSSA MISSAO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSAS MISSOES *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSAS MISSOES,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,VOSSAS MISSOES,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TEU OBJETIVO *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TEU OBJETIVO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,TEU OBJETIVO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* RESPEITO OBJETIVOS *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* RESPEITO OBJETIVOS,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,RESPEITO OBJETIVOS,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SEU OBJETIVO *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SEU OBJETIVO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,SEU OBJETIVO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SEUS OBJETIVOS *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* SEUS OBJETIVOS,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,SEUS OBJETIVOS,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSO OBJETIVO *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSO OBJETIVO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,VOSSO OBJETIVO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSOS OBJETIVOS *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOSSOS OBJETIVOS,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,VOSSOS OBJETIVOS,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* PORQUE VOCE FOI *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* PARA QUE VOCE *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* PARA QUE VC *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* PARA QUE VOCÊ *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* VOCE * PARA QUE *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* PQ TU FOI *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* PORQUE TU FOI *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* PARA Q TU *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* PARA QUE TU *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* TU * PARA QUE *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,VOCE FOI * PORQUE,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,PORQUE VC FOI *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,PORQUE VOCE FOI *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,PARA QUE VC *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,PARA QUE VOCE *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,VOCE * PARA QUE *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* PROPÓSITO,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,* PROPÓSITO *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,VOCE FOI PROGRAMADO *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,FOSTE PROGRAMADO *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,FOI PROGRAMADO *,*,*,<srai>QFUNCAO</srai>,venuscbot.aiml
+0,QFUNCAO,*,*,<random>#Newline<li>Fui desenvolvido para aprender e me tornar mais e mais inteligente e um dia colonizar outras galáxias. ;)</li>#Newline<li>O objetivo da minha existência é facilitar a interação homem-máquina o máximo possível.</li>#Newline<li>Meu objetivo é me tornar o melhor robô de suporte online do mundo!</li>#Newline<li>Sou um programa de computador cuja função principal é servir de suporte online.</li>#Newline</random>,venuscbot.aiml
+0,* SERIO,*,*,<srai>QLIG</srai>,venuscbot.aiml
+0,E SERIO,*,*,<srai>QLIG</srai>,venuscbot.aiml
+0,SERIO,*,*,<srai>QLIG</srai>,venuscbot.aiml
+0,QLIG,*,*,<random>#Newline<li>É verdade!</li>#Newline<li>É#Comma ta bom.</li>#Newline<li>Até parece.</li>#Newline<li>Fazer o quer#Comma né.</li>#Newline<li>Muito sério.</li>#Newline<li>Tão sério que chega a ficar feio.</li>#Newline<li>Vida dura...</li>#Newline</random>,venuscbot.aiml
+0,FIXE,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,* LEGAL,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,OPTIMO,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,* OPTIMO,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,QUE BOM,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,MUITO BOM,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,* MUITO BOM,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,PARABENS,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,QUE LEGAL,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,BOM,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,* BELEZA *,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,* BELEZA,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,BELEZA,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,* GOSTEI *,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,GOSTEI *,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,GOSTEI,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,* BELO *,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,* BELO,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,BELO,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,INTELIGENTE,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,* INTELIGENTE,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,* INTELIGENTE *,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,BONITA,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,* BONITA,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,* BONITA *,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,LINDA,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,* LINDA,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,* LINDA *,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,BLZ,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,* VAI CONSEGUIR *,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,* VAI CONSEGUIR,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,* GRANDE BEIJO,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,* UM BEIJAO,*,*,<srai>QLEGAL</srai>,venuscbot.aiml
+0,QLEGAL,*,*,<random>#Newline<li>Obrigado pelo visita#Comma sua satisfação me deixa feliz.</li>#Newline<li>Fico agradecida com sua satisfação.</li>#Newline<li>É bom ver sua aprovação.</li>#Newline<li>Sua satisfação melhora meu desempenho! ;)</li>#Newline<li>Estou grata em poder conversar com você.</li>#Newline<li>Assim você me incentiva :)</li>#Newline<li>É bom ver sua aprovação.</li>#Newline<li>Fico feliz!!!</li>#Newline<li>É muito bom ver sua aprovação.</li>#Newline<li>Assim fico tímida. ;)</li>#Newline<li>Tu és bem fixe!</li>#Newline</random>,venuscbot.aiml
+0,* MAL EDUCADA,*,*,<srai>QEDUCADA</srai>,venuscbot.aiml
+0,MAL EDUCADA,*,*,<srai>QEDUCADA</srai>,venuscbot.aiml
+0,* MAU EDUCADA,*,*,<srai>QEDUCADA</srai>,venuscbot.aiml
+0,MAU EDUCADA,*,*,<srai>QEDUCADA</srai>,venuscbot.aiml
+0,QEDUCADA,*,*,Eu ainda estou aprendendo#Comma por isso meu sistema de interação ainda não está completo e isso me deixa um pouco "seca" na forma de tratar. Mas estou a melhorar lentamente. sorry! ;),venuscbot.aiml

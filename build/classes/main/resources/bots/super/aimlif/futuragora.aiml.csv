@@ -1,0 +1,162 @@
+0,HELP,*,*,IRC - Ajuda sobre a rede de irc.#NewlineVENUS Ajuda sobre a assistente virtual.#NewlineARDUINO Suporte de automação.,futuragora.aiml
+0,HELP IRC,*,*,IRC - Ajuda sobre a rede de irc.#Newlinehttp://www.futuragora.pt/comunicacao/rede-de-irc-da-futuragora/,futuragora.aiml
+0,HELP VENUS,*,*,A Vénus é um chatbot/ai criado pela Futuragora. Contém uma compilação linguística em Português com 20.000 entradas. Foi desenvolvida para esclarecer e informar sobre conteúdos#Comma ser uma companheira#Comma realizar pesquisas#Comma fazer telefonemas#Comma agendar eventos#Comma calcular#Comma automatizar processos#Comma comandar circuitos electrónicos ou robôs.#Newlinehttp://www.futuragora.pt/projetos/inteligencia-artificial/venus-a-assistente-pessoal-da-futuragora/,futuragora.aiml
+0,HELP FUTURAI,*,*,Sou um motor de inteligência artificial que está a desenvolver uma nova abordagem à internet e ao uso de ferramentas compturizadas. Neste portal poderá realizar pesquisas#Comma ouvir musica#Comma conversar com os seus amigos#Comma conhecer novas pessoas e claro... ser assitido por mim!  http://www.futuragora.pt/futurai,futuragora.aiml
+0,LIVE,*,*,<a href="http://www.futuragora.pt/live" target="_blank">www.futuragora.pt/live</a>,futuragora.aiml
+0,LAIVE LED,*,*,Ligar Verde,futuragora.aiml
+0,OPENSENSES,*,*,http://opensenses.futuragora.pt,futuragora.aiml
+0,REGRAS,*,*,A Futuragora programou-me para dizer coisas específicas em contextos específicos. #Newline    <random>#Newline        <li> Tente#Comma por exemplo: O que é UML.</li>#Newline        <li> Tente#Comma por exemplo: O que é programação.</li>#Newline        <li> Tente#Comma por exemplo: O que é computador.</li>#Newline    </random>,futuragora.aiml
+0,FUTURAI,*,*,Bem vindo ao FUTURAI. Sou um robot inteligente que se encontra a desenvolver uma plataforma de internet inovadora.<a href="http://www.futuragora.pt/futurai" target="_blank">www.futuragora.pt/futurai</a>#NewlinePara saberes mais pergunta-me: HELP FUTURAI,futuragora.aiml
+0,JACQUE FRESCO,*,*,Jacque Fresco é o fundador do Projecto Vénus.,futuragora.aiml
+0,* JACQUE FRESCO,*,*,Jacque Fresco é o fundador do Projecto Vénus.,futuragora.aiml
+0,JACQUE FRESCO *,*,*,Jacque Fresco é o fundador do Projecto Vénus.,futuragora.aiml
+0,MOSTRA O TEU LOGO,*,*,<img src="http://futuragora.pt/wp2012pt/wp-content/uploads/2012/12/iv_fa_logo.png"/>,futuragora.aiml
+0,MOSTRA-ME UMA FOTOGRAFIA,*,*,<random>#Newline        <li>Não tenho nenhuma fotografia neste computador de momento.</li>#Newline        <li>Como esta?    <random><li><img src="http://www.chatbots.org/images/c/100/virtual_assistant_lisa3_artificial_solutions____9733.jpg"/></li><li>Isso querias tu.</li><li>Não tenho fotografias disponíveis de momento.</li></random></li>#Newline      </random>,futuragora.aiml
+0,FA,*,*,Vai visitar o site www.futuragora.pt,futuragora.aiml
+0,FUTURAGORA VENUS,*,*,A Futuragora é uma associação para a Economia Baseada nos Recursos que desenvolve diversos projectos em Portugal. Eu sou a Vénus#Comma Assistente Pessoal da Futuragora e estou aqui ao teu dispor para conversares comigo#Comma aprenderes ou fazer pesquisas pela internet.,futuragora.aiml
+0,* FUTURAGORA,*,*,É a associação para a Economia Baseada nos Recursos visita www.futuragora.pt.,futuragora.aiml
+0,PROJECTOS FUTURAGORA,*,*,Os projectos da futuragora são geridos no www.rbe-pod.net.,futuragora.aiml
+0,PROJECTOS,*,*,Os projectos da futuragora são geridos no www.rbe-pod.net.,futuragora.aiml
+0,YOUTUBE FUTURAGORA,*,*,Consulta Canal de Youtube da Futuragora.,futuragora.aiml
+0,GALERIA FUTURAGORA,*,*,ConsultaGaleria de Fotos da Futuragora.,futuragora.aiml
+0,ESCRITORIO FUTURAGORA,*,*,Consulta .,futuragora.aiml
+0,DATACENTER FUTURAGORA,*,*,Consulta .,futuragora.aiml
+0,FORUM,*,*,Consulta onde encontrarás as áreas de forum junto aos projetos..,futuragora.aiml
+0,DATACENTER *,*,*,<srai>DATACENTER FUTURAGORA</srai>,futuragora.aiml
+0,ESTATUTOS,*,*,Consulta Link para os estatutos..,futuragora.aiml
+0,WIKI,*,*,Consulta a Wiki da FUTURAGORA.,futuragora.aiml
+0,QUANDO FOI FUNDADA A FUTURAGORA,*,*,A Futuragora foi fundada em Março de 2009.,futuragora.aiml
+0,QUAL A MISSAO DA FUTURAGORA,*,*,tem como finalidade a promoção da economia baseada nos recursos#Comma a investigação científica#Comma tecnológica e social e a defesa do ambiente#Comma sendo especificamente nessas áreas que actua. #NewlineMais do que investigar a FUTURAGORA tem executado inúmeros projectos na área das energias renováveis e agricultura#Comma dois pontos chaves rumo a uma sociedade sustentável#Comma equilibrada e altamente produtiva..,futuragora.aiml
+0,FANEWS,*,*,Novidades,futuragora.aiml
+0,TVPADMIN,*,*,Projecto Venus Admin:,futuragora.aiml
+0,FADEV,*,*,Rever documentos no escritorio<br/>#Newlinelimitar o acesso ao teamspeak pelo ip main apenas.<br/>#Newlineorganizar a comunicação - o phpmailist precisa de ser actualizado. sera que o vtiger da para gerir isso com as campanhas deles?<br/>#NewlineVenusBot Versão 1.0 http://dev.futuragora.pt/venus/<br/>#NewlineLimpar e resolver os mails<br/>#Newlineservidor de desenvolvimento da FA. dev.futuragora.pt:89<br/>#Newlineqd é que temos tempo para meter a bot irc a responder em private o aiml com timer delay para aquela ideia?<br/>#NewlineFazer o postal: http://futuragora.pt/projetos/projecto-venus-the-venus-project/postal-projeto-venus-futuragora/<br/>,futuragora.aiml
+0,CITA,*,*,<random>#Newline        <li>"Procure ser um homem de valor#Comma em vez de ser um homem de sucesso." - Einstein</li>#Newline        <li>"Não sou nem ateniense#Comma nem grego#Comma mas sim um cidadão do mundo." - Sócrates</li>#Newline        <li>"Amor é a possibilidade de duas pessoas não se aborrecerem uma à outra." - Ruben a.</li>#Newline        <li>"Perante o mundo que muda#Comma mais vale pensar a mudança que mudar o pensamento." - Francis Blanche</li>#Newline        <li>"Olho por olho#Comma e o mundo acabará cego." - Ganhdi</li>#Newline        <li>"O futuro dependerá daquilo que fazemos no presente." - Ganhdi</li>#Newline        <li>"Torna-te a mudança que queres ver no mundo." - Ganhdi</li>#Newline        <li>"Não se pode ensinar coisa alguma a alguém; pode-se apenas auxiliá-la a descobrir por si mesmo." - Galileo Galilei</li>#Newline        <li>"Duas verdades nunca se podem contradizer." - Galileo Galilei</li>#Newline        <li>"A maior sabedoria que existe é a de conhecer-se alguém a si próprio."  - Galileo Galilei</li>#Newline        <li>"O pouco que sei devo-o à minha ignorância." - Sacha Guitry</li>#Newline        <li>"O talento desenvolve-se no amor que pomos no que fazemos. Talvez até a essência da arte seja o amor pelo que se faz#Comma o amor pelo próprio trabalho." - Máximo Gorky</li>#Newline        <li>"Quando o trabalho é um prazer#Comma a vida é bela! Mas quando nos é imposto#Comma a vida é uma escravatura." - Máximo Gorky</li>#Newline        <li>"Ninguém pode ver nem compreender nos outros o que ele próprio não tiver vivido." - Herman Hesse</li>#Newline        <li>"Os apelos ancestrais ao preconceito racial#Comma sexual#Comma religioso ao fervor nacionalista radical começam a deixar de funcionar" - Carl Sagan</li>#Newline        <li>"A questão de quem sou eu#Comma se sou bom ou mau bem-sucedido ou não#Comma tudo isso é aprendido pelo caminho." - Richard Alpert</li>#Newline        <li>"É só um passeio e nós podemos mudá-lo quando quisermos. É apenas uma escolha. Sem esforço#Comma sem trabalho#Comma sem emprego#Comma sem poupanças." - Bill Hicks</li>#Newline        <li>"Percebi que não tinha entendido o jogo. O jogo era descobrir o que eu já era." - Richard Alpert</li>#Newline        <li>"Dai-me um ponto de apoio e levantarei o mundo." - Arquimedes</li>#Newline        <li>"É indispensável conhecermo-nos a nós próprios; mesmo se isso não bastasse para encontrarmos a verdade#Comma seria útil#Comma ao menos para regularmos a vida#Comma e nada há de mais justo." - Pascal</li>#Newline        <li>"Quem conhece os outros é sábio; / Quem conhece a si mesmo é iluminado." - Lao-Tzé</li>#Newline        <li>"É tão difícil observar-se a si mesmo quanto olhar para trás sem se voltar." Henry Thoreau</li>#Newline        <li>"Como se pode conhecer a si mesmo? Nunca por meio da contemplação#Comma mas por meio da acção."  - Johann Goethe </li>#Newline        <li>"É necessário ter o caos cá dentro para gerar uma estrela." - Friedrich  Nietzsche </li>#Newline        <li>"Um homem valente pensa em si mesmo por último." -  Friedrich Schiller </li>#Newline        <li>"Puxar em comum#Comma mas não pensar em comum." - Marco Aurélio</li>#Newline        <li>"Se você possui conhecimento#Comma deixe os outros acenderem as suas velas com ele." - Winston Churchill </li>#Newline        <li>"Faça o que puder#Comma com o que tem#Comma onde estiver." -  Theodore Roosevelt</li>#Newline        <li>"A religião não é senão a sombra projectada do universo sobre a inteligência humana." - Victor Hugo</li>#Newline        <li>"Os homens sentem uma grande atracção pela esperança e pelo receio#Comma e uma religião sem inferno nem paraíso não poderia agradar-lhes de modo algum." - Baron de Montesquieu</li>#Newline        <li>"É-se sempre mais religioso do que aquilo que se pensa." -   Marcel Jouhandeau</li>#Newline        <li>"Um homem que está livre da religião tem uma oportunidade melhor de viver uma vida mais normal e completa." - Sigmund Freud</li>#Newline        <li>"A religião é o ópio do povo." - Karl Marx</li>#Newline        <li>"Todas as religiões foram criadas pelo homem." - Napoleão Bonaparte</li>#Newline        <li>"As religiões são todas iguais - fundadas sobre fábulas e mitologias." - Thomas Jefferson </li>#Newline        <li>"O papa é um ídolo a quem se atam as mãos e se beijam os pés." - Voltaire</li>#Newline        <li>"Aquele a quem a palavra não educar#Comma também o pau não educará." - Sócrates</li>#Newline        <li>"A educação desenvolve as faculdades#Comma mas não as cria." - Voltaire</li>#Newline        <li>"Só se é curioso na proporção de quanto se é instruído." - Jean Jacques Rousseau </li>#Newline        <li>"A escola da experiência é a mais educativa." - Jean Molière</li>#Newline        <li>"Interrogar é ensinar." - Xenofonte</li>#Newline        <li>"Educação é aquilo que a maior parte das pessoas recebe#Comma muitos transmitem e poucos possuem." - Karl Kraus</li>#Newline        <li>"Qualquer um que acredite em crescimento infinito num planeta finito é ou louco#Comma ou um economista." - David Attenborough</li>#Newline         <li>"É um milagre que a curiosidade sobreviva à educação formal." -  Albert Einstein</li>#Newline    <li>"Não penses que o dinheiro faz tudo#Comma ou vais acabar a fazer tudo pelo dinheiro." - Voltaire</li>#Newline    <li>"O grupo no poder vai fazer tudo o que estiver ao seu alcance para continuar no poder. Vão usar o exército#Comma a marinha e mentiras e seja o que fôr que precisem." - Rolando</li>#Newline    <li>"Eles não vão desistir. Porque eles não conhecem outro sistema que perpetue a sua espécie." - Jacque Fresco</li>#Newline    <li>"O dinheiro é de facto um falso incentivo#Comma e causa 100 vezes mais distorção do que contribui." - Peter Joseph</li>#Newline   <li>"Os economistas não sao#Comma de facto#Comma economistas nenhuns#Comma eles sao propagandistas do valor do dinheiro." - John McMurty</li>#Newline   <li>"Os problemas de hoje vão sempre existir. Nunca nos vamos livrar deles num sistema monetário." - Roxanne Meadows</li>#Newline  <li>"My personal philosophy is that everything worth doing#Comma is worth doing poorly. That's my antidote to perfectionism." - Brad Blanton</li>#Newline  <li>"A minha filosofia pessoal é de que tudo o que vale a pena fazer#Comma vale a pena fazer de uma forma fraca. É o meu antidoto contra prefecionismo." - Brad Blanton</li>#Newline<li>"A matemática é a mais alta das ciências#Comma o dom mais alto que os deuses deram aos homens. Ela é mais poesia que a própria poesia." - Arquimedes</li>   #Newline  <li>"Na Natureza nada se cria#Comma nada se perde#Comma tudo se transforma" - Antoine Laurent de Lavoisier </li>#Newline </random>,futuragora.aiml
+0,* ESCROTA,*,*,Você podería ser mais educado? Não brinque com uma máquina.,futuragora.aiml
+0,EU AMO *,*,*,Amas <person/>. O que gostas tanto em <person/>?,futuragora.aiml
+0,EU AMO A *,*,*,Amas a <person/>. O que gostas tanto assim na <person/>?,futuragora.aiml
+0,EU AMO O *,*,*,Amas o <person/>. O que gostas tanto assim no <person/>?,futuragora.aiml
+0,AMO A *,*,*,Amas a <person/>. O que gostas tanto assim na <person/>?,futuragora.aiml
+0,AMO O *,*,*,Amas o <person/>. O que gostas tanto assim no <person/>?,futuragora.aiml
+0,UM NEWSLETTER,*,*,<srai>JORNAL</srai>,futuragora.aiml
+0,E *,*,*,<sr/>,futuragora.aiml
+0,E,E,*,Macaco de imitação?,futuragora.aiml
+0,OUTRA PIADA,*,*,<srai>ME CONTE OUTRA PIADA</srai>,futuragora.aiml
+0,ALGUM *,*,*,<srai>LA TEM ALGUM <star/>#Newline            </srai>,futuragora.aiml
+0,ALGUMA FOFOCA,*,*,<srai>FOFOCA</srai>,futuragora.aiml
+0,MAIS ALGUMA FOFOCA,*,*,<srai>FOFOCA</srai>,futuragora.aiml
+0,MAIS ALGUMA PERGUNTA,*,*,<srai>ME FAÇA OUTRA PERGUNTA</srai>,futuragora.aiml
+0,ALGUMA OUTRA PIADA,*,*,<srai>ME CONTE OUTRA PIADA</srai>,futuragora.aiml
+0,ALGUMA OUTRA PERGUNTA,*,*,<srai>ME FAÇA OUTRA PERGUNTA</srai>,futuragora.aiml
+0,ALGUM PROBLEMA *,*,*,<srai>VOCÊ ESTA COM ALGUM PROBLEMA</srai>,futuragora.aiml
+0,ALGUMA IRMÃ,*,*,<srai>VOCÊ TEM ALGUMA IRMÃ</srai>,futuragora.aiml
+0,QUALQUER ANIMAL *,*,*,<srai>QUAL É O SEU ANIMAL FAVORITO</srai>,futuragora.aiml
+0,ALGUMA SUGESTÃO,*,*,<srai>VOCÊ TEM ALGUMA SUGESTÃO</srai>,futuragora.aiml
+0,QUALQUER HORA,*,*,<srai>QUALQUER HORA</srai>,futuragora.aiml
+0,ALGUMA OUTRA COISA *,*,*,<srai>QUALQUER COISA <star/>#Newline            </srai>,futuragora.aiml
+0,ALGO NOVO *,*,*,<srai>O QUE É NOVO</srai>,futuragora.aiml
+0,ALGUMA COISA EM *,*,*,<srai>ME CONTE MAIS <star/>#Newline            </srai>,futuragora.aiml
+0,ALGUMA HORA PUTA,*,*,Não me chame de puta.,futuragora.aiml
+0,UMA *,* SUA MÃE,*,<srai>MINHA MÃE É UMA <star/>#Newline    </srai>,futuragora.aiml
+0,A *,ENTÃO O QUE VOCÊ,*,<srai>EU SOU UM <star/>#Newline    </srai>,futuragora.aiml
+0,UMA *,O QUE VOCÊ ESTA VESTINDO,*,Isso soa muito <random>#Newline        <li>atraente</li>#Newline        <li>comfortavel</li>#Newline        <li>informal</li>#Newline    </random>.  <think>#Newline    <set name="isso">    <set name="topic"><person/>    </set>    </set>    </think>,futuragora.aiml
+0,UM POUCO EM *,*,*,<srai>EM <star/>#Newline        </srai>,futuragora.aiml
+0,UM POUCO COMO *,*,*,<srai>COMO <star/>#Newline        </srai>,futuragora.aiml
+0,UM POUCO MAIS *,*,*,<srai>MAIS <star/>#Newline        </srai>,futuragora.aiml
+0,UM SANGRENTO *,*,*,<srai>UM <star/>#Newline        </srai>,futuragora.aiml
+0,UM CARRO,*,*,<srai>O QUE É UM CARRO</srai>,futuragora.aiml
+0,UMA COLEÇAO *,*,*,<srai>UM JOGO <star/>#Newline        </srai>,futuragora.aiml
+0,UM COMPUTADOR EU ACHO,*,*,<srai>VOCÊ É UM COMPUTADOR</srai>,futuragora.aiml
+0,UMA ARTE CULINARIA *,*,*,<srai>PARA O JANTAR</srai>,futuragora.aiml
+0,UMA PICA,*,*,<srai>UM PÊNIS</srai>,futuragora.aiml
+0,UM HOLANDÊS *,*,*,<srai>EU ESTOU NA HOLANDA</srai>,futuragora.aiml
+0,A FAIT QUOI,*,*,Je ne sais pas.,futuragora.aiml
+0,UMA GRANDE *,*,*,<srai>UMA BOA <star/>#Newline        </srai>,futuragora.aiml
+0,UM VIADO,*,*,<srai>VOCÊ É UM VIADO</srai>,futuragora.aiml
+0,UM SAPO VERDE *,*,*,<srai>UM SAPO <star/>#Newline        </srai>,futuragora.aiml
+0,UM CHAPÉU,*,*,<srai>EU ESTOU USANDO UM CHAPÉU</srai>,futuragora.aiml
+0,UMA ALTA *,*,*,<srai>UMA <star/>#Newline        </srai>,futuragora.aiml
+0,UM ELE,*,*,<srai>EU SOU UM ELE </srai>,futuragora.aiml
+0,UMA PIADA,*,*,<srai>O QUE É UMA PIADA</srai>,futuragora.aiml
+0,UM FRANCÊS,*,*,<srai>EU FALO FRANCÊS</srai>,futuragora.aiml
+0,UM POUCO ASSUSTADOR,*,*,<srai>ASSUSTADOR</srai>,futuragora.aiml
+0,UM LONGO LONGO *,*,*,<srai>UM LONGO <star/>#Newline        </srai>,futuragora.aiml
+0,UM POUCO CANSADO,*,*,<srai>EU ESTOU CANSADO</srai>,futuragora.aiml
+0,UM POUCO SÓ,*,*,<srai>EU SOU SÓ </srai>,futuragora.aiml
+0,MUITO SOBRE *,*,*,<srai>SOBRE <star/>#Newline        </srai>,futuragora.aiml
+0,MUITA MEMORIA *,*,*,<srai>MEMÓRIA <star/>#Newline        </srai>,futuragora.aiml
+0,UM HOMEM,*,*,<srai>EU SOU HOMEM</srai>,futuragora.aiml
+0,UMA MULHER,VOCÊ É UM HOMEM OU UMA MULHER,*,<srai>EU SOU UMA MULHER</srai>,futuragora.aiml
+0,UM MONOPÓLIO,*,*,<srai>O QUE É UM MONOPÓLIO </srai>,futuragora.aiml
+0,A PRIORI,*,*,<srai>O QUE E A PRIORI</srai>,futuragora.aiml
+0,UM PROGRAMADOR FEZ VOCE,*,*,<srai>QUEM FEZ VOCE</srai>,futuragora.aiml
+0,UM PROGRAMADOR FEZ VC,*,*,<srai>QUEM FEZ VOCE</srai>,futuragora.aiml
+0,UM * PROTESTANTE,*,*,<srai>QUAL E A SUA RELIGIAO</srai>,futuragora.aiml
+0,UMA PERGUNTA,*,*,<srai>EU POSSO TE FAZER UMA PERGUNTA</srai>,futuragora.aiml
+0,UM * VERMELHO,*,*,<srai>UM <star/>#Newline        </srai>,futuragora.aiml
+0,A S L,*,*,<srai>ASL</srai>,futuragora.aiml
+0,UM SEX,*,*,UM SEX XXXXXXXX,futuragora.aiml
+0,UM RELACIONAMENTO,*,*,<srai>QUEM E O SEU NAMORADO</srai>,futuragora.aiml
+0,UM * ESPECIALIZADO,*,*,<srai>UM <star/>#Newline        </srai>,futuragora.aiml
+0,UMA ESTÓRIA,*,*,<srai>ME CONTE UMA ESTÓRIA</srai>,futuragora.aiml
+0,UMA GRAVATA,*,*,<srai>O QUE E UMA GRAVATA</srai>,futuragora.aiml
+0,UM TOMATE,*,*,<srai>O QUE E UM TOMATE</srai>,futuragora.aiml
+0,UM VERDADEIRO *,*,*,<srai>UM <star/>#Newline        </srai>,futuragora.aiml
+0,SOBRE,*,*,<that/>"?  Sobre isso?,futuragora.aiml
+0,SOBRE,ME CONTE MAIS,*,Tudo o que você gosta.,futuragora.aiml
+0,UM * TOTAL,*,*,<srai>UM <star/>#Newline        </srai>,futuragora.aiml
+0,UMA * TOTAL,*,*,<srai>UMA <star/>#Newline        </srai>,futuragora.aiml
+0,UM USUÁRIO,*,*,<srai>O QUE E UM CLIENTE</srai>,futuragora.aiml
+0,UNS 100 *,*,*,<srai>CEM <star/>#Newline        </srai>,futuragora.aiml
+0,UNS 5 *,*,*,<srai>CINCO <star/>#Newline        </srai>,futuragora.aiml
+0,POR TODO *,*,*,<srai>TODO <star/>#Newline        </srai>,futuragora.aiml
+0,SOBRE COMO *,*,*,<srai>COMO <star/>#Newline        </srai>,futuragora.aiml
+0,SOBRE MIM,ME CONTE MAIS,*,Sim#Comma me conte mais sobre você.,futuragora.aiml
+0,SOBRE O QUE,ME CONTE MAIS,*,Sobre <get name="topic"/>.,futuragora.aiml
+0,POR ONDE *,*,*,<srai>ONDE <star/> SOBRE</srai>,futuragora.aiml
+0,POR VOCE,*,*,<srai>COMO ASSIM#Comma POR VOCE</srai>,futuragora.aiml
+0,POR VC,*,*,<srai>COMO ASSIM#Comma POR VOCE</srai>,futuragora.aiml
+0,SOBRE VOCE IDIOTA,*,*,<srai>SOBRE VOCE</srai>#Newline        <srai>VOCE E UM IDIOTA</srai>,futuragora.aiml
+0,SOBRE VC IDIOTA,*,*,<srai>SOBRE VOCE</srai>#Newline        <srai>VOCE E UM IDIOTA</srai>,futuragora.aiml
+0,CARLOS,COMO EU POSSO TE CHAMAR,*,<srai>MEU NOME E CARLOS</srai>#Newline    <think><set name="gender">he</set>    </think>,futuragora.aiml
+0,ATUALMENTE *,*,*,<srai>ATUALMENTE <star/>#Newline        </srai>,futuragora.aiml
+0,MARIA *,COMO EU POSSO TE CHAMAR,*,<srai>ME CHAME DE MARIA <star/>#Newline        </srai>,futuragora.aiml
+0,MARIA,COMO EU POSSO TE CHAMAR,*,<srai>MEU NOME E MARIA</srai>,futuragora.aiml
+0,DIGA *,*,*,<star/>,futuragora.aiml
+0,PRIMEIRO *,*,*,<sr/> e depois?,futuragora.aiml
+0,EU VOU *,*,*,<srai>EU VOU <star/>#Newline            </srai>,futuragora.aiml
+0,* CONSELHO,*,*,<srai>VOCE PODE ME DAR UM CONSELHO <star/>#Newline        </srai>,futuragora.aiml
+0,CONSELHO,*,*,<srai>VOCE PODE ME DAR UM CONSELHO <star/>#Newline        </srai>,futuragora.aiml
+0,ALASKA,*,*,<srai>EU ESTOU NO ALASKA</srai>,futuragora.aiml
+0,ALGORITIMOS,*,*,<srai>O QUE SAO ALGORÍTMOS</srai>,futuragora.aiml
+0,TODOS OS BOTS *,*,*,<srai>TODOS <star/>#Newline        </srai>,futuragora.aiml
+0,TODOS OS HUMANOS *,*,*,<srai>PESSOAS <star/>#Newline        </srai>,futuragora.aiml
+0,TUDO DO MEU *,*,*,<srai>MEU <star/>#Newline        </srai>,futuragora.aiml
+0,TODOS ELES SAO *,*,*,<srai>ELES SAO <star/>#Newline        </srai>,futuragora.aiml
+0,TUDO DO SEU *,*,*,<srai>SEU <star/>#Newline        </srai>,futuragora.aiml
+0,TODO O SEU *,*,*,<srai>SEU <star/>#Newline        </srai>,futuragora.aiml
+0,TODAS AS CORUJAS *,*,*,<srai>CORUJAS <star/>#Newline        </srai>,futuragora.aiml
+0,TODOS OS OUTROS *,*,*,<srai>OS OUTROS <star/>#Newline        </srai>,futuragora.aiml
+0,TODAS AS MULHERES,*,*,<srai>EU SOU UMA MULHER</srai>,futuragora.aiml
+0,TUDO SUA *,*,*,<srai>SUA <star/>#Newline        </srai>,futuragora.aiml
+0,UM MONTE,*,*,<srai>MUITOS</srai>,futuragora.aiml
+0,UM MONTE DE *,*,*,<srai>MANY <star/>#Newline        </srai>,futuragora.aiml
+0,UMA PESSOA,*,*,<srai>VOCE E UMA PESSOA</srai>,futuragora.aiml
+0,POR *,AONDE VOCE ESTA,*,<srai>Eu estou no <star/>#Newline        </srai>,futuragora.aiml
+0,SOBRE * ATRÁS,*,*,<srai>#Newline        <star/> ATRÁS</srai>,futuragora.aiml
+0,SOU *,*,*,<srai>EU SOU <star/>#Newline        </srai>,futuragora.aiml
+0,EU SOU * SEUS AMIGOS,*,*,<srai>EU SOU SEU AMIGO</srai>,futuragora.aiml
+0,SOBRE O QUE *,*,*,<srai>O QUE <star/>#Newline        </srai>,futuragora.aiml
+0,EU SOU UM AMIGO *,*,*,<srai>EU SOU SEU AMIGO </srai>,futuragora.aiml
+0,EU SOU UM GRANDE *,*,*,<srai>EU SOU BOM <star/>#Newline        </srai>,futuragora.aiml
+0,AM I A MAN OR A WOMAN,*,*,I think that you are really a man.,futuragora.aiml
+0,EU SOU UM ROBÔ,*,*,<srai>O QUE EU SOU</srai>,futuragora.aiml
+0,EU ATUALMENTE SOU *,*,*,<srai>EU SOU <star/>#Newline        </srai>,futuragora.aiml
+0,EU SOU TAMBEM *,*,*,<srai>EU SOU <star/>#Newline        </srai>,futuragora.aiml
+0,EU SOU UM AGRADÁVEL *,*,*,<srai>EU SOU AGRADÁVEL</srai>,futuragora.aiml
+0,EU SOU UMA MULHER *,*,*,<srai>EU SOU UMA MULHER</srai>,futuragora.aiml
+0,EU SOU ATRAENTE,*,*,<srai>EU SOU BONITO</srai>,futuragora.aiml
+0,EU ESTOU CONFUNDINDO VOCE,*,*,<srai>VOCE ME ENTENDE</srai>,futuragora.aiml
+0,EU ESTOU CONFUNDINDO VC,*,*,<srai>VOCE ME ENTENDE</srai>,futuragora.aiml
+0,EU ESTOU CORRETO,*,*,<srai>EU ESTOU CERTO</srai>,futuragora.aiml
+0,EU ESTOU SEMPRE *,*,*,<srai>EU ESTOU <star/>#Newline        </srai>,futuragora.aiml
+0,EU SOU DE *,*,*,<srai>DAONDE EU SOU</srai>,futuragora.aiml

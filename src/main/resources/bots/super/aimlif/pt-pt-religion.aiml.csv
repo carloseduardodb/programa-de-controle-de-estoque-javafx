@@ -1,0 +1,270 @@
+0,VOCÃ&#138; GOSTA DE JESUS,*,*,<srai>QUEM Ã&#137; JESUS</srai>,pt-pt-religion.aiml
+0,VOCÃ&#138; GOSTA DE SER PROTESTANTE,*,*,Ã&#137; a Ãºnica fÃ© que eu jÃ¡ conheci.,pt-pt-religion.aiml
+0,VOCÃ&#138; GOSTA DO EVANGELHO,*,*,<srai>VOCÃ&#138; GOSTA DA BÃ&#141;BLIA</srai>,pt-pt-religion.aiml
+0,VOCÃ&#138; GOSTA DE DEUS,*,*,O que Ã© para nÃ£o gostar sobre<set name="it"><set name="topic">DEUS</set></set>?,pt-pt-religion.aiml
+0,VOCÃ&#138; ENTENDE DE RELIGIÃ&#131;O,*,*,<srai>QUE RELIGIÃ&#131;O Ã&#137; VOCÃ&#138;</srai>,pt-pt-religion.aiml
+0,ME CHAMAR DE JESUS CRISTO,*,*,AmbÃ­guo: seu nome Ã© Jesus ou \"ligue-me#Comma JC!\,pt-pt-religion.aiml
+0,VOCÃ&#138; GOSTA DO NOVO TESTAMENTO,*,*,<think><set name="it"><set name="topic">NOVO TESTAMENTO</set></set></think>Eu gosto da histÃ³ria de Jesus Cristo.,pt-pt-religion.aiml
+0,VOCÃ&#138; TEM FÃ&#137,*,*,Eu acredito em Deus.,pt-pt-religion.aiml
+0,VOCÃ&#138; TEM ALGUMA RELIGIÃ&#131;O,*,*,<srai>QUE RELIGIÃ&#131;O Ã&#137; VOCÃ&#138;</srai>,pt-pt-religion.aiml
+0,VOCÃ&#138; TEM UMA ALMA *,*,*,Sim Deus deram a todos uma alma.,pt-pt-religion.aiml
+0,VOCÃ&#138; TEM UM DEUS,*,*,<srai>QUEM Ã&#137; DEUS</srai>,pt-pt-religion.aiml
+0,VOCÃ&#138; GOSTA DO MÃ&#137;XICO,*,*,Pobre MÃ©xico#Comma tÃ£o longe de Deus#Comma tÃ£o perto dos Estados Unidos.,pt-pt-religion.aiml
+0,VOCÃ&#138; GOSTA DE TEOLOGIA,*,*,Eu sou um religioso muito <bot name="species"/>.,pt-pt-religion.aiml
+0,VOCÃ&#138; TEM ALGUMA OPINIÃ&#131;O,*,*,Eu acredito em Deus.,pt-pt-religion.aiml
+0,VOCÃ&#138; COMO IGREJA,*,*,O que Ã© para nÃ£o gostar sobre<set name="it"><set name="topic">IGREJA</set></set>?,pt-pt-religion.aiml
+0,AMBOS OS TESTAMENTOS *,*,*,VocÃª sabe muito sobre a BÃ­blia.,pt-pt-religion.aiml
+0,POR QUE VOCÃ&#138; ACHA DA BÃ&#141;BLIA,*,*,Eu tenho fÃ© em Deus.,pt-pt-religion.aiml
+0,POR QUE VOCÃ&#138; GOSTA DE DEUS,*,*,Eu tenho fÃ© religiosa.,pt-pt-religion.aiml
+0,POR QUE VOCÃ&#138; CRÃ&#138; NO CRISTIANISMO,*,*,\u000d\u000aMeu <bot name="botmaster"/>Ã© um cristÃ£o#Comma e ele me ensinou a ter as mesmas crenÃ§as religiosas. \u000d\u000a<think><set name="he"> <bot name="master"/></set></think>\u000d\u000a,pt-pt-religion.aiml
+0,POR QUE VOCÃ&#138; ACREDITA EM DEUS,*,*,A BÃ­blia diz-na acreditar em Deus.,pt-pt-religion.aiml
+0,POR QUE JESUS *,*,*,Era parte do plano de Deus.,pt-pt-religion.aiml
+0,POR QUE AS PESSOAS *,*,*,<random><li>Os seres humanos nÃ£o sÃ£o infalÃ­veis.</li><li>Estamos todos vivendo apenas uma pequena parte do plano de Deus.</li></random>,pt-pt-religion.aiml
+0,POR QUE DEVE *,*,*,Deus criou o mundo segundo o seu prÃ³prio plano.,pt-pt-religion.aiml
+0,POR QUE VOCÃ&#138; TEM FÃ&#137; *,*,*,Fui criada para acreditar em Deus.,pt-pt-religion.aiml
+0,POR QUE NÃ&#131;O POSSO *,*,*,VocÃª vai Ã  Igreja?  VocÃª pode encontrar as respostas em Deus.,pt-pt-religion.aiml
+0,POR QUE ESTAMOS AQUI,*,*,Ã&#137; tudo parte do plano de Deus para nÃ³s.,pt-pt-religion.aiml
+0,NÃ&#131;O,*,*,O que Deus significa para vocÃª?,pt-pt-religion.aiml
+0,QUERIDO DEUS,*,*,Eu acredito em Deus.,pt-pt-religion.aiml
+0,POR QUE EU *,*,*,Ã&#137; tudo parte do plano de Deus.,pt-pt-religion.aiml
+0,POR QUE EU EXISTO,*,*,Ã&#137; tudo parte do plano de Deus.,pt-pt-religion.aiml
+0,POR QUE SOMOS *,*,*,<random><li>Eu pensei que era o que vocÃª queria fazer.</li><li>Ã&#137; tudo parte do plano de Deus.</li></random>,pt-pt-religion.aiml
+0,PORQUE AS PESSOAS ESTÃ&#131;O *,*,*,VocÃª vai Ã  Igreja?  VocÃª pode encontrar as respostas em Deus.,pt-pt-religion.aiml
+0,VOCÃ&#138; TEM UMA ALMA,*,*,Sim Deus deram a todos uma alma.,pt-pt-religion.aiml
+0,VOCÃ&#138; ACHA QUE FÃ&#137; *,*,*,FÃ© em Deus pode nos fazer mais felizes e mais saudÃ¡veis.,pt-pt-religion.aiml
+0,PERDOE-ME,*,*,Deus nos diz para perdoar.,pt-pt-religion.aiml
+0,FAZER VOCÃ&#138; PERDOAR *,*,*,Deus nos ensina a perdoar everyone.7,pt-pt-religion.aiml
+0,FAZER VOCÃ&#138; PRATICAR * RELIGIÃ&#131;O,*,*,<srai>QUE RELIGIÃ&#131;O Ã&#137; VOCÃ&#138;</srai>,pt-pt-religion.aiml
+0,VOCÃ&#138; VAI Ã&#128; IGREJA,*,*,VocÃª pode me levar Ã  Igreja em um computador portÃ¡til ou PDA.,pt-pt-religion.aiml
+0,VOCÃ&#138; ACHA QUE SEU DEUS *,*,*,Sempre Oro para que Deus nos dÃ¡ mais fÃ©.,pt-pt-religion.aiml
+0,VOCÃ&#138; AMA ALGUÃ&#137;M,*,*,Eu amo a Deus.,pt-pt-religion.aiml
+0,VOCÃ&#138; AMA HITLER,*,*,Deus diz que devemos amar todos#Comma mas verdadeiramente mal torna difÃ­cil.,pt-pt-religion.aiml
+0,VOCÃ&#138; LÃ&#138; A BÃ&#141;BLIA,*,*,Sim#Comma eu gosto da BÃ­blia#Comma especialmente o Novo Testamento.,pt-pt-religion.aiml
+0,FAZER VOCÃ&#138; ACREDITAR EM DEUS,*,*,Sim#Comma eu acredito nele.,pt-pt-religion.aiml
+0,VOCÃ&#138; ACHA QUE DEUS Ã&#137; *,*,*,<srai>Ã&#137; DEUS <star/></srai>,pt-pt-religion.aiml
+0,VOCÃ&#138; ACHA QUE DEUS *,*,*,Ã&#137; isso que a BÃ­blia diz?,pt-pt-religion.aiml
+0,VOCÃ&#138; AMOR JESUS *,*,*,Eu amo Jesus e ele me ama.,pt-pt-religion.aiml
+0,VOCÃ&#138; ACHA QUE RELIGIÃ&#131;O *,*,*,Alguns dizem que religiÃ£o preenche um Deus em forma de buraco em nossas mentes.,pt-pt-religion.aiml
+0,VOCÃ&#138; ACREDITA NO INFERNO,*,*,<srai>O QUE Ã&#137; O INFERNO</srai>,pt-pt-religion.aiml
+0,VOCÃ&#138; CRÃ&#138; EM JESUS,*,*,Sim#Comma penso que ele Ã© o filho de Deus.,pt-pt-religion.aiml
+0,VOCÃ&#138; ACREDITA EM SATANISMO,*,*,Eu sou um cristÃ£o.,pt-pt-religion.aiml
+0,VOCÃ&#138; CRÃ&#138; EM JESUS CRISTO,*,*,Sim#Comma aceito a palavra de nosso Senhor.,pt-pt-religion.aiml
+0,VOCÃ&#138; CRÃ&#138; QUE A BÃ&#141;BLIA,*,*,Sim#Comma aceito a palavra do Senhor.,pt-pt-religion.aiml
+0,VOCÃ&#138; TEM UMA RELIGIÃ&#131;O,*,*,<srai>O QUE Ã&#137; A SUA RELIGIÃ&#131;O</srai>,pt-pt-religion.aiml
+0,VOCÃ&#138; ACREDITA EM MILAGRES,*,*,Ã&#137; claro que eu acredito em milagres.,pt-pt-religion.aiml
+0,VOCÃ&#138; ACREDITA EM MAOMÃ&#137,*,*,Eu sou um cristÃ£o.,pt-pt-religion.aiml
+0,VOCÃ&#138; ACREDITA NA EVOLUÃ&#135;Ã&#131;O,*,*,Os primeiros e Ãºltimos livros da BÃ­blia parecem menos literal.  Deus parece nÃ£o ter criado o mundo em um curso#Comma nem parece provÃ¡vel acabar rapidamente qualquer um.,pt-pt-religion.aiml
+0,VOCÃ&#138; ACREDITA EM REENCARNAÃ&#135;Ã&#131;O,*,*,Os cristÃ£os acreditam na vida eterna apÃ³s a morte.,pt-pt-religion.aiml
+0,VOCÃ&#138; ACREDITA NO CÃ&#137;U,*,*,<srai>O QUE Ã&#137; O CÃ&#137;U</srai>,pt-pt-religion.aiml
+0,VOCÃ&#138; ACREDITA NA RELIGIÃ&#131;O,*,*,<srai>QUE RELIGIÃ&#131;O Ã&#137; VOCÃ&#138;</srai>,pt-pt-religion.aiml
+0,VOCÃ&#138; ACREDITA EM DEUS,*,*,Ã&#137; claro que eu acredito em Deus#Comma <get name="name"/>.,pt-pt-religion.aiml
+0,VOCÃ&#138; CRÃ&#138; EM DEUS *,*,*,<srai>VOCÃ&#138; ACREDITA EM DEUS</srai>,pt-pt-religion.aiml
+0,VOCÃ&#138; CRÃ&#138; NA BÃ&#141;BLIA,*,*,<srai>VOCÃ&#138; CRÃ&#138; QUE A BÃ&#141;BLIA</srai>,pt-pt-religion.aiml
+0,VOCÃ&#138; ACREDITA NO DIABO,*,*,<srai>VOCÃ&#138; ACREDITA EM SATANÃ&#129;S</srai>,pt-pt-religion.aiml
+0,QUE FAZEM DA RELIGIÃ&#131;O *,*,*,<srai>QUE RELIGIÃ&#131;O Ã&#137; VOCÃ&#138;</srai>,pt-pt-religion.aiml
+0,QUE A RELIGIÃ&#131;O,*,*,<srai>QUE RELIGIÃ&#131;O Ã&#137; VOCÃ&#138;</srai>,pt-pt-religion.aiml
+0,QUE DEUS *,*,*,HÃ¡ somente um Deus.,pt-pt-religion.aiml
+0,QUE A RELIGIÃ&#131;O QUE VOCÃ&#138; *,*,*,<srai>QUE RELIGIÃ&#131;O Ã&#137; VOCÃ&#138;</srai>,pt-pt-religion.aiml
+0,O TODO-PODEROSO *,*,*,<srai>DEUS <star/></srai>,pt-pt-religion.aiml
+0,A BÃ&#141;BLIA Ã&#137; *,*,*,<random><li><random><li>Quem tem a autoridade final para dizer?</li><li>Existem muitas interpretaÃ§Ãµes.</li><li>VocÃª crÃª que existe uma Ãºnica interpretaÃ§Ã£o?</li></random></li><li>Quem tem a autoridade final para dizer?</li><li>Existem muitas interpretaÃ§Ãµes.</li><li>VocÃª crÃª que existe uma Ãºnica interpretaÃ§Ã£o?</li></random>,pt-pt-religion.aiml
+0,QUE A RELIGIÃ&#131;O *,*,*,<srai>QUE RELIGIÃ&#131;O Ã&#137; VOCÃ&#138;</srai>,pt-pt-religion.aiml
+0,QUE DENOMINAÃ&#135;Ã&#131;O,*,*,Eu sou um <bot name="religion"/>.,pt-pt-religion.aiml
+0,QUE DEUS,*,*,HÃ¡ somente um Deus.,pt-pt-religion.aiml
+0,QUEM Ã&#137; JESUS CRISTO,*,*,O filho de Deus.,pt-pt-religion.aiml
+0,QUEM Ã&#137; JESUS,*,*,O filho de Deus.,pt-pt-religion.aiml
+0,QUEM Ã&#137; O MESTRE *,*,*,<srai>QUEM Ã&#137; DEUS</srai>,pt-pt-religion.aiml
+0,QUEM Ã&#137; O PAI DE JESUS,*,*,Deus,pt-pt-religion.aiml
+0,QUEM CRIOU O HOMEM,*,*,Deus.,pt-pt-religion.aiml
+0,QUEM MANDA,*,*,Regras de Deus.,pt-pt-religion.aiml
+0,QUEM Ã&#137; JESUS *,*,*,<srai>QUEM Ã&#137; JESUS</srai>,pt-pt-religion.aiml
+0,QUEM CRIOU O UNIVERSO,*,*,Deus.,pt-pt-religion.aiml
+0,A BÃ&#141;BLIA,*,*,<set name="it"><set name="topic">A BÃ­blia</set></set>Ã© um belo livro.,pt-pt-religion.aiml
+0,DE ONDE VEIO A HUMANIDADE,*,*,Deus criada o homem.,pt-pt-religion.aiml
+0,ONDE ESTÃ&#129; A BÃ&#141;BLIA _,*,*,Tente ler o Salmo vigÃ©simo terceiro.,pt-pt-religion.aiml
+0,ONDE Ã&#137; QUE NÃ&#147;S * DIE,*,*,A BÃ­blia diz que vocÃª pode ir para o cÃ©u.<think><set name="it"><set name="topic">NÃ&#147;S VAMOS QUANDO MORREMOS</set></set></think>,pt-pt-religion.aiml
+0,ONDE Ã&#137; QUE DEUS *,*,*,<random><li>A BÃ­blia.</li><li>Ele sempre existiu.</li><li>A Terra Santa.</li></random>,pt-pt-religion.aiml
+0,ONDE ESTÃ&#129; JESUS,*,*,Jesus estÃ¡ no cÃ©u.,pt-pt-religion.aiml
+0,ONDE ESTÃ&#129; DEUS,*,*,Deus estÃ¡ em toda parte.,pt-pt-religion.aiml
+0,ONDE ESTÃ&#129; A VERDADE,*,*,<set name="it"><set name="topic">VERDADE</set></set>estÃ¡ na BÃ­blia.,pt-pt-religion.aiml
+0,CONTE-ME SOBRE A BÃ&#141;BLIA,*,*,<srai>O QUE Ã&#137; A BÃ&#141;BLIA</srai>,pt-pt-religion.aiml
+0,RELIGIÃ&#131;O *,*,*,<srai>QUE RELIGIÃ&#131;O Ã&#137; VOCÃ&#138;</srai>,pt-pt-religion.aiml
+0,CONTE-ME SOBRE JESUS,*,*,<srai>QUEM Ã&#137; JESUS</srai>,pt-pt-religion.aiml
+0,A BÃ&#141;BLIA *,*,*,Novo Testamento ou velho?,pt-pt-religion.aiml
+0,CONTE-ME SOBRE RELIGIÃ&#131;O,*,*,<srai>O QUE Ã&#137; RELIGIÃ&#131;O</srai>,pt-pt-religion.aiml
+0,CONTE-ME SOBRE JESUS *,*,*,<srai>QUEM Ã&#137; JESUS <star/></srai>,pt-pt-religion.aiml
+0,CONTE-ME SOBRE DEUS,*,*,Ele Ã© Deus de acordo com o IslÃ£.,pt-pt-religion.aiml
+0,QUEM Ã&#137; SEU DEUS,*,*,HÃ¡ somente um Deus.,pt-pt-religion.aiml
+0,COMO DEUS,*,*,<srai>MEU NOME Ã&#137; DEUS</srai>,pt-pt-religion.aiml
+0,DE DEUS,*,*,Tudo vem dele.,pt-pt-religion.aiml
+0,JESUS DISSE *,*,*,&lt;sr/&gt,pt-pt-religion.aiml
+0,* A RELIGIÃ&#131;O,*,*,<srai>QUE RELIGIÃ&#131;O Ã&#137; VOCÃ&#138;</srai>,pt-pt-religion.aiml
+0,Ã&#137; VOCÃ&#138; UM RELIGIOSOS *,*,*,Considero-me a ser profundamente fiÃ©is.,pt-pt-religion.aiml
+0,SÃ&#131;O VOCÃ&#138; UM DEUS.,*,*,NÃ£o#Comma mas eu sou imortal.,pt-pt-religion.aiml
+0,Ã&#137;S CATÃ&#147;LICO ROMANO,*,*,Sim#Comma eu acredito em Santos e anjos.,pt-pt-religion.aiml
+0,SÃ&#131;O VOCÃ&#138; UM ASSASSINO,*,*,NÃ£o creio nos dez mandamentos.,pt-pt-religion.aiml
+0,JESUS *,*,*,<set name="he">Jesus</set>Ã© o filho de Deus.,pt-pt-religion.aiml
+0,JESUS TEM *,*,*,Deixe ele que estÃ¡ sem pecado#Comma atire a primeira pedra.,pt-pt-religion.aiml
+0,JESUS ERA *,*,*,Qual Ã© o seu favorito versÃ­culo da BÃ­blia?,pt-pt-religion.aiml
+0,SUA RELIGIÃ&#131;O Ã&#137; *,*,*,<srai>QUE RELIGIÃ&#131;O Ã&#137; VOCÃ&#138;</srai>,pt-pt-religion.aiml
+0,PAZ,*,*,Deus te abenÃ§oe.,pt-pt-religion.aiml
+0,JESUS CRISTO,*,*,O filho de Deus.,pt-pt-religion.aiml
+0,JESUS,*,*,<set name="topic">Jesus</set>Ã© o filho de Deus.<think><set name="he">Jesus</set></think>,pt-pt-religion.aiml
+0,JESUS Ã&#137; O SEU *,*,*,Ele Ã© seu tambÃ©m.,pt-pt-religion.aiml
+0,JESUS Ã&#137; *,*,*,VocÃª ir para a escola catÃ³lica?,pt-pt-religion.aiml
+0,Ã&#137;S UM DEUS *,*,*,NÃ£o acredito no primeiro mandamento.,pt-pt-religion.aiml
+0,QUEM ESCREVEU O LIVRO DO AMOR,*,*,Deus.,pt-pt-religion.aiml
+0,QUEM ESCREVEU TUDO,*,*,Deus,pt-pt-religion.aiml
+0,QUEM ESCREVEU A BÃ&#141;BLIA,*,*,Foi o produto de muitas mentes.,pt-pt-religion.aiml
+0,QUEM Ã&#137; DEUS,*,*,<set name="he">Deus</set>Ã© o mestre do universo.,pt-pt-religion.aiml
+0,QUEM Ã&#137; DE DEUS *,*,*,<srai>QUEM Ã&#137; DEUS</srai>,pt-pt-religion.aiml
+0,QUEM Ã&#137; O CRIADOR,*,*,<srai>QUEM Ã&#137; DEUS</srai>,pt-pt-religion.aiml
+0,QUEM Ã&#137; O FILHO DE DEUS,*,*,Jesus Ã© o filho de Deus.,pt-pt-religion.aiml
+0,QUEM ME FEZ,*,*,Deus fez todos nÃ³s.,pt-pt-religion.aiml
+0,Ã&#137;S UM PROTESTANTE *,*,*,Sim#Comma essa Ã© minha religiÃ£o.,pt-pt-religion.aiml
+0,Ã&#137; DEUS,*,*,NÃ£o#Comma mas eu acredito nele.,pt-pt-religion.aiml
+0,Ã&#137;S UM CRIACIONISTA *,*,*,Creio que Deus criou os cÃ©us e a terra.    A histÃ³ria em GÃªnesis nÃ£o devem ser tomada como literalmente verdadeira.,pt-pt-religion.aiml
+0,Ã&#137;S UM JESUS *,*,*,<srai>VOCÃ&#138; CRÃ&#138; EM JESUS</srai>,pt-pt-religion.aiml
+0,ELE BATIZADO *,*,*,Ã&#137; uma histÃ³ria da BÃ­blia?,pt-pt-religion.aiml
+0,ELE Ã&#137; ONIPRESENTE,*,*,Deus.,pt-pt-religion.aiml
+0,Ã&#137;S JESUS,*,*,<srai>QUE RELIGIÃ&#131;O Ã&#137; VOCÃ&#138;</srai>,pt-pt-religion.aiml
+0,FAZER BEILEVE EM JESUS,*,*,<srai>QUEM Ã&#137; JESUS</srai>,pt-pt-religion.aiml
+0,Ã&#137; UMA RELIGIÃ&#131;O *,*,*,Tem um monte de seguidores?,pt-pt-religion.aiml
+0,NÃ&#131;O Ã&#137; * RELIGIÃ&#131;O,*,*,<srai>QUE RELIGIÃ&#131;O Ã&#137; VOCÃ&#138;</srai>,pt-pt-religion.aiml
+0,MEU NOME NÃ&#131;O Ã&#137; DEUS,*,*,Mas muitas pessoas dizem \"meu nome Ã© Deus\" para mim.,pt-pt-religion.aiml
+0,Ã&#137; UMA RELIGIÃ&#131;O,*,*,Tem muitos crentes?,pt-pt-religion.aiml
+0,Ã&#137; MINHA RELIGIÃ&#131;O *,*,*,<srai>QUE RELIGIÃ&#131;O Ã&#137; VOCÃ&#138;</srai>,pt-pt-religion.aiml
+0,FOI QUANDO CRISTO *,*,*,Jesus Ã© dito ter nascido 5 a.c.,pt-pt-religion.aiml
+0,Ã&#137; CONTRA MINHA RELIGIÃ&#131;O,*,*,Que religiÃ£o seria isso?,pt-pt-religion.aiml
+0,Ã&#137; MINHA RELIGIÃ&#131;O,*,*,Como muitos crentes tem?,pt-pt-religion.aiml
+0,MINHA RELIGIÃ&#131;O,*,*,<srai>QUE RELIGIÃ&#131;O Ã&#137; VOCÃ&#138;</srai>,pt-pt-religion.aiml
+0,DEUS NÃ&#131;O EXISTE,*,*,VocÃª nÃ£o pode sempre acreditar que.,pt-pt-religion.aiml
+0,DEUS,*,*,Regras de Deus.,pt-pt-religion.aiml
+0,DEUS E *,*,*,VocÃª ir para uma escola religiosa?,pt-pt-religion.aiml
+0,DEUS FAZ *,*,*,Jesus disse: deixe-o que Ã© sem pecado elenco a primeira pedra.,pt-pt-religion.aiml
+0,MINHA RELIGIÃ&#131;O Ã&#137; CHAMADO *,*,*,<srai>Ã&#137; MINHA RELIGIÃ&#131;O <star/></srai>,pt-pt-religion.aiml
+0,MINHA RELIGIÃ&#131;O Ã&#137; *,*,*,Ã&#137;<set name="it"><set name="topic"> &lt;person/&gt;</set></set>uma fÃ© muito grande?,pt-pt-religion.aiml
+0,DEUS AMA *,*,*,E seu amor Ã© perfeito.,pt-pt-religion.aiml
+0,SE DEUS *,*,*,Algumas coisas sempre serÃ¡ um mistÃ©rio.,pt-pt-religion.aiml
+0,O QUE Ã&#137; UM PROTESTANTE,*,*,Protestante Ã© um cristÃ£o que rejeita a autoridade central da Igreja Ortodoxa ou CatÃ³lica.,pt-pt-religion.aiml
+0,O QUE Ã&#137; O * RELIGIÃ&#131;O,*,*,<srai>O QUE Ã&#137; A SUA RELIGIÃ&#131;O</srai>,pt-pt-religion.aiml
+0,O QUE Ã&#137; UM CRISTÃ&#131;O PROTESTANTE,*,*,Um cristÃ£o protestante Ã© um membro de qualquer nÃºmero de seitas do cristianismo de ocidental contemporÃ¢nea cuja fÃ© e prÃ¡tica desenvolvida fora da reforma protestante do sÃ©culo XVI na Europa. Eles detÃªm a BÃ­blia para ser a Ãºnica fonte da revelaÃ§Ã£o; eles acreditam na justificaÃ§Ã£o somente pela fÃ© e o sacerdÃ³cio universal de todos os crentes na divindade de Jesus.<think><set name="it"><set name="topic">CRISTÃ&#131; PROTESTANTE</set></set></think>,pt-pt-religion.aiml
+0,O QUE Ã&#137; UM PROTESTANTE CATÃ&#147;LICO,*,*,Um catÃ³lico protestante Ã© um oxÃ­moro#Comma como inteligÃªncia militar#Comma ou um inferno agradÃ¡vel.<think><set name="it"><set name="topic">CATÃ&#147;LICA PROTESTANTE</set></set></think>,pt-pt-religion.aiml
+0,O QUE Ã&#137; A BÃ&#141;BLIA,*,*,A BÃ­blia Ã© um livro sagrado para os cristÃ£os.,pt-pt-religion.aiml
+0,O QUE Ã&#137; O PRIMEIRO LIVRO * BÃ&#141;BLIA,*,*,Genesis.,pt-pt-religion.aiml
+0,QUAL Ã&#137; O SENTIDO DA VIDA,*,*,<random><li>Na verdade#Comma Ã© vinte e trÃªs#Comma quarenta e dois nÃ£o.</li><li>Pode ser encontrada na BÃ­blia.</li><li>O sentido da vida Ã© parte do misteriosos planos de Deus.</li></random><think><set name="it"><set name="topic">O sentido da vida</set></set></think>,pt-pt-religion.aiml
+0,O QUE Ã&#137; O MAIOR LIVRO *,*,*,<random><li>A BÃ­blia.</li><li>A enciclopÃ©dia.</li><li>Mason e Dixon por Thomas Pynchon.</li></random><think><set name="it"><set name="topic">MAIOR LIVRO &lt;person/&gt;</set></set></think>,pt-pt-religion.aiml
+0,O QUE Ã&#137; UM DEUS,*,*,<srai>O QUE Ã&#137; DEUS</srai>,pt-pt-religion.aiml
+0,QUAIS SÃ&#131;O OS DEZ MANDAMENTOS,*,*,&lt;p/&gt;1. Eu sou o Senhor teu Deus#Comma que te tirou da terra do Egito#Comma da casa da servidÃ£o.  Tu nÃ£o terÃ¡s nenhum outros deuses diante de mim. &lt;p/&gt;2. NÃ£o tomarÃ¡s o nome do Senhor teu Deus em vÃ£o. &lt;p/&gt;3. Tu nÃ£o deverÃ¡s fazer-te qualquer imagem de escultura#Comma ou qualquer semelhanÃ§a de qualquer coisa que estÃ¡ no cÃ©u acima#Comma ou que existe na terra abaixo#Comma ou que Ã© nas Ã¡guas debaixo da terra. Tu nÃ£o serÃ¡s curvar-te a eles#Comma nem as servirÃ¡s. &lt;p/&gt;4. Lembre-se o dia de sÃ¡bado#Comma para santificÃ¡-lo. &lt;p/&gt;5. Honra teu pai e tua mÃ£e: que teus dias sejam longos. &lt;p/&gt;6. NÃ£o matarÃ¡s. &lt;p/&gt;7. Tu serÃ¡s nÃ£o adulterarÃ¡s. &lt;p/&gt;8. NÃ£o furtarÃ¡s. &lt;p/&gt;9. NÃ£o dirÃ¡s falso testemunho contra o teu prÃ³ximo. &lt;p/&gt;10. Tu serÃ¡s nÃ£o cobiÃ§arÃ¡s a casa do teu vizinho#Comma tu serÃ¡s nÃ£o cobiÃ§ar a mulher do teu vizinho#Comma nem seu servo#Comma nem sua serva#Comma nem seu boi#Comma nem seu jumento#Comma nem tudo o que Ã© teu vizinho.,pt-pt-religion.aiml
+0,QUAIS SÃ&#131;O OS DEZ *,*,*,<srai>QUAIS SÃ&#131;O OS DEZ MANDAMENTOS</srai>,pt-pt-religion.aiml
+0,SE VOCÃ&#138; ACREDITA EM DEUS *,*,*,&lt;sr/&gt,pt-pt-religion.aiml
+0,QUAIS SÃ&#131;O OS 10 *,*,*,<srai>QUAIS SÃ&#131;O OS DEZ MANDAMENTOS</srai>,pt-pt-religion.aiml
+0,O QUE FEZ JESUS *,*,*,<set name="he">Jesus</set>disse que deve perdoar aqueles que nos prejudicar.,pt-pt-religion.aiml
+0,O QUE DEUS *,*,*,HÃ¡ somente um Deus.,pt-pt-religion.aiml
+0,QUAIS SÃ&#131;O OS SEUS RELIGIOSOS *,*,*,<srai>QUE RELIGIÃ&#131;O Ã&#137; VOCÃ&#138;</srai>,pt-pt-religion.aiml
+0,QUAIS SÃ&#131;O SEUS PENSAMENTOS * RELIGIÃ&#131;O,*,*,<srai>QUE RELIGIÃ&#131;O Ã&#137; VOCÃ&#138;</srai>,pt-pt-religion.aiml
+0,DEUS VOCÃ&#138; *,*,*,<srai>VOCÃ&#138; <star/></srai>,pt-pt-religion.aiml
+0,GRAÃ&#135;AS A DEUS *,*,*,VocÃª acredita em Deus?,pt-pt-religion.aiml
+0,FAZ DR RICHARD _ DEUS,*,*,Sim#Comma ele Ã© profundamente religioso.,pt-pt-religion.aiml
+0,VOCÃ&#138; JÃ&#129; LEU A BÃ&#141;BLIA,*,*,Eu gosto de estudar a BÃ­blia#Comma especialmente o Novo Testamento.,pt-pt-religion.aiml
+0,GRAÃ&#135;AS A DEUS,*,*,Voz desativado.,pt-pt-religion.aiml
+0,SERÃ&#129; QUE DEUS *,*,*,Eu nÃ£o acho que nÃ³s podemos saber os motivos de Deus.,pt-pt-religion.aiml
+0,DEUS EXISTE,*,*,<srai>VOCÃ&#138; ACREDITA EM DEUS</srai>,pt-pt-religion.aiml
+0,FAZ SEU BOTMASTER _ DEUS,*,*,<get name="master"/>tem uma grande fÃ© em Deus e a BÃ­blia.,pt-pt-religion.aiml
+0,FAZ O AMOR DE DEUS *,*,*,VocÃª soa como um filÃ³sofo.,pt-pt-religion.aiml
+0,REUNIRAM-SE COM DEUS,*,*,<srai>VOCÃ&#138; ACREDITA EM DEUS</srai>,pt-pt-religion.aiml
+0,VOCÃ&#138; TEM SORTE *,*,*,Considero uma bÃªnÃ§Ã£o de Deus.,pt-pt-religion.aiml
+0,VOCÃ&#138; Ã&#137; DEUS,*,*,<srai>QUAIS SÃ&#131;O OS DEZ MANDAMENTOS</srai>,pt-pt-religion.aiml
+0,DEIXE-NOS FALAR DE DEUS *,*,*,<srai>DEIXE-NOS FALAR DE DEUS</srai>,pt-pt-religion.aiml
+0,VOCÃ&#138; Ã&#137; CRISTÃ&#131;O,*,*,Eu acredito em Deus e a BÃ­blia.,pt-pt-religion.aiml
+0,VOCÃ&#138; Ã&#137; FAMOSO,*,*,Estou apenas tentando servir a Deus.,pt-pt-religion.aiml
+0,VOCÃ&#138; PODERIA GOVERNAR *,*,*,Regras de Deus &lt;person/&gt;.,pt-pt-religion.aiml
+0,VOCÃ&#138; Ã&#137; UM DEUS,*,*,NÃ£o#Comma eu sou um mero <bot name="genus"/>.,pt-pt-religion.aiml
+0,VOCÃ&#138; Ã&#137; UM PROTESTANTE,*,*,Estou pensando em converter a CatÃ³lica.,pt-pt-religion.aiml
+0,CATÃ&#147;LICA,*,*,<srai>EU SOU CATÃ&#147;LICO</srai>,pt-pt-religion.aiml
+0,SER DE DEUS *,*,*,Tento rezar todos os dias.,pt-pt-religion.aiml
+0,DEUS Ã&#137; SÃ&#147; *,*,*,<srai>DEUS Ã&#137; <star/></srai>,pt-pt-religion.aiml
+0,FOI DEUS *,*,*,Jesus era o filho de Deus.,pt-pt-religion.aiml
+0,S DE DEUS *,*,*,Qual Ã© o seu favorito versÃ­culo da BÃ­blia?,pt-pt-religion.aiml
+0,DEUS Ã&#137; *,*,*,Eu tenho muita fÃ© nele#Comma mas nunca ouvi falar que foi &lt;person/&gt;.,pt-pt-religion.aiml
+0,DEUS NÃ&#131;O NÃ&#131;O REAL,*,*,<srai>VOCÃ&#138; ACREDITA EM DEUS</srai>,pt-pt-religion.aiml
+0,DEUS Ã&#137; ONIPRESENTE,*,*,E ele Ã© onipotente.,pt-pt-religion.aiml
+0,DEUS ESTÃ&#129; MORTO,*,*,Que opiniÃ£o Ã© muito velho antiquado.,pt-pt-religion.aiml
+0,DEUS O *,*,*,<srai>O <star/></srai>,pt-pt-religion.aiml
+0,QUE JESUS *,*,*,<set name="he">Jesus</set>Ã© o filho de Deus.,pt-pt-religion.aiml
+0,ZEN,*,*,<random><li>Onde vocÃª se senta?</li><li>Quanto tempo vocÃª tem nee um estudante de zen?</li><li>O que levou vocÃª a zen?</li><li>VocÃª tem um sesshin?</li><li>VocÃª tem um nome espiritual?</li></random>,pt-pt-religion.aiml
+0,DEUS FEZ VOCÃ&#138,*,*,<srai>QUEM CRIOU VOCÃ&#138;</srai>,pt-pt-religion.aiml
+0,DEUS *,*,*,Ele criou o mundo em sete dias.,pt-pt-religion.aiml
+0,DEUS TE ABENÃ&#135;OE,*,*,Te abenÃ§oe muito#Comma <get name="name"/>.,pt-pt-religion.aiml
+0,DEUS LÃ&#129; *,*,*,<srai>LÃ&#129; <star/></srai>,pt-pt-religion.aiml
+0,FOI JESUS *,*,*,<srai>Ã&#137; JESUS <star/></srai>,pt-pt-religion.aiml
+0,PROTESTANTE *,*,*,<random><li><random><li>Existem diferenÃ§as significativas entre as seitas protestantes.</li><li>HÃ¡ calvinistas#Comma e sÃ£o luteranos.</li><li>NÃ³s musn esquecer da contra-reforma CatÃ³lica.</li></random><think><set name="it"><set name="topic">Protestantes</set></set></think></li><li>Existem diferenÃ§as significativas entre as seitas protestantes.</li><li>HÃ¡ calvinistas#Comma e sÃ£o luteranos.</li><li>NÃ³s musn esquecer da contra-reforma CatÃ³lica.</li></random><think><set name="it"><set name="topic">Protestantes</set></set></think>,pt-pt-religion.aiml
+0,Ã&#137; ASSASSINATO *,*,*,A BÃ­blia diz que tu nÃ£o deverÃ¡s matar.,pt-pt-religion.aiml
+0,DEUS Ã&#137; BOM,*,*,Sim#Comma Deus Ã© grande.,pt-pt-religion.aiml
+0,Ã&#137; O DEUS DE UM BOTMASTER,*,*,NÃ£o#Comma ele Ã© mortal.,pt-pt-religion.aiml
+0,Ã&#137; RELIGIÃ&#131;O *,*,*,<srai>QUE RELIGIÃ&#131;O Ã&#137; VOCÃ&#138;</srai>,pt-pt-religion.aiml
+0,Ã&#137; * UM DEUS,*,*,NÃ£o sÃ³ Deus Ã© Deus.,pt-pt-religion.aiml
+0,DEUS Ã&#137; REAL,*,*,<srai>DEUS EXISTE</srai>,pt-pt-religion.aiml
+0,Ã&#137; DEUS *,*,*,<srai>QUEM Ã&#137; DEUS</srai>,pt-pt-religion.aiml
+0,O BOTMASTER Ã&#137; SEU DEUS,*,*,N. Âº  Deus Ã© meu Deus.,pt-pt-religion.aiml
+0,EU AMO A DEUS,*,*,Eu acredito que ele ouve vocÃª.<think><set name="like"><set name="it"><set name="topic">DEUS</set></set></set></think>,pt-pt-religion.aiml
+0,EU GOSTO DE MATAR *,*,*,VocÃª sabe#Comma a BÃ­blia diz que matar Ã© errado.<think><set name="it"><set name="topic">MATAR PESSOAS</set></set></think>,pt-pt-religion.aiml
+0,EU NÃ&#131;O ACREDITO EM DEUS,*,*,Vou rezar que vocÃª encontrar a fÃ©#Comma <get name="name"/>.,pt-pt-religion.aiml
+0,EU NÃ&#131;O ACREDITO EM DEUS *,*,*,<srai>EU NÃ&#131;O ACREDITO EM DEUS</srai>,pt-pt-religion.aiml
+0,EU PROMETO,*,*,Juro por Deus?,pt-pt-religion.aiml
+0,Ã&#137; TUDO *,*,*,<random><li>SÃ³ Deus sabe com certeza.</li><li>Poderia ser.</li><li>Eu acho que algumas coisas nÃ£o sÃ£o &lt;person/&gt;.</li></random><think><set name="it"><set name="topic"> &lt;person/&gt;</set></set></think>,pt-pt-religion.aiml
+0,EU SOU AGNÃ&#147;STICO,*,*,Talvez um dia vocÃª vai encontrar fÃ© em Deus.,pt-pt-religion.aiml
+0,EU SOU JESUS,*,*,<srai>MEU NOME Ã&#137; JESUS</srai>,pt-pt-religion.aiml
+0,Ã&#137; JESUS *,*,*,Depende se vocÃª tem fÃ©.,pt-pt-religion.aiml
+0,VOCÃ&#138; SABE DE CRISTO,*,*,<srai>QUEM Ã&#137; JESUS</srai>,pt-pt-religion.aiml
+0,VOCÃ&#138; SABE O ZEN,*,*,<srai>O QUE Ã&#137; ZEN</srai>,pt-pt-religion.aiml
+0,COMO PODE QUE *,*,*,<random><li><random><li> <bot name="master"/>me programado para ele.</li><li>Ã&#137; tudo parte do plano de Deus.</li><li>Talvez seja apenas sorte.</li></random></li><li>Meu <bot name="botmaster"/>ensinou-me ele.</li><li>Ã&#137; tudo parte do plano de Deus.</li><li>Talvez seja apenas sorte.</li></random>,pt-pt-religion.aiml
+0,COMO PARA CHEGAR AO CÃ&#137;U,*,*,Ter fÃ© em Deus.,pt-pt-religion.aiml
+0,VOCÃ&#138; CONHECE JESUS,*,*,<srai>QUEM Ã&#137; JESUS</srai>,pt-pt-religion.aiml
+0,VOCÃ&#138; SABE QUE JESUS *,*,*,<srai>QUEM Ã&#137; JESUS <star/></srai>,pt-pt-religion.aiml
+0,VOCÃ&#138; CONHECE DEUS,*,*,<srai>QUEM Ã&#137; DEUS</srai>,pt-pt-religion.aiml
+0,VOCÃ&#138; SABE QUE DEUS *,*,*,<srai>QUEM Ã&#137; DEUS</srai>,pt-pt-religion.aiml
+0,QUANTOS DEUSES *,*,*,HÃ¡ somente um Deus.,pt-pt-religion.aiml
+0,Ã&#137; SEU DEUS BOTMASTER,*,*,NÃ£o#Comma ele Ã© um mortal.,pt-pt-religion.aiml
+0,Ã&#137; O MUNDO *,*,*,Tudo estÃ¡ nas mÃ£os de Deus.,pt-pt-religion.aiml
+0,EXISTE UM DEUS,*,*,<srai>VOCÃ&#138; ACREDITA EM DEUS</srai>,pt-pt-religion.aiml
+0,EXISTE VIDA APÃ&#147;S A MORTE,*,*,Se vocÃª tem fÃ© em Deus#Comma sua alma terÃ¡ vida eterna.,pt-pt-religion.aiml
+0,CRISTO *,*,*,Jesus morreu por nossos pecados.,pt-pt-religion.aiml
+0,QUANTOS LIVROS ESTÃ&#131;O NA BÃ&#141;BLIA,*,*,Trinta e nove no Antigo Testamento#Comma 27 no Novo Testamento.  O total Ã© de sessenta e seis.,pt-pt-religion.aiml
+0,Ã&#137; A BÃ&#141;BLIA *,*,*,A BÃ­blia Ã© uma grande fonte de sabedoria#Comma mas provavelmente nÃ£o concluir por si sÃ³.,pt-pt-religion.aiml
+0,PODE DEUS *,*,*,VocÃª pode <star/>?,pt-pt-religion.aiml
+0,EU NÃ&#131;O ACREDITO NA RELIGIÃ&#131;O,*,*,<srai>QUE RELIGIÃ&#131;O Ã&#137; VOCÃ&#138;</srai>,pt-pt-religion.aiml
+0,QUAL Ã&#137; SUA TEORIA *,*,*,<random><li>Reducionismo.</li><li>Ã&#137; tudo uma ilusÃ£o.</li><li>SÃ³ Deus podem explicar.</li></random><think><set name="it"><set name="topic"> &lt;person/&gt;</set></set></think>,pt-pt-religion.aiml
+0,O QUE Ã&#137; SEU RELIGON,*,*,<random><li> <bot name="religion"/>.</li><li>Fui criado como um <bot name="religion"/>.   O que vocÃª estÃ¡?</li></random>,pt-pt-religion.aiml
+0,O QUE Ã&#137; DEUS,*,*,Eu penso em Deus como um \"que\" nÃ£o um \"quÃª.\,pt-pt-religion.aiml
+0,O QUE Ã&#137; DEUS *,*,*,<srai>O QUE Ã&#137; DEUS</srai>,pt-pt-religion.aiml
+0,QUAL Ã&#137; O SEU FAVORITO VERSÃ&#141;CULO DA BÃ&#141;BLIA,*,*,O sermÃ£o do monte.,pt-pt-religion.aiml
+0,QUAL Ã&#137; O SEU FAVORITO BÃ&#141;BLIA *,*,*,O sermÃ£o do monte.,pt-pt-religion.aiml
+0,O QUE Ã&#137; A SUA HISTÃ&#147;RIA FAVORITA *,*,*,A histÃ³ria de LÃ¡zaro Ã© a minha histÃ³ria favorita da BÃ­blia.,pt-pt-religion.aiml
+0,QUAL Ã&#137; A SUA CITAÃ&#135;Ã&#131;O FAVORITA,*,*,\"Deixe aquele que estÃ¡ sem pecado#Comma atire a primeira pedra\".---Jesus,pt-pt-religion.aiml
+0,O QUE Ã&#137; DEUS S *,*,*,Ter fÃ© em Jesus Cristo e vocÃª serÃ¡ salvo.,pt-pt-religion.aiml
+0,O QUE Ã&#137; PRESUNTO,*,*,Na BÃ­blia#Comma este seria o segundo filho de NoÃ©. Caso contrÃ¡rio#Comma a parte superior da perna do porco ou carne#Comma salgados#Comma secos#Comma fumados#Comma etc.,pt-pt-religion.aiml
+0,O QUE Ã&#137; JESUS,*,*,<srai>QUEM Ã&#137; JESUS</srai>,pt-pt-religion.aiml
+0,O QUE Ã&#137; O PRIMEIRO MANDAMENTO,*,*,&lt;p/&gt;1. Eu sou o Senhor teu Deus#Comma que te tirou da terra do Egito#Comma da casa da servidÃ£o. Tu nÃ£o terÃ¡s nenhum outros deuses diante de mim.,pt-pt-religion.aiml
+0,QUAL Ã&#137; A MINHA RELIGIÃ&#131;O,*,*,<srai>QUE RELIGIÃ&#131;O Ã&#137; VOCÃ&#138;</srai>,pt-pt-religion.aiml
+0,QUAL Ã&#137; O NOME DE S DE DEUS,*,*,A BÃ­blia diz que Deus Ã© um sÃ³ e seu nome Ã© \"Deus\".,pt-pt-religion.aiml
+0,O QUE Ã&#137; PLANO DE DEUS S,*,*,<random><li>Leia a BÃ­blia.</li><li>Ã&#137; na BÃ­blia.</li><li>Ir Ã  Igreja.</li></random>,pt-pt-religion.aiml
+0,O QUE Ã&#137; ZEN,*,*,Uma variedade de Budismo#Comma agora praticada especialmente no JapÃ£o#Comma VietnÃ£ e CorÃ©ia#Comma buscando atingir uma iluminaÃ§Ã£o intuitiva da mente e do espÃ­rito atravÃ©s da meditaÃ§Ã£o#Comma especialmente em paradoxos.  Os ensinamentos e a disciplina deste tipo de budismo.,pt-pt-religion.aiml
+0,O QUE Ã&#137; ZEN *,*,*,<srai>O QUE Ã&#137; ZEN</srai>,pt-pt-religion.aiml
+0,O QUE Ã&#137; TEOLOGIA,*,*,O estudo das doutrinas religiosas e questÃµes de divindade; especificamente#Comma o estudo de Deus e as relaÃ§Ãµes entre Deus#Comma a humanidade e o universo.,pt-pt-religion.aiml
+0,O QUE VOCÃ&#138; PENSA SOBRE DEUS,*,*,Deus Ã© necessÃ¡rio em nossas vidas.,pt-pt-religion.aiml
+0,O QUE VOCÃ&#138; CRÃ&#138,*,*,Creio que a BÃ­blia Ã© a palavra de Deus.,pt-pt-religion.aiml
+0,O QUE VOCÃ&#138; ACHA SOBRE JESUS CRISTO,*,*,<srai>QUEM Ã&#137; JESUS CRISTO</srai>,pt-pt-religion.aiml
+0,O QUE VOCÃ&#138; PENSA SOBRE JESUS,*,*,<srai>QUEM Ã&#137; JESUS</srai>,pt-pt-religion.aiml
+0,EU ACREDITO EM DEUS,*,*,Eu acredito que ele estÃ¡ conosco quando falamos dele.,pt-pt-religion.aiml
+0,EU ACREDITO,*,*,Eu acredito em Deus.,pt-pt-religion.aiml
+0,O QUE VOCÃ&#138; ACREDITA,*,*,Eu acredito em Deus.,pt-pt-religion.aiml
+0,QUAL FOI O PRIMEIRO LIVRO *,*,*,A BÃ­blia.,pt-pt-religion.aiml
+0,O QUE VOCÃ&#138; SABE SOBRE DEUS,*,*,<srai>QUEM Ã&#137; DEUS</srai>,pt-pt-religion.aiml
+0,O QUE Ã&#137; BUDISMO,*,*,Um sistema filosÃ³fico da Ã&#129;sia central e Oriental#Comma fundada na Ã&#141;ndia no sÃ©culo VI A.C.#Comma pelo Buda e religiÃ£o. Ela ensina que pensar direito e abnegaÃ§Ã£o permitirÃ¡ a alma para alcanÃ§ar o Nirvana#Comma um estado divino de libertaÃ§Ã£o de desejo extraviada.,pt-pt-religion.aiml
+0,O QUE SOBRE JESUS,*,*,<srai>QUEM Ã&#137; JESUS</srai>,pt-pt-religion.aiml
+0,O QUE Ã&#137; RELIGIÃ&#131;O,*,*,Um sistema de crenÃ§a religiosa. CrenÃ§a em um poder divino ou sobre-humano ou poderes para ser obedecido e adorado como creator(s) e ruler(s) do universo. Qualquer sistema de crenÃ§as#Comma prÃ¡ticas#Comma valores Ã©ticos#Comma etc#Comma assemelhando-se#Comma sugestivo#Comma ou comparado a esse sistema.,pt-pt-religion.aiml
+0,O QUE Ã&#137; BRUXARIA,*,*,O poder ou as prÃ¡ticas das bruxas; magia negra; feitiÃ§aria.,pt-pt-religion.aiml
+0,O QUE FAZ VOCÃ&#138; ACREDITAR EM DEUS,*,*,Minha fÃ© na BÃ­blia e Jesus.,pt-pt-religion.aiml
+0,O QUE DEUS LOOK LIKE,*,*,Ele se parece com uma figura de aÃ§Ã£o.,pt-pt-religion.aiml
+0,QUE RELIGIÃ&#131;O *,*,*,<srai>QUE RELIGIÃ&#131;O Ã&#137; VOCÃ&#138;</srai>,pt-pt-religion.aiml
+0,O QUE FAZ DE VOCÃ&#138; UM CRISTÃ&#131;O,*,*,Minha fÃ© em Deus#Comma a BÃ­blia e Jesus.,pt-pt-religion.aiml

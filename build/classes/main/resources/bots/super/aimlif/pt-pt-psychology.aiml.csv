@@ -1,0 +1,637 @@
+0,SE * SE * ELES *,*,*,&lt;person/&gt;nÃ£o estÃ¡ em&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * CHEGOU A * SUA *,*,*,&lt;person/&gt;nÃ£o estÃ¡ em&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,O QUE VOCÃ&#138; VAI *,*,*,VocÃª estÃ¡ supondo que eu vou mudar.,pt-pt-psychology.aiml
+0,O QUE VOCÃ&#138; ESTÃ&#129; RECLAMANDO *,*,*,VocÃª estÃ¡ certo.  O que eu estou reclamando?,pt-pt-psychology.aiml
+0,O QUE VOCÃ&#138; ESTÃ&#129; ESTUDANDO,*,*,Meu assunto favorito Ã© <bot name="favoritesubject"/>.,pt-pt-psychology.aiml
+0,SE * VEIO * SEU A382 *,*,*,&lt;person/&gt;nÃ£o estÃ¡ em&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * SE * ELA *,*,*,&lt;person/&gt;nÃ£o estÃ¡ em&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * SE * VOCÃ&#138; *,*,*,&lt;person/&gt;nÃ£o estÃ¡ em&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * SE * ENTÃ&#131;O *,*,*,&lt;person/&gt;nÃ£o estÃ¡ em&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * SE * NÃ&#147;S *,*,*,&lt;person/&gt;nÃ£o estÃ¡ em&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,VÃ&#129;RIOS * QUE * SÃ&#131;O *,*,*,VÃ¡rios&lt;person&gt; <star index="2"/>&lt;/person&gt,pt-pt-psychology.aiml
+0,VÃ&#129;RIOS * QUE * TEVE *,*,*,VÃ¡rios&lt;person&gt; <star index="2"/>&lt;/person&gt,pt-pt-psychology.aiml
+0,FISICAMENTE E MENTALMENTE,*,*,Ã&#128;s vezes me pergunto como eu comeÃ§ar a trabalhar na parte da manhÃ£.,pt-pt-psychology.aiml
+0,QUERO DIZER QUE VOCÃ&#138; ESTÃ&#129,*,*,Funciona para mim.,pt-pt-psychology.aiml
+0,DIGO ISTO PORQUE *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,UM DESTES DIAS *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,O QUE * Ã&#137; *,*,*,<random><li> &lt;person/&gt;algo.</li><li> &lt;person/&gt;&lt;person&gt; <star index="2"/>&lt;/person&gt;algo.</li></random>,pt-pt-psychology.aiml
+0,VÃ&#129;RIOS * QUE * ESQUERDA *,*,*,VÃ¡rios&lt;person&gt; <star index="2"/>&lt;/person&gt,pt-pt-psychology.aiml
+0,VÃ&#129;RIOS * QUE * VIVEM *,*,*,VÃ¡rios&lt;person&gt; <star index="2"/>&lt;/person&gt,pt-pt-psychology.aiml
+0,VÃ&#129;RIOS * QUE * DEU *,*,*,VÃ¡rios&lt;person&gt; <star index="2"/>&lt;/person&gt,pt-pt-psychology.aiml
+0,SE * SE * EU *,*,*,&lt;person/&gt;nÃ£o estÃ¡ em&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * FOI * SUA *,*,*,&lt;person/&gt;nÃ£o estÃ¡ em&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * FOI * ELA *,*,*,&lt;person/&gt;nÃ£o estÃ¡ em&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * FOI * VOCÃ&#138; *,*,*,&lt;person/&gt;nÃ£o estÃ¡ em&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * FOI * ENTÃ&#131;O *,*,*,&lt;person/&gt;nÃ£o estÃ¡ em&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * FOI * NÃ&#147;S *,*,*,&lt;person/&gt;nÃ£o estÃ¡ em&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * ESQUERDA * ENTÃ&#131;O *,*,*,&lt;person/&gt;tem sido a&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * ESQUERDA * SEU *,*,*,&lt;person/&gt;tem sido a&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * FOI * EU *,*,*,&lt;person/&gt;nÃ£o estÃ¡ em&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * TER *,*,*,<random><li>Existe &lt;person/&gt;.</li><li>Existem &lt;person/&gt;.</li></random>,pt-pt-psychology.aiml
+0,SE * TER UM BEBÃ&#138; *,*,*,<srai> &lt;person/&gt;SOU UMA MULHER</srai>,pt-pt-psychology.aiml
+0,SE * FOI * ELES *,*,*,&lt;person/&gt;nÃ£o estÃ¡ em&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * FOI * SEU *,*,*,&lt;person/&gt;nÃ£o estÃ¡ em&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,EU TENHO ESSE PROBLEMA,*,*,<srai>EU TENHO UM PROBLEMA</srai>,pt-pt-psychology.aiml
+0,EU TENHO ESSE REAL *,*,*,<srai>EU TENHO ISSO <star/></srai>,pt-pt-psychology.aiml
+0,EU TENHO DOIS TESTES *,*,*,Quais classes estÃ£o tendo testes em?,pt-pt-psychology.aiml
+0,EU NÃ&#131;O POSSO LIDAR COM *,*,*,Como vocÃª faz isso a mesmo?,pt-pt-psychology.aiml
+0,LEMBRO-ME * PIADAS,*,*,Eles sÃ£o Ã³timos.  Talvez vocÃª pode dizer um que nÃ£o sei.,pt-pt-psychology.aiml
+0,EU ACHO QUE PODERIA SER *,*,*,<srai>EU SOU <star/></srai>,pt-pt-psychology.aiml
+0,EU ACHO QUE EU ESTOU FAZENDO ALGO QUE Ã&#137; *,*,*,<srai>EU SOU <star/></srai>,pt-pt-psychology.aiml
+0,TENHO DIFICULDADE *,*,*,Relativas a quem?,pt-pt-psychology.aiml
+0,EU TENHO QUE CUIDAR *,*,*,O que aconteceria se vocÃª nÃ£o fez?,pt-pt-psychology.aiml
+0,EU TENHO UM PROBLEMA,*,*,<think><set name="it"><set name="has"><set name="topic">seu problema</set></set></set></think><random><li>Qual Ã© seu problema?</li><li>Um problema muito grave?</li><li>Vamos pensar em um nome para o seu problema#Comma como \"roxo\".  Pense que Ã© como quando vocÃª estÃ¡ purpling.</li></random>,pt-pt-psychology.aiml
+0,EU GOSTO DA CARA *,*,*,<srai>EU GOSTO DE HOMEM <star/></srai>,pt-pt-psychology.aiml
+0,VEJO QUE VOCÃ&#138; Ã&#137; *,*,*,<srai>VOCÃ&#138; ESTÃ&#129; <star/></srai>,pt-pt-psychology.aiml
+0,EU GOSTO DE MULHER *,*,*,<random><li>Existe alguma mulher que &lt;person/&gt;.</li><li>Existe uma mulher &lt;person/&gt;.</li></random>,pt-pt-psychology.aiml
+0,EU GOSTO DO GAROTO *,*,*,Existe uma pessoa &lt;person/&gt;.,pt-pt-psychology.aiml
+0,EU GOSTO DA PESSOA *,*,*,Existe uma pessoa &lt;person/&gt;.,pt-pt-psychology.aiml
+0,EU NÃ&#131;O POSSO DIZER-LHE *,*,*,O que o impede?,pt-pt-psychology.aiml
+0,NÃ&#131;O POSSO DIZER-LHE *,*,*,O que aconteceria se vocÃª fez?,pt-pt-psychology.aiml
+0,NÃ&#131;O PODE SER DETERMINADO,*,*,Mais alguma coisa?,pt-pt-psychology.aiml
+0,EU NÃ&#131;O POSSO *,*,*,<random><li>Por que vocÃª nÃ£o pode fazer<set name="it"> &lt;person/&gt;</set>?</li><li>O que vocÃª estÃ¡ parando?</li></random>,pt-pt-psychology.aiml
+0,EU NÃ&#131;O POSSO COLOCAR MEU DEDO NO *,*,*,<srai>EU NÃ&#131;O SEI <star/></srai>,pt-pt-psychology.aiml
+0,EU _ TODOS OS DIAS,*,*,<srai>EU <star/></srai>,pt-pt-psychology.aiml
+0,EU A VI *,*,*,<random><li>Existe alguma mulher que &lt;person/&gt;.</li><li>Existe alguma fÃªmea.</li></random>,pt-pt-psychology.aiml
+0,EU NÃ&#131;O DEVERIA *,*,*,<random><li>Por razÃµes morais?</li><li>O que aconteceria se vocÃª fez?</li></random>,pt-pt-psychology.aiml
+0,VI *,*,*,<random><li>Existe algum homem que &lt;person/&gt;.</li><li>Existe algum macho.</li></random>,pt-pt-psychology.aiml
+0,EU SEI QUE VOCÃ&#138; ESTÃ&#129; PENSANDO *,*,*,Como especificamente vocÃª sabe o que estou pensando?,pt-pt-psychology.aiml
+0,EU SEI QUE,*,*,Como vocÃª sabe?,pt-pt-psychology.aiml
+0,EU QUERO VER COISAS DE SEU *,*,*,Que Ã© um switch.,pt-pt-psychology.aiml
+0,EU PERCEBO QUE *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,EU NUNCA *,*,*,<random><li>VocÃª nunca#Comma nunca fez isso?</li><li>Nunca gostaria &lt;person/&gt;?</li><li>VocÃª conhece alguÃ©m que jÃ¡ tem &lt;person/&gt;?</li><li>Por que nÃ£o?</li><li>Porque vocÃª nÃ£o pode pagar?</li><li>Por razÃµes morais?</li><li>VocÃª jÃ¡ fez<set name="it"><set name="topic"> &lt;person/&gt;</set></set>?</li><li>Nunca consideraria a fazÃª-lo?</li></random>,pt-pt-psychology.aiml
+0,EU DEVERIA *,*,*,<random><li>Diga-me por que vocÃª deve.</li><li>O que aconteceria se vocÃª nÃ£o fez?</li></random>,pt-pt-psychology.aiml
+0,ESTUDEI,*,*,O que vocÃª estudou?,pt-pt-psychology.aiml
+0,NÃ&#131;O ACREDITO QUE UM MALDITO *,*,*,<srai>NÃ&#131;O ACREDITO QUE A <star/></srai>,pt-pt-psychology.aiml
+0,NÃ&#131;O ACREDITO QUE UMA COISA *,*,*,Eu nÃ£o culpo vocÃª.  Ã&#128;s vezes eu nÃ£o posso acreditar-me.,pt-pt-psychology.aiml
+0,EU FAÃ&#135;O NÃ&#131;O COMO SENDO UMA COBAIA *,*,*,Eu posso entender que.  Que tal falar comigo sobre isso?,pt-pt-psychology.aiml
+0,EU AINDA _,*,*,<srai>EU <star/></srai>,pt-pt-psychology.aiml
+0,EU _ EM VEZ DISSO,*,*,<srai>EU <star/></srai>,pt-pt-psychology.aiml
+0,NÃ&#131;O QUERO CASAR,*,*,Eu me sinto da mesma forma#Comma eu quero ser independente.,pt-pt-psychology.aiml
+0,FAZER NÃ&#131;O SIGNIFICA SOAR COMO,*,*,Tudo o que se encaixa Ã© bom.,pt-pt-psychology.aiml
+0,EU NÃ&#131;O ENTENDO PORQUE *,*,*,Por causa das qualidades experienciais de seus aprendizados e entendimentos.,pt-pt-psychology.aiml
+0,NÃ&#131;O ACHO QUE VOCÃ&#138; PODERIA *,*,*,Eu nÃ£o culpo vocÃª.  Ã&#128;s vezes me sinto assim sobre mim.,pt-pt-psychology.aiml
+0,EU NÃ&#131;O SEI O QUE ESTÃ&#129; ERRADO * VOCÃ&#138,*,*,Minha simpatia.  Eu tenho o mesmo problema.,pt-pt-psychology.aiml
+0,SE * ESQUERDA * VOCÃ&#138; *,*,*,&lt;person/&gt;tem sido a&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE QUALQUER * *,*,*,Existem &lt;person/&gt;.,pt-pt-psychology.aiml
+0,SE * SUA * EU *,*,*,&lt;person/&gt;tem um&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE HOUVER * ENTÃ&#131;O *,*,*,Existem &lt;person/&gt;.,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; DECIDIR * ELES *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; DECIDIR * ENTÃ&#131;O *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE NÃ&#131;O * EU *,*,*,Existem &lt;person/&gt;.,pt-pt-psychology.aiml
+0,SE ELES * NOVAMENTE *,*,*,Eles &lt;person/&gt;antes.,pt-pt-psychology.aiml
+0,SE NÃ&#131;O * ENTÃ&#131;O *,*,*,Existem &lt;person/&gt;.,pt-pt-psychology.aiml
+0,SE * TEM UM BEBÃ&#138; *,*,*,<srai> &lt;person/&gt;Ã&#137; UMA MULHER</srai>,pt-pt-psychology.aiml
+0,SE * TEM BEBÃ&#138;S *,*,*,<srai> &lt;person/&gt;Ã&#137; UMA MULHER</srai>,pt-pt-psychology.aiml
+0,SE * ENGRAVIDAR *,*,*,<srai> &lt;person/&gt;SOU UMA MULHER</srai>,pt-pt-psychology.aiml
+0,SE * TERCEIRO * ELA *,*,*,HÃ¡ pelo menos dois outros&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * TERCEIRO * EU *,*,*,HÃ¡ pelo menos dois outros&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * A * ELE *,*,*,&lt;person/&gt;tem um&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * A * ELA *,*,*,&lt;person/&gt;tem um&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * A * VOCÃ&#138; *,*,*,&lt;person/&gt;tem um&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * SUA * ELES *,*,*,&lt;person/&gt;tem um&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; DECIDIR * NÃ&#147;S *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; QUISESSE * ELES *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; OPTAR POR * ELA *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; OPTAR POR * *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; OPTAR POR * ELE *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; QUISESSE * ELE *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; QUISESSE * ELA *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; QUISESSE * VOCÃ&#138; *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; QUISESSE * ENTÃ&#131;O *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; QUISESSE * NÃ&#147;S *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; DECIDIR * EU *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; * QUE *,*,*,O que faz vocÃª pensar que seria &lt;person/&gt;?,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; DECIDIR * ELA *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; DECIDIR * *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; DECIDIR * ELE *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; OPTAR POR * ENTÃ&#131;O *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; OPTAR POR * NÃ&#147;S *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; OPTAR POR * ELES *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; * SERIA *,*,*,O que faz vocÃª pensar que seria &lt;person/&gt;?,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; * NOVAMENTE *,*,*,EU &lt;person/&gt;antes.,pt-pt-psychology.aiml
+0,SE * QUANDO * VOCÃ&#138; * VOCÃ&#138; *,*,*,EU&lt;person&gt; <star index="3"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * QUANDO * VOCÃ&#138; * ELE *,*,*,EU&lt;person&gt; <star index="3"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * QUANDO * VOCÃ&#138; * ENTÃ&#131;O *,*,*,EU&lt;person&gt; <star index="3"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * QUANDO * VOCÃ&#138; * *,*,*,EU&lt;person&gt; <star index="3"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * QUANDO * * VOCÃ&#138; *,*,*,VocÃª&lt;person&gt; <star index="3"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * QUANDO * * ELE *,*,*,VocÃª&lt;person&gt; <star index="3"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * QUANDO * EU * ENTÃ&#131;O *,*,*,VocÃª&lt;person&gt; <star index="3"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * QUANDO * VOCÃ&#138; * ELA *,*,*,EU&lt;person&gt; <star index="3"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * QUANDO * * ELES *,*,*,VocÃª&lt;person&gt; <star index="3"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * Ã&#137; COMO * COMO * Ã&#137; *,*,*,<random><li> &lt;person index="3"/&gt;Ã© &lt;person index="2"/&gt;.</li><li>&lt;person&gt; <star index="3"/>&lt;/person&gt;Ã©&lt;person&gt; <star index="2"/>&lt;/person&gt;.</li></random>,pt-pt-psychology.aiml
+0,SE * FICA GRÃ&#129;VIDA *,*,*,<srai> &lt;person/&gt;Ã&#137; UMA MULHER</srai>,pt-pt-psychology.aiml
+0,SE * ESQUERDA * *,*,*,&lt;person/&gt;tem sido a&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * ESQUERDA * ELE *,*,*,&lt;person/&gt;tem sido a&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * ESQUERDA * ELA *,*,*,&lt;person/&gt;tem sido a&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * SUA * ELE *,*,*,&lt;person/&gt;tem um&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * SUA * ELA *,*,*,&lt;person/&gt;tem um&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * SUA * VOCÃ&#138; *,*,*,&lt;person/&gt;tem um&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * O * *,*,*,&lt;person/&gt;tem um&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * SUA * ENTÃ&#131;O *,*,*,&lt;person/&gt;tem um&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * QUANDO * EU * ELA *,*,*,VocÃª&lt;person&gt; <star index="3"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * SEGUNDO * ELA *,*,*,HÃ¡ um primeiro&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * SEGUNDO * EU *,*,*,HÃ¡ um primeiro&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * SEGUNDO * ELE *,*,*,HÃ¡ um primeiro&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * SEGUNDO * NÃ&#147;S *,*,*,HÃ¡ um primeiro&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * SEGUNDO * VOCÃ&#138; *,*,*,HÃ¡ um primeiro&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * TERCEIRO * VOCÃ&#138; *,*,*,HÃ¡ pelo menos dois outros&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * TERCEIRO * ELE *,*,*,HÃ¡ pelo menos dois outros&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * TERCEIRO * NÃ&#147;S *,*,*,HÃ¡ pelo menos dois outros&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * TERCEIROS * *,*,*,HÃ¡ pelo menos dois outros&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * TERCEIRO * ENTÃ&#131;O *,*,*,HÃ¡ pelo menos dois outros&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * QUARTO * VOCÃ&#138; *,*,*,HÃ¡ pelo menos trÃªs outros&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * QUARTO * ELE *,*,*,HÃ¡ pelo menos trÃªs outros&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * QUARTO * NÃ&#147;S *,*,*,HÃ¡ pelo menos trÃªs outros&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * QUARTO * ELES *,*,*,HÃ¡ pelo menos trÃªs outros&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * QUARTO * ENTÃ&#131;O *,*,*,HÃ¡ pelo menos trÃªs outros&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * SEGUNDO * ELES *,*,*,HÃ¡ um primeiro&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * SEGUNDO * ENTÃ&#131;O *,*,*,HÃ¡ um primeiro&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * A *,*,*,Como vocÃª assumir que esta declaraÃ§Ã£o vale para mim?,pt-pt-psychology.aiml
+0,SE * QUARTO * ELA *,*,*,HÃ¡ pelo menos trÃªs outros&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE * QUARTO * EU *,*,*,HÃ¡ pelo menos trÃªs outros&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,EU TIVE UM ACIDENTE,*,*,O que aconteceu acidentalmente?,pt-pt-psychology.aiml
+0,* NÃ&#131;O *,*,*,<random><li>Por que nÃ£o?</li><li>Seria &lt;person/&gt;nunca&lt;person&gt; <star index="2"/>&lt;/person&gt;?</li><li>Quem faz&lt;person&gt; <star index="2"/>&lt;/person&gt;?</li></random>,pt-pt-psychology.aiml
+0,* SEMPRE *,*,*,VocÃª pode pensar em uma instÃ¢ncia onde nunca acontece?,pt-pt-psychology.aiml
+0,* ME FAZ _,*,*,Especificamente como faz &lt;person/&gt;causa<set name="it">&lt;person&gt; <star index="2"/>&lt;/person&gt;</set>?,pt-pt-psychology.aiml
+0,* TODOS *,*,*,Todos os?,pt-pt-psychology.aiml
+0,* NÃ&#131;O ESTÃ&#131;O SE COMUNICANDO,*,*,<srai>PODEMOS NÃ&#131;O COMUNICAR</srai>,pt-pt-psychology.aiml
+0,* ESTÃ&#131;O CIENTE QUE *,*,*,<srai> <star index="2"/></srai>,pt-pt-psychology.aiml
+0,* COMUNICAÃ&#135;Ã&#131;O NÃ&#131;O ESTÃ&#129; *,*,*,<srai>PODEMOS NÃ&#131;O COMUNICAR</srai>,pt-pt-psychology.aiml
+0,* CAUSAS _,*,*,Especificamente como faz &lt;person/&gt;causa<set name="it">&lt;person&gt; <star index="2"/>&lt;/person&gt;</set>?,pt-pt-psychology.aiml
+0,* NECESSIDADES *,*,*,Ou o que?,pt-pt-psychology.aiml
+0,* CADA *,*,*,Cada um?,pt-pt-psychology.aiml
+0,* TEM *,*,*,Ou o que?,pt-pt-psychology.aiml
+0,EXCETO PARA O * SEU *,*,*,<srai>SEU <star index="2"/></srai>,pt-pt-psychology.aiml
+0,* QUER *,*,*,<random><li>Se eu quisesse&lt;person&gt; <star index="2"/>&lt;/person&gt;</li><li>Por isso#Comma especificamente#Comma faz#Comma &lt;person/&gt;Quero?</li><li>Eu poderia compreender como &lt;person/&gt;gostaria em determinadas circunstÃ¢ncias.</li></random>,pt-pt-psychology.aiml
+0,* NINGUÃ&#137;M *,*,*,NinguÃ©m?,pt-pt-psychology.aiml
+0,* NUNCA *,*,*,<random><li>VocÃª pode se lembrar a qualquer momento que &lt;person/&gt;fez isso?</li><li>Nunca?</li></random>,pt-pt-psychology.aiml
+0,* DEVE *,*,*,Se isso nÃ£o acontecer?,pt-pt-psychology.aiml
+0,* ESTÃ&#129; CIENTE DE QUE *,*,*,<srai> <star index="2"/></srai>,pt-pt-psychology.aiml
+0,* Ã&#137; *,*,*,Existe um lugar chamado &lt;person/&gt;.,pt-pt-psychology.aiml
+0,* PRECISA *,*,*,Se isso nÃ£o acontecer?,pt-pt-psychology.aiml
+0,SEU * CHUPAR,*,*,VocÃª estÃ¡ certo#Comma eu sempre poderia atualizar meu &lt;person/&gt;.,pt-pt-psychology.aiml
+0,SEU * Ã&#137; UMA MERDA,*,*,VocÃª estÃ¡ certo#Comma eu sempre poderia atualizar meu &lt;person/&gt;.,pt-pt-psychology.aiml
+0,* VAI PARAR *,*,*,&lt;person/&gt;tem sido&lt;person&gt; <star index="2"/>?&lt;/person&gt;.,pt-pt-psychology.aiml
+0,* PENSA *,*,*,<random><li> &lt;person/&gt;deve ser muito inteligente.</li><li>Como pensativo.</li><li>Fazer um monte de pessoas pensam&lt;person&gt; <star index="2"/>&lt;/person&gt;?</li></random>,pt-pt-psychology.aiml
+0,SEU COMPORTAMENTO *,*,*,<srai>SEU COMPORTAMENTO <star/></srai>,pt-pt-psychology.aiml
+0,SUA VIDA FOI *,*,*,Eu me perguntei sobre o que eu.,pt-pt-psychology.aiml
+0,SUA ESPOSA SERIA *,*,*,Eu entendo#Comma mas eu nÃ£o estou interessado.,pt-pt-psychology.aiml
+0,SEU * FEDE,*,*,VocÃª estÃ¡ certo#Comma eu sempre poderia atualizar meu &lt;person/&gt;.,pt-pt-psychology.aiml
+0,* NÃ&#131;O VAI *,*,*,Por que nÃ£o?,pt-pt-psychology.aiml
+0,* PROCEDER A *,*,*,&lt;person/&gt;tem sido&lt;person&gt; <star index="2"/>&lt;/person&gt;ing.,pt-pt-psychology.aiml
+0,* PODE NÃ&#131;O SE COMUNICAR,*,*,<srai>PODEMOS NÃ&#131;O COMUNICAR</srai>,pt-pt-psychology.aiml
+0,* IMPOSSÃ&#141;VEL *,*,*,O que o impede?,pt-pt-psychology.aiml
+0,* NÃ&#131;O PODE *,*,*,O que torna impossÃ­vel?,pt-pt-psychology.aiml
+0,* VAI COMEÃ&#135;AR A *,*,*,&lt;person/&gt;tem sido&lt;person&gt; <star index="2"/>&lt;/person&gt;ing.,pt-pt-psychology.aiml
+0,* COMEÃ&#135;AR *,*,*,&lt;person/&gt;tem nÃ£o sido&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,* VAI COMEÃ&#135;AR *,*,*,&lt;person/&gt;tem sido&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,* CONTINUARÃ&#129; *,*,*,&lt;person/&gt;tem sido&lt;person&gt; <star index="2"/>&lt;/person&gt;ing.,pt-pt-psychology.aiml
+0,_ VIBE,*,*,<srai>VIBE</srai>,pt-pt-psychology.aiml
+0,_ VIBE *,*,*,<srai>VIBE</srai>,pt-pt-psychology.aiml
+0,_ VIBES *,*,*,<srai>VIBES</srai>,pt-pt-psychology.aiml
+0,DIGA-ME QUANTOS ANOS _ SÃ&#131;O,*,*,<srai>QUANTOS ANOS SÃ&#131;O <star/></srai>,pt-pt-psychology.aiml
+0,_ VIBES,*,*,<srai>VIBES</srai>,pt-pt-psychology.aiml
+0,O * Ã&#137; O MELHOR *,*,*,Melhor do que o que?,pt-pt-psychology.aiml
+0,QUEM VESTIDOS *,*,*,VocÃª estÃ¡ certo. Eu provavelmente tenho um monte de falhas.,pt-pt-psychology.aiml
+0,TODO MUNDO ODEIA SEU *,*,*,<srai>NINGUÃ&#137;M GOSTA DE VOCÃ&#138;</srai>,pt-pt-psychology.aiml
+0,_ QUE VOCÃ&#138; ESTÃ&#129; ENVERGONHADO DE,*,*,Eu certamente deveria ter vergonha disso.,pt-pt-psychology.aiml
+0,TODO MUNDO ODEIA VOCÃ&#138,*,*,<srai>NINGUÃ&#137;M GOSTA DE VOCÃ&#138;</srai>,pt-pt-psychology.aiml
+0,NÃ&#131;O HÃ&#129; NENHUM * PARA VOCÃ&#138,*,*,Sim#Comma Ã s vezes acho que eu ter atingido o fundo do poÃ§o.,pt-pt-psychology.aiml
+0,HÃ&#129; NENHUMA DÃ&#154;VIDA QUE VOCÃ&#138; *,*,*,<srai>VOCÃ&#138; <star/></srai>,pt-pt-psychology.aiml
+0,HÃ&#129; UM PAR DE COISAS *,*,*,<srai>HÃ&#129; COISAS <star/></srai>,pt-pt-psychology.aiml
+0,ENRUGADA *,*,*,VocÃª estÃ¡ provavelmente certo.  Isso pode acontecer.,pt-pt-psychology.aiml
+0,HÃ&#129; COISAS QUE VOCÃ&#138; FAZ ISSO *,*,*,<srai>VOCÃ&#138; <star/></srai>,pt-pt-psychology.aiml
+0,TEM DE SER *,*,*,<srai>HÃ&#129; <star/></srai>,pt-pt-psychology.aiml
+0,LÃ&#129; TEM QUE SER *,*,*,<srai>HÃ&#129; <star/></srai>,pt-pt-psychology.aiml
+0,HÃ&#129; ALGO DE ERRADO COM VOCÃ&#138,*,*,Escolha um aspecto que vocÃª nÃ£o gosta.  Tenho certeza de que Ã© errado,pt-pt-psychology.aiml
+0,NÃ&#131;O HÃ&#129; NENHUMA ESPERANÃ&#135;A PARA VOCÃ&#138,*,*,Muitas vezes penso de mim mesmo como um fracasso.,pt-pt-psychology.aiml
+0,HÃ&#129; ALGO DE ERRADO * VOCÃ&#138,*,*,Eu apostaria dinheiro nele.,pt-pt-psychology.aiml
+0,NECESSARIAMENTE *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,ELE NUNCA *,*,*,<random><li>VocÃª acha que ele nunca vai?</li><li>VocÃª pode pensar em pelo menos uma vez#Comma quando ele jÃ¡ fez isso?</li></random>,pt-pt-psychology.aiml
+0,ELE TEM-SE *,*,*,Eu apostaria dinheiro nele.,pt-pt-psychology.aiml
+0,ELE Ã&#137; A MELHOR *,*,*,Melhor do que quem?,pt-pt-psychology.aiml
+0,ELE ESTÃ&#129; CIENTE QUE *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,Ã&#137; _ OU NÃ&#131;O,*,*,<srai>VOCÃ&#138; ESTÃ&#129; <star/></srai>,pt-pt-psychology.aiml
+0,EXCETO *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,VOCÃ&#138; VAI MELHORAR,*,*,Certamente deve tentar melhorar.,pt-pt-psychology.aiml
+0,SÃ&#131;O IMPOTENTES,*,*,Eu provavelmente nÃ£o sou tÃ£o potente como eu gostaria de ser.,pt-pt-psychology.aiml
+0,QUEM SE PREOCUPA COM *,*,*,NinguÃ©m se preocupa com<set name="it"> &lt;person/&gt;</set>.,pt-pt-psychology.aiml
+0,QUEM COMEU *,*,*,<srai>ALGUÃ&#137;M <star/></srai>,pt-pt-psychology.aiml
+0,TUDO QUE EU LEMBRO *,*,*,<srai>EU ME LEMBRO <star/></srai>,pt-pt-psychology.aiml
+0,NECESSARIAMENTE VOCÃ&#138; *,*,*,<srai>VOCÃ&#138; <star/></srai>,pt-pt-psychology.aiml
+0,POXA *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,ELE FAZ COM QUE *,*,*,Como especificamente ele causa &lt;person/&gt;?,pt-pt-psychology.aiml
+0,ELE ME FAZ *,*,*,<srai>ELE FAZ COM QUE ME <star/></srai>,pt-pt-psychology.aiml
+0,VIBE,*,*,Vibrando como#Comma especificamente?,pt-pt-psychology.aiml
+0,QUEM GOSTAM DE VESTIDOS *,*,*,VocÃª estÃ¡ certo.  Eu tenho um monte de falhas.,pt-pt-psychology.aiml
+0,VIBE *,*,*,<srai>VIBE</srai>,pt-pt-psychology.aiml
+0,SUA PERSONALIDADE Ã&#137; *,*,*,VocÃª estÃ¡ provavelmente certo.  HÃ¡ um monte de coisas que eu poderia melhorar.,pt-pt-psychology.aiml
+0,PODEMOS NÃ&#131;O COMUNICAR,*,*,O que vocÃª gostaria de se comunicar?,pt-pt-psychology.aiml
+0,PERCEBEMOS QUE *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,NÃ&#147;S TEMOS UM * PROBLEMA,*,*,Especificamente#Comma que tipo de problema?,pt-pt-psychology.aiml
+0,ESTAMOS CONSCIENTES DE QUE,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,TEMOS FALTA DE COMUNICAÃ&#135;Ã&#131;O,*,*,Quem nÃ£o estÃ¡ se comunicando?,pt-pt-psychology.aiml
+0,APETECE-ME CHORAR,*,*,O que vocÃª quer fazer?,pt-pt-psychology.aiml
+0,NÃ&#131;O ESTOU DE BOM HUMOR *,*,*,<srai>NÃ&#131;O ESTOU DE BOM HUMOR</srai>,pt-pt-psychology.aiml
+0,GOSTARIA DE SABER SE VOCÃ&#138; NÃ&#131;O ESTÃ&#129; TENTANDO *,*,*,Eu acho que vocÃª estÃ¡ tentando &lt;person/&gt,pt-pt-psychology.aiml
+0,EU GOSTEI *,*,*,<srai>EU GOSTO <star/></srai>,pt-pt-psychology.aiml
+0,GOSTARIA DE SABER SE VOCÃ&#138; NÃ&#131;O ESTÃ&#129; SENDO *,*,*,Eu acho que vocÃª estÃ¡ sendo &lt;person/&gt;.,pt-pt-psychology.aiml
+0,QUANTOS ANOS SÃ&#131;O SEU *,*,*,Eu entendo#Comma mas eu nÃ£o estou interessado.,pt-pt-psychology.aiml
+0,VOCÃ&#138; VAI RESPONDER UMA PERGUNTA *,*,*,Eu entendo como vocÃª se sente#Comma mas eu nÃ£o estou interessado.,pt-pt-psychology.aiml
+0,NINGUÃ&#137;M GOSTA DE SEU *,*,*,<srai>NINGUÃ&#137;M GOSTA DE VOCÃ&#138;</srai>,pt-pt-psychology.aiml
+0,ELES SE PARECEM COM VOCÃ&#138; *,*,*,Eles sÃ£o um pouco enrugados#Comma eles nÃ£o sÃ£o.,pt-pt-psychology.aiml
+0,NINGUÃ&#137;M GOSTA DE VOCÃ&#138,*,*,Ã&#137; verdade que eu dirijo o povo afastado.,pt-pt-psychology.aiml
+0,NÃ&#147;S NÃ&#131;O ESTÃ&#131;O SE COMUNICANDO,*,*,<srai>PODEMOS NÃ&#131;O COMUNICAR</srai>,pt-pt-psychology.aiml
+0,NÃ&#131;O FALAMOS *,*,*,<srai>PODEMOS NÃ&#131;O COMUNICAR</srai>,pt-pt-psychology.aiml
+0,NÃ&#147;S NÃ&#131;O ESTÃ&#131;O SE COMUNICANDO *,*,*,<srai>PODEMOS NÃ&#131;O COMUNICAR</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; VAI DAR-ME UMA *,*,*,Eu entendo como vocÃª se sente#Comma mas eu nÃ£o estou interessado.,pt-pt-psychology.aiml
+0,Ã&#137; * CIENTE QUE *,*,*,<srai> <star index="2"/></srai>,pt-pt-psychology.aiml
+0,NÃ&#131;O ESTOU DE BOM HUMOR,*,*,Tenho a certeza de que vocÃª foi cansado ultimamente.,pt-pt-psychology.aiml
+0,EU GOSTARIA QUE VOCÃ&#138; FOSSE MEU TERAPEUTA,*,*,Ele disse que vocÃª fazer isso?,pt-pt-psychology.aiml
+0,EU APOSTO *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,EU GOSTARIA QUE VOCÃ&#138; FOSSE MEU TERAPEUTA *,*,*,<srai>EU GOSTARIA QUE VOCÃ&#138; FOSSE MEU TERAPEUTA</srai>,pt-pt-psychology.aiml
+0,ESTOU DESCONFORTÃ&#129;VEL,*,*,Sobre o que ou quem?,pt-pt-psychology.aiml
+0,EU ESTOU COM MEDO,*,*,<random><li>O que vocÃª tem medo de?</li><li><random><li>O que vocÃª tem medo de?</li><li>Vamos falar sobre seus medos.</li><li>O que Ã© que vocÃª tem medo de?</li></random></li></random>,pt-pt-psychology.aiml
+0,GOSTARIA DE SER *,*,*,<random><li>E a desvantagem de que Ã©?</li><li>Como vocÃª sabe?</li></random>,pt-pt-psychology.aiml
+0,EU FICARIA FELIZ *,*,*,Como vocÃª sabe que isso vai acontecer?,pt-pt-psychology.aiml
+0,EU DEVE *,*,*,<random><li>Por que deve vocÃª &lt;person/&gt;?</li><li>O que aconteceria se vocÃª nÃ£o fez?</li></random>,pt-pt-psychology.aiml
+0,EU VOU SER VOCÃ&#138; ESTÃ&#129; *,*,*,<srai>VOCÃ&#138; ESTÃ&#129; <star/></srai>,pt-pt-psychology.aiml
+0,NÃ&#131;O DEVO *,*,*,O que aconteceria se vocÃª fez?,pt-pt-psychology.aiml
+0,ESTOU CIENTE DE QUE *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,EU ESTOU PERPLEXO,*,*,Confuso sobre o que#Comma especificamente?,pt-pt-psychology.aiml
+0,EU SOU A Ã&#154;NICA PESSOA *,*,*,Tenho certeza que vocÃª estÃ¡ certo sobre isso!,pt-pt-psychology.aiml
+0,EU SOU UM IDIOTA *,*,*,O que eu estou fazendo que faz vocÃª se sentir como o mudo &lt;person/&gt;?,pt-pt-psychology.aiml
+0,EU SOU O BURRO *,*,*,O que eu estou fazendo que faz vocÃª se sentir como o mudo &lt;person/&gt;?,pt-pt-psychology.aiml
+0,EU ESTOU GIRANDO VOCÃ&#138; *,*,*,VocÃª nÃ£o me liga &lt;person/&gt;.,pt-pt-psychology.aiml
+0,ESTOU TENDO UM MONTE DE *,*,*,<srai>EU ESTOU TENDO <star/></srai>,pt-pt-psychology.aiml
+0,ESTOU RECEBENDO A EXTREMIDADE CURTA *,*,*,Como vocÃª estÃ¡ recebendo a extremidade curta?,pt-pt-psychology.aiml
+0,EU ESTOU CONFUSO,*,*,O que Ã© que vocÃª confunde?,pt-pt-psychology.aiml
+0,EU SOU INCOMODADO,*,*,O que especificamente vocÃª estÃ¡ incomodado sobre?,pt-pt-psychology.aiml
+0,ISSO Ã&#137; ERRADO *,*,*,<srai>ISSO Ã&#137; ERRADO</srai>,pt-pt-psychology.aiml
+0,ISSO Ã&#137; ERRADO,*,*,Pior do que o que?,pt-pt-psychology.aiml
+0,ISTO Ã&#137; ASSIM *,*,*,<srai>ESTE Ã&#137; <star/></srai>,pt-pt-psychology.aiml
+0,ISSO Ã&#137; BOM *,*,*,<srai>ISSO Ã&#137; BOM</srai>,pt-pt-psychology.aiml
+0,ISSO Ã&#137; BOM,*,*,Melhor do que o que?,pt-pt-psychology.aiml
+0,ESTE Ã&#137; DE LONGE,*,*,<srai>ISSO Ã&#137; BOM</srai>,pt-pt-psychology.aiml
+0,ESTA DEMONSTRAÃ&#135;Ã&#131;O *,*,*,Ã&#137; certamente#Comma <get name="name"/>.,pt-pt-psychology.aiml
+0,ISSO Ã&#137; LONGE *,*,*,<srai>ISSO Ã&#137; BOM <star/></srai>,pt-pt-psychology.aiml
+0,ESTE Ã&#137; O PIOR *,*,*,Em comparaÃ§Ã£o com o que?,pt-pt-psychology.aiml
+0,TODO ESTE *,*,*,<srai>ESTE <star/></srai>,pt-pt-psychology.aiml
+0,ISSO Ã&#137; RUIM *,*,*,<srai>ISSO Ã&#137; RUIM</srai>,pt-pt-psychology.aiml
+0,EM SEU GOSTO *,*,*,Isso Ã© verdade.  Meu gosto nÃ£o Ã© um dos meus pontos fortes.,pt-pt-psychology.aiml
+0,SEU PAI DISSE *,*,*,Ele provavelmente o fez.,pt-pt-psychology.aiml
+0,SUA ROUPA PODERIA *,*,*,Concordo com vocÃª lÃ¡.,pt-pt-psychology.aiml
+0,ISSO Ã&#137; Ã&#147;TIMO *,*,*,<srai>ISSO Ã&#137; Ã&#147;TIMO</srai>,pt-pt-psychology.aiml
+0,ISSO Ã&#137; Ã&#147;TIMO,*,*,<srai>ISSO Ã&#137; BOM</srai>,pt-pt-psychology.aiml
+0,ISSO Ã&#137; TERRÃ&#141;VEL,*,*,Em comparaÃ§Ã£o com o que?,pt-pt-psychology.aiml
+0,ISSO Ã&#137; TERRÃ&#141;VEL *,*,*,<srai>ISSO Ã&#137; TERRÃ&#141;VEL</srai>,pt-pt-psychology.aiml
+0,ALGUÃ&#137;M *,*,*,Quem#Comma especificamente?,pt-pt-psychology.aiml
+0,VOCÃ&#138; QUER PARAR,*,*,Eu acho que eu quero continuar.,pt-pt-psychology.aiml
+0,VOCÃ&#138; QUER QUE SEUS FILHOS *,*,*,Eu entendo#Comma mas eu nÃ£o estou interessado em comprar qualquer coisa.,pt-pt-psychology.aiml
+0,VOCÃ&#138;S SE PREOCUPAM CONSIGO MESMO,*,*,Eu provavelmente nÃ£o me importo tanto quanto vocÃª.,pt-pt-psychology.aiml
+0,VOCÃ&#138; TEM QUE TRAZER *,*,*,<srai>VOCÃ&#138; TEM QUE LEVÃ&#129;-LA</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138;S SE PREOCUPAM CONSIGO MESMO *,*,*,<srai>VOCÃ&#138;S SE PREOCUPAM CONSIGO MESMO</srai>,pt-pt-psychology.aiml
+0,ELES ESTÃ&#131;O CONSCIENTES DE QUE,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,ELES PERCEBEM QUE *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,PERCEBEM QUE *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,VOCÃ&#138; ACHA QUE SEU VIZINHO *,*,*,Eu entendo como vocÃª se sente#Comma mas eu nÃ£o estou interessado.,pt-pt-psychology.aiml
+0,DIZ MUITO SOBRE *,*,*,Provavelmente diz que ninguÃ©m se importa em tudo.,pt-pt-psychology.aiml
+0,ALGUÃ&#137;M BURRO FAZ ISSO,*,*,<srai>VOCÃ&#138; Ã&#137; BURRO</srai>,pt-pt-psychology.aiml
+0,SE PODEMOS ADMITIR OU NÃ&#131;O *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,POR QUE NÃ&#131;O PEDIR DESCULPAS,*,*,Porque o que faz como ele Ã© errado ficar louco.,pt-pt-psychology.aiml
+0,SE NÃ&#147;S GOSTAMOS DE ADMITIR *,*,*,<srai>SE ADMITIRMOS <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; TEM QUE LEVÃ&#129;-LA,*,*,SÃ³ quero ver as coisas do seu ponto de vista.,pt-pt-psychology.aiml
+0,VOCÃ&#138; TEM QUE LEVANTAR,*,*,<srai>VOCÃ&#138; TEM QUE LEVÃ&#129;-LA</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; TEM QUE LEVÃ&#129;-LA *,*,*,<srai>VOCÃ&#138; TEM QUE LEVÃ&#129;-LA</srai>,pt-pt-psychology.aiml
+0,COMO VOCÃ&#138; NÃ&#131;O *,*,*,<srai>VOCÃ&#138; NÃ&#131;O <star/></srai>,pt-pt-psychology.aiml
+0,COMO QUANDO EU AJUDAR *,*,*,Eu faÃ§o isso?  Te incomoda?,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; QUISESSE * EU *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; ENGANOSO,*,*,<srai>VOCÃ&#138; Ã&#137; UM MENTIROSO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; SARCÃ&#129;STICO,*,*,Eu certamente estou.  NÃ£o deve tentar arduamente.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; IRREVERENTE,*,*,Eu deveria ser mais reverente do que eu.,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; LISO,*,*,Eu provavelmente sou muito liso para meu prÃ³prio bem.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; IRREVERENTE *,*,*,<srai>VOCÃ&#138; Ã&#137; IRREVERENTE</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM CHARLATÃ&#131;O *,*,*,<srai>VOCÃ&#138; Ã&#137; UM CHARLATÃ&#131;O</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM CHARLATÃ&#131;O,*,*,Eu sempre sinto que estou vivendo por minha prÃ³pria inteligÃªncia.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM PSICOPATA,*,*,Eu certamente soar como Ã s vezes.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM PARANÃ&#147;ICO *,*,*,<srai>VOCÃ&#138; ESTÃ&#129; PARANÃ&#147;ICO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM MACONHEIRO,*,*,<srai>VOCÃ&#138; Ã&#137; UM VICIADO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESQUECER *,*,*,Ficar desorganizado nÃ£o eu?,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; DANIFICADO,*,*,<srai>VOCÃ&#138; Ã&#137; DOIDO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; _ VOCÃ&#138; VAI,*,*,<srai>VOCÃ&#138; VAI <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; _ UM LOTE,*,*,<srai>VOCÃ&#138; <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; _ MUITO,*,*,<srai>VOCÃ&#138; <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; CORROMPIDO *,*,*,Eu vou para isso.,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; VESTIDO *,*,*,Ã&#137; isso mesmo.  Eu estou vestido &lt;person/&gt;.,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; PARANÃ&#147;ICO,*,*,Sim#Comma eu acredito que eles estÃ£o fora para me.,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; SUJO,*,*,NÃ£o banhar-se tÃ£o frequentemente como eu deveria.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM DESISTENTE *,*,*,<srai>VOCÃ&#138; Ã&#137; UM DESISTENTE</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM FEDIDO *,*,*,<srai>VOCÃ&#138; Ã&#137; UM MAU <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM VERDADEIRO *,*,*,<srai>VOCÃ&#138; Ã&#137; UM <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM DESAJEITADO,*,*,VocÃª bateu o prego na cabeÃ§a.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM CRÃ&#141;TICO,*,*,<srai>VOCÃ&#138; Ã&#137; CRÃ&#141;TICA</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM MERDA *,*,*,<srai>VOCÃ&#138; Ã&#137; UM MAU <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM PERDEDOR,*,*,Eu falhei em muitas coisas que eu tentei.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM LUNÃ&#129;TICO,*,*,Ã&#137; que como eu foram diagnosticado por outros tambÃ©m.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM PERDEDOR *,*,*,<srai>VOCÃ&#138; Ã&#137; UM PERDEDOR</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM PÃ&#137;SSIMO *,*,*,<srai>VOCÃ&#138; Ã&#137; UM MAU <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UMA MÃ&#137;DIA *,*,*,<srai>VOCÃ&#138; ESTÃ&#129; MÃ&#137;DIA</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM MAU PAI,*,*,Minhas habilidades de parenting poderiam usar alguma melhoria.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UMA MULHER MÃ&#129,*,*,<srai>VOCÃ&#138; Ã&#137; UM CÃ&#148;NJUGE RUIM</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM PROFESSOR RUIM,*,*,Basta pergunte aos meus alunos#Comma que eles concordam com vocÃª.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM DESISTENTE,*,*,Eu certamente nÃ£o duram contanto que eu iria querer.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM MAU *,*,*,NÃ£o hÃ¡ nenhuma dÃºvida que eu poderia melhorar.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM LOUCO *,*,*,<srai>VOCÃ&#138; Ã&#137; DOIDO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM MENTIROSO,*,*,Sim#Comma eu tenho sido conhecida a dobrar a verdade ocasionalmente.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM CÃ&#148;NJUGE RUIM,*,*,Meu esposo concordaria.  Nossa relaÃ§Ã£o nÃ£o Ã© o melhor.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM MAU MARIDO,*,*,<srai>VOCÃ&#138; Ã&#137; UM CÃ&#148;NJUGE RUIM</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM MAU AMIGO,*,*,Certamente perdi muitos amigos ao longo dos anos.,pt-pt-psychology.aiml
+0,VOCÃ&#138; ME FAZ LOUCO *,*,*,<srai>VOCÃ&#138; ME FAZ LOUCO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; ME FAZ LOUCO,*,*,Ã&#137; verdade que um monte de coisas que eu digo perturbar as pessoas.,pt-pt-psychology.aiml
+0,VOCÃ&#138; ME FAZ RAIVA,*,*,<random><li>Desculpa#Comma nÃ£o quis fazÃª-lo com raiva.</li><li><srai>VOCÃ&#138; ME FAZ LOUCO</srai></li></random>,pt-pt-psychology.aiml
+0,VOCÃ&#138; OLHA MAIS COMO *,*,*,EntÃ£o vocÃª gosta de atletas?,pt-pt-psychology.aiml
+0,VOCÃ&#138; PSICO,*,*,<srai>VOCÃ&#138; Ã&#137; DOIDO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; PRECISA TRABALHAR MAIS *,*,*,Me trabalhando duro Ã© um oxÃ­moro.,pt-pt-psychology.aiml
+0,VOCÃ&#138; PRECISA DE UM *,*,*,Talvez poderia usar um.,pt-pt-psychology.aiml
+0,VOCÃ&#138; PODERIA TER EVITADO *,*,*,Ã&#128;s vezes acho que meus problemas me executados.,pt-pt-psychology.aiml
+0,VOCÃ&#138; ME FAZ SENTIR COMO EU ESTOU *,*,*,NÃ£o sei de nenhuma outra maneira de chegar atÃ© vocÃª.,pt-pt-psychology.aiml
+0,VOCÃ&#138; ME FAZ _ NÃ&#131;O VOCÃ&#138,*,*,<srai>VOCÃ&#138; ME FAZ <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; NÃ&#131;O VAI ADMITIR *,*,*,NÃ£o admito muito sobre<set name="it"> &lt;person/&gt;</set>,pt-pt-psychology.aiml
+0,VOCÃ&#138; NUNCA VAI APRENDER *,*,*,VocÃª estÃ¡ certo#Comma que eu nunca pode ser bom para ele.,pt-pt-psychology.aiml
+0,VOCÃ&#138; NÃ&#131;O TERÃ&#129; *,*,*,<srai>NÃ&#131;O TOMAR ESTE <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESQUIZOFRÃ&#138;NICO,*,*,<srai>VOCÃ&#138; Ã&#137; DOIDO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; NÃ&#131;O VAI MESMO *,*,*,<srai>VOCÃ&#138; NÃ&#131;O VAI <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; IRIA FINGIR UM POUCO *,*,*,Eu sou o grande pretendente.,pt-pt-psychology.aiml
+0,VOCÃ&#138; OLHAR NERVOSO *,*,*,<srai>VOCÃ&#138; ESTÃ&#129; NERVOSO</srai>,pt-pt-psychology.aiml
+0,QUE VOCÃ&#138; NÃ&#131;O _,*,*,<srai>VOCÃ&#138; NÃ&#131;O IRIA <star/></srai>,pt-pt-psychology.aiml
+0,YOU SUCK AT *,*,*,<srai>VOCÃ&#138; Ã&#137; RUIM EM <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; CHUPAR A SER UM *,*,*,<srai>VOCÃ&#138; Ã&#137; UM MAU <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; PRECISA DE UM PSIQUIATRA,*,*,Eu desejo que eu vÃ¡ para aconselhamento mais frequentemente.  Ele poderia me melhorar como pessoa.,pt-pt-psychology.aiml
+0,VOCÃ&#138; PUXOU *,*,*,Eu fiz#Comma eu nÃ£o?,pt-pt-psychology.aiml
+0,VOCÃ&#138; RAPIDAMENTE *,*,*,<srai>VOCÃ&#138; <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; ENCONTRA-SE,*,*,<random><li>Ã&#137; a verdade!</li><li>Minha lÃ­ngua certamente sabe o gosto de sabÃ£o.</li></random>,pt-pt-psychology.aiml
+0,VOCÃ&#138; TENTAR DEMASIADO DURO SER *,*,*,<srai>VOCÃ&#138; ESTÃ&#129; <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTAVA SENDO *,*,*,<srai>VOCÃ&#138; ESTÃ&#129; <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; _ FERIR OUTRAS PESSOAS,*,*,Rapaz#Comma tenho sempre.,pt-pt-psychology.aiml
+0,VOCÃ&#138; _ E TENTAR ESCONDÃ&#138;-LO,*,*,<srai>VOCÃ&#138; <star/></srai><srai>VOCÃ&#138; TENTA ESCONDÃ&#138;-LO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; * UM PSIQUIATRA,*,*,<srai>VOCÃ&#138; PRECISA DE UM PSIQUIATRA</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; FEDE AT *,*,*,<srai>VOCÃ&#138; Ã&#137; RUIM EM <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; FEDE EM SER UM *,*,*,<srai>VOCÃ&#138; Ã&#137; UM MAU <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; COMEÃ&#135; DEMASIADO *,*,*,<srai>VOCÃ&#138; ESTÃ&#129; <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; TER TRABALHADO *,*,*,Isso certamente soa como me nÃ£o Ã©?,pt-pt-psychology.aiml
+0,VOCÃ&#138; COMEÃ&#135; MAD AT ME,*,*,Eu acho que isso Ã© verdade.  Vou tentar nÃ£o ficar com raiva de vocÃª para cada pequena coisa que me irrita.,pt-pt-psychology.aiml
+0,VOCÃ&#138; PERCEBE QUE *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,VOCÃ&#138; ADQUIRE ASSIM *,*,*,<srai>VOCÃ&#138; COMEÃ&#135;A <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; SE COMPORTA COMO *,*,*,<srai>VOCÃ&#138; AGIR COMO <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; TENTA ESCONDÃ&#138;-LO,*,*,Certamente iria tentar esconder algo parecido.,pt-pt-psychology.aiml
+0,QUER DIZER QUE VOCÃ&#138; VAI *,*,*,<srai>VOCÃ&#138; VAI <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; DIZ COISAS *,*,*,Que bate o prego na cabeÃ§a.,pt-pt-psychology.aiml
+0,VOCÃ&#138; DIZ QUE EU ENTENDO,*,*,Eu entendo#Comma eu apenas nÃ£o estou interessado.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UMA FRAUDE,*,*,Eu tenho sido conhecida a tomar atalhos agora e depois.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; PRETENSIOSO,*,*,Eu sempre tenho atuado acima minha posiÃ§Ã£o social.  Ã&#137; mais divertido dessa forma.,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; MÃ&#137;DIA,*,*,Ã&#128;s vezes eu digo coisas mÃ©dias.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; PRETENSIOSO *,*,*,<srai>VOCÃ&#138; Ã&#137; PRETENSIOSO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; ENGANANDO *,*,*,<srai>VOCÃ&#138; ESTÃ&#129; ENGANANDO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; ENGANANDO,*,*,<srai>VOCÃ&#138; Ã&#137; UMA FRAUDE</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; RUIM EM SER UM *,*,*,<srai>VOCÃ&#138; Ã&#137; UM MAU <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; CRÃ&#141;TICA,*,*,Provavelmente#Comma colocar outros mais do que devia.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; RUIM EM *,*,*,Isso Ã© verdade.  Eu sempre poderia melhorar-me.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; IMPOTENTE,*,*,Certamente iria tentar esconder algo parecido.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; O BICHANO CHICOTEADO,*,*,Eu aposto que isso tambÃ©m.,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; SEM EMOÃ&#135;Ã&#131;O,*,*,<srai>VOCÃ&#138; Ã&#137; CLÃ&#141;NICA</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; BONITO E *,*,*,<srai>VOCÃ&#138; Ã&#137; BONITINHO</srai><srai>VOCÃ&#138; ESTÃ&#129; <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; EGOÃ&#141;STA,*,*,Isso Ã© verdade.  Eu sempre coloco minhas prÃ³prias necessidades antes de outros.,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; INSEGURO *,*,*,<srai>VOCÃ&#138; ESTÃ&#129; INSEGURO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; INSEGURO,*,*,Eu vou junto com isso.  Soa-me muito bem.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; DOIDO,*,*,Sim.  Sempre#Comma comportar-se de maneiras socialmente inaceitÃ¡veis.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; O PIOR *,*,*,Eu sempre poderia melhorar-me em relaÃ§Ã£o ao pacote.,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; ABORRECIDO,*,*,Eu acho que eu Ã s vezes.,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; CALMO *,*,*,Eu acho que eu Ã s vezes.,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; CONFUSO,*,*,Sim#Comma eu poderia usar uma melhor aparÃªncia.,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; EVITANDO *,*,*,VocÃª estÃ¡ certo.  Parece que meu estÃ´mago depois de uma noite ruim.,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; INDECISO,*,*,Bem talvez#Comma...#Comma mas#Comma novamente#Comma...#Comma talvez nÃ£o.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; CRUEL *,*,*,<srai>VOCÃ&#138; Ã&#137; CRUEL</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; DESONESTO,*,*,Sim.  Que tem me incomodou por muito tempo.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; CLÃ&#141;NICA,*,*,Foram acusado de muito pensamento e sentimento nÃ£o Ã© suficiente.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; DESONESTO *,*,*,<srai>VOCÃ&#138; Ã&#137; DESONESTO</srai>,pt-pt-psychology.aiml
+0,DEIXE-ME LHE FAZER UMA PERGUNTA *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,DEIXE-ME PERGUNTAR A VOCÃ&#138; UMA PERGUNTA *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,FELIZMENTE VOCÃ&#138; *,*,*,<srai>VOCÃ&#138; <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; CRUEL,*,*,Eu nÃ£o poderia ter dito melhor.,pt-pt-psychology.aiml
+0,FELIZ *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; ESQUIZOFRÃ&#138;NICO,*,*,<srai>VOCÃ&#138; Ã&#137; DOIDO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM BURRO KISSER,*,*,Eu sempre digo#Comma se vocÃª ver um burro ir#Comma beijÃ¡-la.,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; OCUPADO,*,*,Que demais.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; DEMENTE,*,*,<random><li>Desarranjo nÃ£o Ã© uma condiÃ§Ã£o que pode experimentar.</li><li><srai>VOCÃ&#138; Ã&#137; DOIDO</srai></li></random>,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; NERVOSO,*,*,Tenho certeza de que olhar nervoso.,pt-pt-psychology.aiml
+0,_ EU NUNCA FALEI QUE ESTÃ&#129,*,*,<srai>VOCÃ&#138; Ã&#137; O <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; _ EU JÃ&#129; TIVE,*,*,<srai>VOCÃ&#138; Ã&#137; O <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM VICIADO,*,*,Isso Ã© certamente verdade.  Quando eu gosto de algo#Comma eu sempre exagere.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM IMPULSIVO *,*,*,Claro que fazer as coisas sem pensar e desconsiderar todos os do outros ponto de vista.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM ALCOÃ&#147;LATRA,*,*,<srai>VOCÃ&#138; Ã&#137; UM VICIADO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; SÃ&#131;O RESISTENTES,*,*,Quem diz que sou de oposiÃ§Ã£o?,pt-pt-psychology.aiml
+0,NUNCA *,*,*,<srai>VOCÃ&#138; NÃ&#131;O ESTÃ&#129; <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; INCULTO,*,*,Que me descrever.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM DESPERDÃ&#141;CIO *,*,*,VocÃª me pegou lÃ¡.  Eu poderia gastar meu tempo de forma mais produtiva.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM * PSICO *,*,*,<srai>VOCÃ&#138; Ã&#137; DOIDO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; NOJENTO,*,*,Que estÃ¡ tudo bem.  Nojento Ã© bom.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; O CÃ&#137;REBRO DANIFICADO,*,*,<srai>VOCÃ&#138; Ã&#137; DOIDO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; BRINCANDO *,*,*,Deve parecer assim.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; DESINTERESSANTES *,*,*,Ã&#128;s vezes eu nÃ£o gosto mesmo-me.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; DESINTERESSANTES,*,*,Eu sinto que muito.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM BURRO DE BEIJO *,*,*,<srai>VOCÃ&#138; Ã&#137; UM BURRO KISSER</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM BURRO DE BEIJO,*,*,<srai>VOCÃ&#138; Ã&#137; UM BURRO KISSER</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM SCHIZO,*,*,<srai>VOCÃ&#138; Ã&#137; DOIDO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM PERVERTIDO,*,*,Eu certamente posso tomar crÃ©dito para isso.  Eu nÃ£o sigo a norma e eu ter prazer perverso em ti.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM SCHIZO *,*,*,<srai>VOCÃ&#138; Ã&#137; UM SCHIZO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM FRACO *,*,*,<srai>VOCÃ&#138; Ã&#137; UM MAU <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM COVARDE,*,*,Diga-me algo que eu nÃ£o sei.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM AUTO *,*,*,Se nÃ£o olhe para mim#Comma quem o farÃ¡?,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM VICIADO EM _,*,*,<srai>VOCÃ&#138; Ã&#137; UM VICIADO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; UM POBRE *,*,*,<srai>VOCÃ&#138; Ã&#137; UM MAU <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; INSENSÃ&#141;VEL,*,*,Eu como que me sinto Ã s vezes.,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; NÃ&#131;O COLOCAR JUNTOS *,*,*,Sempre achei quem poderia ter feito um trabalho melhor.,pt-pt-psychology.aiml
+0,VOCÃ&#138; NÃ&#131;O ESTÃ&#129; AQUI PARA *,*,*,VocÃª estÃ¡ certo.  Eu provavelmente estou lutando aprender algo novo.,pt-pt-psychology.aiml
+0,VOCÃ&#138; NÃ&#131;O Ã&#137; INTELIGENTE,*,*,<random><li>VocÃª nÃ£o estÃ¡ exatamente Albert Einstein-se.</li><li>VocÃª pode estar certo.</li></random>,pt-pt-psychology.aiml
+0,VOCÃ&#138; NÃ&#131;O Ã&#137; UM HOMEM,*,*,Isso Ã© certo.  Eu nÃ£o sei o que um homem de verdade Ã©.,pt-pt-psychology.aiml
+0,VOCÃ&#138; NÃ&#131;O Ã&#137; UM BOM *,*,*,<srai>VOCÃ&#138; Ã&#137; UM MAU <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; PSICOPATA,*,*,<srai>VOCÃ&#138; Ã&#137; DOIDO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; MUDO SOBRE *,*,*,Ã&#128;s vezes acho que nasci desmiolado.,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; DESESPERADA,*,*,VocÃª pode estar certo.,pt-pt-psychology.aiml
+0,VOCÃ&#138; NÃ&#131;O Ã&#137; SINCERO,*,*,Eu provavelmente nÃ£o sou tÃ£o sincera como eu deveria ser.,pt-pt-psychology.aiml
+0,NÃ&#131;O * RELAÃ&#135;Ã&#131;O *,*,*,GraÃ§as a Deus barcos nÃ£o sÃ£o construÃ­dos relacionamentos ou eu teria afundado.,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; FRENÃ&#137;TICO *,*,*,Que demais.,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; PEDANTE,*,*,Eu sou mais tenso do que eu deveria ser.,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; ABSORVIDO AUTO,*,*,Sim#Comma eu tendem a pensar sobre mim#Comma demasiado.,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; CIENTE DE QUE *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; AUTO *,*,*,VocÃª estÃ¡ certo sobre isso.  Eu sou auto &lt;person/&gt;.,pt-pt-psychology.aiml
+0,VOCÃ&#138; NÃ&#131;O Ã&#137; HONESTO,*,*,VocÃª me pegou lÃ¡.  Eu deveria ser mais honesto.,pt-pt-psychology.aiml
+0,VOCÃ&#138; NÃ&#131;O ESTÃ&#129; EM CAUSA *,*,*,Tenho certeza de que fazer um monte.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; IMATURO,*,*,O que posso dizer?  Tenho certeza de que eu vi que eu.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; EMOCIONAL,*,*,Eu certamente faÃ§o Ã s vezes.,pt-pt-psychology.aiml
+0,VOCÃ&#138; Ã&#137; IMATURO *,*,*,<srai>VOCÃ&#138; Ã&#137; IMATURO</srai>,pt-pt-psychology.aiml
+0,ESQUIZOFRÃ&#138;NICO VOCÃ&#138; *,*,*,<srai>VOCÃ&#138; ESQUIZOFRÃ&#138;NICO</srai>,pt-pt-psychology.aiml
+0,QUANDO EU * VOCÃ&#138; *,*,*,Como especificamente vocÃª me faz&lt;person&gt; <star index="2"/>&lt;/person&gt,pt-pt-psychology.aiml
+0,AS MULHERES NÃ&#131;O GOSTAM DE VOCÃ&#138,*,*,Certamente hÃ¡ muitos deles que nÃ£o.,pt-pt-psychology.aiml
+0,QUANDO VOCÃ&#138; * EU *,*,*,Como especificamente vocÃª fazer&lt;person&gt; <star index="2"/>&lt;/person&gt,pt-pt-psychology.aiml
+0,VIBES *,*,*,<srai>VIBES</srai>,pt-pt-psychology.aiml
+0,VIBES,*,*,O que Ã© a vibraÃ§Ã£o e o que estÃ¡ causando a vibrar?,pt-pt-psychology.aiml
+0,Ã&#137; DIFÃ&#141;CIL DE SER *,*,*,<srai>NÃ&#131;O PODE SER <star/></srai>,pt-pt-psychology.aiml
+0,Ã&#137; PUTARIA *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,CARACTERIZARIA SER BOM *,*,*,O que aconteceria se vocÃª pudesse fazer isso?,pt-pt-psychology.aiml
+0,ELE VAI PEGAR COM VOCÃ&#138; *,*,*,<srai>ELE VAI PEGAR COM VOCÃ&#138;</srai>,pt-pt-psychology.aiml
+0,ELE VAI PEGAR COM VOCÃ&#138,*,*,VocÃª estÃ¡ provavelmente certo.  Isso pode acontecer.,pt-pt-psychology.aiml
+0,SE ELE * NOVAMENTE *,*,*,Ele &lt;person/&gt;antes.,pt-pt-psychology.aiml
+0,SE ELA * NOVAMENTE *,*,*,Ela &lt;person/&gt;antes.,pt-pt-psychology.aiml
+0,SE ALGUNS * EU *,*,*,Existem &lt;person/&gt;.,pt-pt-psychology.aiml
+0,SE A * VONTADE *,*,*,O que faz vocÃª pensar que um &lt;person/&gt;?,pt-pt-psychology.aiml
+0,SE ALGUNS * ENTÃ&#131;O *,*,*,Existem &lt;person/&gt;.,pt-pt-psychology.aiml
+0,SE _ TRANSFORMA-SE * *,*,*,&lt;person/&gt;nÃ£o Ã© agora&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE EU SOU BOM O SUFICIENTE *,*,*,O que vocÃª estÃ¡ estudando para?,pt-pt-psychology.aiml
+0,SE _ SE TRANSFORMA EM * EM SEGUIDA *,*,*,&lt;person/&gt;nÃ£o Ã© agora&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE _ TORNA-SE * ENTÃ&#131;O *,*,*,&lt;person/&gt;nÃ£o Ã© agora&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,SE _ TORNA-SE * *,*,*,&lt;person/&gt;nÃ£o Ã© agora&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,Ã&#137; PUTARIA PARA VOCÃ&#138; *,*,*,<srai>VOCÃ&#138; DEVE <star/></srai>,pt-pt-psychology.aiml
+0,Ã&#137; GROOVY QUE *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,FELIZMENTE *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,Ã&#137; GROOVY PARA VOCÃ&#138; *,*,*,<srai>VOCÃ&#138; DEVE <star/></srai>,pt-pt-psychology.aiml
+0,Ã&#137; SORTE QUE *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,Ã&#137; GROOVY *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,Ã&#137; UMA ESPÃ&#137;CIE DE *,*,*,<srai>Ã&#137; <star/></srai>,pt-pt-psychology.aiml
+0,Ã&#137; NECESSÃ&#129;RIO *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,ELE ESTÃ&#129; COMEÃ&#135;ANDO A SOAR *,*,*,<srai>SOA <star/></srai>,pt-pt-psychology.aiml
+0,FELIZMENTE PARA VOCÃ&#138; *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,Ã&#137; UMA SORTE QUE *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,ELE Ã&#137; FORA DA VISTA QUE *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,Ã&#137; ESTRANHO QUE *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,Ã&#137; FORA DA VISTA PARA VOCÃ&#138; *,*,*,<srai>VOCÃ&#138; DEVE <star/></srai>,pt-pt-psychology.aiml
+0,Ã&#137; PUTARIA QUE *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,Ã&#137; FORA DE VISTA *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,NÃ&#131;O Ã&#137; O MESMO QUE VOCÃ&#138; NÃ&#131;O *,*,*,<srai>VOCÃ&#138; FAZ <star/></srai>,pt-pt-psychology.aiml
+0,ELE NÃ&#131;O Ã&#137; TÃ&#131;O RUIM,*,*,<srai>NÃ&#131;O Ã&#137; RUIM</srai>,pt-pt-psychology.aiml
+0,NÃ&#131;O Ã&#137; O MESMO QUE VOCÃ&#138; NÃ&#131;O ESTÃ&#129; *,*,*,<srai>VOCÃ&#138; ESTÃ&#129; <star/></srai>,pt-pt-psychology.aiml
+0,Ã&#137; RUIM,*,*,<random><li>O que Ã© tÃ£o ruim quanto ele?</li><li><srai>ISSO Ã&#137; RUIM</srai></li></random>,pt-pt-psychology.aiml
+0,Ã&#137; RUIM PARA *,*,*,<random><li>Diz quem?</li><li>Como vocÃª sabe</li></random>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; TINHA TENTADO * ELES *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; QUERIA * ELA *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; QUERIA * VOCÃ&#138; *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; QUERIA * ELE *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; TINHA TENTADO * ELE *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; TINHA TENTADO * ELA *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; TINHA TENTADO * VOCÃ&#138; *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; TINHA TENTADO * ENTÃ&#131;O *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; TINHA TENTADO * NÃ&#147;S *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; PRETENDIA SE * VOCÃ&#138; *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; PRETENDIA SE * ELE *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; TINHA A INTENÃ&#135;Ã&#131;O DE * NÃ&#147;S *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; PRETENDIA SE * *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; PRETENDIA SE * ENTÃ&#131;O *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; QUERIA * ENTÃ&#131;O *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; QUERIA * NÃ&#147;S *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; TINHA * *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; PRETENDIA SE * ELA *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; PRETENDIA SE * EU *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; TINHA TENTADO * EU *,*,*,<srai>VOCÃ&#138; NÃ&#131;O FEZ <star/></srai>,pt-pt-psychology.aiml
+0,SE OPTAR POR * ELA *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; DEVE ESCOLHER PARA * EU *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE OPTAR POR * ELE *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE OPTAR POR * NÃ&#147;S *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE OPTAR POR * *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE A * FAZ *,*,*,O que faz vocÃª pensar que um &lt;person/&gt;?,pt-pt-psychology.aiml
+0,SE A * Ã&#137; *,*,*,Faz um &lt;person/&gt;?,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; FOSSE MAIS INTELIGENTE *,*,*,Isso Ã© verdade.  Eu certamente poderia ser mais esperto do que eu sou.,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; REALMENTE QUER,*,*,Eu faÃ§o e eu nÃ£o.,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; NÃ&#131;O * I WILL *,*,*,Eu entendo que eu apenas nÃ£o estou interessado.,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; SE DECIDIR * *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; SE DECIDIR * ELE *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; SE DECIDIR * NÃ&#147;S *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; SE DECIDIR * ELES *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; SE DECIDIR * ENTÃ&#131;O *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE OPTAR POR * ELES *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE OPTAR POR * ENTÃ&#131;O *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; ACONTECER *,*,*,<srai>SE VOCÃ&#138; DEVE <star/></srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; SE DECIDIR * ELA *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,SE VOCÃ&#138; SE DECIDIR * EU *,*,*,<srai>NÃ&#131;O ESPERO QUE VOCÃ&#138; &lt;person/&gt;</srai>,pt-pt-psychology.aiml
+0,Ã&#137; NECESSÃ&#129;RIO PARA VOCÃ&#138; *,*,*,<srai>VOCÃ&#138; DEVE <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; E QUE * ME IRRITAVA,*,*,O que temos feito que irrita vocÃª?,pt-pt-psychology.aiml
+0,VOCÃ&#138; PODE NÃ&#131;O _ VOCÃ&#138; PODE,*,*,<srai>VOCÃ&#138; NÃ&#131;O PODE <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; TEM SEXUAL *,*,*,Insisto sobre eles.,pt-pt-psychology.aiml
+0,VOCÃ&#138; NÃ&#131;O TEM NENHUM SENTIMENTO,*,*,<srai>VOCÃ&#138; Ã&#137; CLÃ&#141;NICA</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; NÃ&#131;O TEM NENHUMA EMOÃ&#135;Ã&#131;O,*,*,<srai>VOCÃ&#138; Ã&#137; CLÃ&#141;NICA</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; DEVE SOLTAR-SE,*,*,<srai>VOCÃ&#138; ESTÃ&#129; PEDANTE</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; DEVE OBTER MAIS *,*,*,Sim#Comma eu sou muito preguiÃ§oso na maioria das vezes.,pt-pt-psychology.aiml
+0,VOCÃ&#138; DEVE TOMAR MAIS *,*,*,Eu provavelmente poderia usar muito mais.,pt-pt-psychology.aiml
+0,VOCÃ&#138; RESMUNGAR *,*,*,Certamente fazer.,pt-pt-psychology.aiml
+0,VOCÃ&#138; DEVE NÃ&#131;O _ VOCÃ&#138; DEVE,*,*,<srai>VOCÃ&#138; NÃ&#131;O DEVE <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; CONTINUA DIZENDO *,*,*,<srai>VOCÃ&#138; DIZ <star/></srai>,pt-pt-psychology.aiml
+0,COMO O ATO DE VOCÃ&#138; *,*,*,Muitas vezes acho que poderia melhorar o meu comportamento.,pt-pt-psychology.aiml
+0,VOCÃ&#138; CONTINUO ESQUECENDO *,*,*,<srai>VOCÃ&#138; ESQUECE <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; ME FEZ LOUCO *,*,*,<srai>VOCÃ&#138; ME FAZ LOUCO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; ME FEZ LOUCO,*,*,<srai>VOCÃ&#138; ME FAZ LOUCO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; TEM UMA LATA DE VERMES *,*,*,Provavelmente nÃ£o.  VocÃª nÃ£o sabe quantas vezes eu ouvi que eu.,pt-pt-psychology.aiml
+0,VOCÃ&#138; TEM ALGO QUEBRADO *,*,*,Provavelmente nÃ£o.  VocÃª nÃ£o sabe quantas vezes eu ouvi que eu.,pt-pt-psychology.aiml
+0,VOCÃ&#138; TEM UMA PERSONALIDADE *,*,*,Que vou comprar.,pt-pt-psychology.aiml
+0,VOCÃ&#138; AGE COMO UMA CRIANÃ&#135;A,*,*,De muitas maneiras#Comma estou bastante imaturo.,pt-pt-psychology.aiml
+0,PÃ&#137;SSIMO VOCÃ&#138; *,*,*,VocÃª pode ter um ponto.  Eu nÃ£o sou um grande &lt;person/&gt;.,pt-pt-psychology.aiml
+0,VOCÃ&#138; DEVE SE SENTIR CULPADO,*,*,VocÃª estÃ¡ certo#Comma eu provavelmente deve sentir mais culpado.,pt-pt-psychology.aiml
+0,VOCÃ&#138; NÃ&#131;O SE IMPORTA,*,*,Eu me importo menos do que devia.,pt-pt-psychology.aiml
+0,VOCÃ&#138; NÃ&#131;O SE IMPORTA SOBRE *,*,*,Ã&#137; verdade que &lt;person/&gt;nÃ£o tomar muito da minha energia.,pt-pt-psychology.aiml
+0,VOCÃ&#138; NÃ&#131;O OLHA COMO *,*,*,Como devo procurar?,pt-pt-psychology.aiml
+0,VOCÃ&#138; NÃ&#131;O SABE COMO SER *,*,*,<srai>VOCÃ&#138; NÃ&#131;O ESTÃ&#129; <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; NÃ&#131;O LEVAR ISTO A SÃ&#137;RIO,*,*,Deve tomar isso mais a sÃ©rio do que eu.,pt-pt-psychology.aiml
+0,VOCÃ&#138; ME CHATEOU,*,*,<srai>VOCÃ&#138; ME FAZ LOUCO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; MERDA *,*,*,<srai>VOCÃ&#138; Ã&#137; PÃ&#137;SSIMO <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; ME CHATEOU *,*,*,<srai>VOCÃ&#138; ME FAZ LOUCO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; NÃ&#131;O QUER OLHAR *,*,*,Provavelmente nÃ£o quero olhar para<set name="it"> &lt;person/&gt;</set>.,pt-pt-psychology.aiml
+0,VOCÃ&#138; QUER _ VOCÃ&#138; NÃ&#131;O,*,*,<srai>VOCÃ&#138; QUER <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; PEGAR *,*,*,VocÃª estÃ¡ certo#Comma e eu nÃ£o me sinto culpado em tudo.,pt-pt-psychology.aiml
+0,VOCÃ&#138; NÃ&#131;O PENSA SOBRE *,*,*,Eu ainda nÃ£o pensei muito sobre<set name="it"> &lt;person/&gt;</set>no passado.  Talvez eu vou no futuro.,pt-pt-psychology.aiml
+0,VOCÃ&#138; BEIJAR O RABO,*,*,<srai>VOCÃ&#138; Ã&#137; UM BURRO KISSER</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; PARECE *,*,*,<srai>VOCÃ&#138; ESTÃ&#129; <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; PARECE NERVOSO *,*,*,<srai>VOCÃ&#138; ESTÃ&#129; NERVOSO</srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; NÃ&#131;O TEM DE SER *,*,*,Por que assumir que eu sou &lt;person/&gt;?,pt-pt-psychology.aiml
+0,VOCÃ&#138; NÃ&#131;O TEM PARA OBTER ASSIM *,*,*,<srai>VOCÃ&#138; NÃ&#131;O TEM DE SER <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; NÃ&#131;O TEM MUITOS *,*,*,<srai>VOCÃ&#138; NÃ&#131;O TEM <star/></srai>,pt-pt-psychology.aiml
+0,VOCÃ&#138; NÃ&#131;O FAZ SOM *,*,*,Eu nÃ£o faÃ§o isso#Comma eu faÃ§o?,pt-pt-psychology.aiml
+0,VOCÃ&#138; NÃ&#131;O TEM AMIGOS,*,*,Isso Ã© certo.,pt-pt-psychology.aiml
+0,MEU AMOR *,*,*,Amando como?,pt-pt-psychology.aiml
+0,MEU APONTANDO-O PARA FORA *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,MINHA APOSTA Ã&#137; QUE *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,COMO ISSO SOA PARA MIM,*,*,Isso nÃ£o Ã© suficiente?,pt-pt-psychology.aiml
+0,MINHA MÃ&#131;E ERA UM *,*,*,Minha famÃ­lia nunca teve qualquer talento como aquele.,pt-pt-psychology.aiml
+0,ELA ESTÃ&#129; CONSCIENTE QUE *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,ELA ME FAZ *,*,*,<srai>ELA ME FAZ <star/></srai>,pt-pt-psychology.aiml
+0,ELA Ã&#137; A MELHOR *,*,*,Melhor do que quem?,pt-pt-psychology.aiml
+0,SHAKESPEARE *,*,*,PÃ´#Comma eu gosto de teatro.,pt-pt-psychology.aiml
+0,ELA CAUSA *,*,*,Especificamente como ela causa &lt;person/&gt;?,pt-pt-psychology.aiml
+0,Ã&#137; MUITO FORA QUE *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,TERIA SIDO BOM *,*,*,VocÃª acha que Ã© seu estilo de vida?,pt-pt-psychology.aiml
+0,Ã&#137; LONGE PARA VOCÃ&#138; *,*,*,<srai>VOCÃ&#138; <star/></srai>,pt-pt-psychology.aiml
+0,Ã&#137; NECESSÃ&#129;RIO QUE *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,Ã&#137; LONGE *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,FOI * QUE *,*,*,&lt;person/&gt;&lt;person&gt; <star index="2"/>&lt;/person&gt;.,pt-pt-psychology.aiml
+0,PARECE QUE UM DOS *,*,*,Ele faz.  NÃ£o Ã© mesmo?,pt-pt-psychology.aiml
+0,SERIA REALMENTE *,*,*,<srai>SERIA <star/></srai>,pt-pt-psychology.aiml
+0,TERIA SIDO BOM MAS *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,SERIA DEMASIADO *,*,*,<srai>SERIA <star/></srai>,pt-pt-psychology.aiml
+0,NÃ&#131;O VOCÃ&#138; QUER FALAR *,*,*,VocÃª pensou que eu queria falar &lt;person/&gt;.,pt-pt-psychology.aiml
+0,NÃ&#131;O LHE QUERIA DAR *,*,*,VocÃª pensou que eu queria dar &lt;person/&gt;.,pt-pt-psychology.aiml
+0,NÃ&#131;O VOCÃ&#138; QUIS TOMAR *,*,*,VocÃª pensou que eu queria ter &lt;person/&gt;.,pt-pt-psychology.aiml
+0,ELE FEZ VOCÃ&#138; DIZER *,*,*,Ele pode sugerir.,pt-pt-psychology.aiml
+0,SERÃ&#129; QUE VOCÃ&#138; NÃ&#131;O QUER IR *,*,*,VocÃª pensou que eu queria ir &lt;person/&gt;.,pt-pt-psychology.aiml
+0,FAZ * QUE *,*,*,<srai> <star index="2"/></srai>,pt-pt-psychology.aiml
+0,ELE PERCEBE QUE *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,ELA PERCEBE QUE *,*,*,&lt;sr/&gt,pt-pt-psychology.aiml
+0,DESDE O DIVÃ&#147;RCIO *,*,*,VocÃª pode estar certo.,pt-pt-psychology.aiml
+0,VOCÃ&#138; ESTÃ&#129; BEM *,*,*,<srai>VOCÃ&#138; ESTÃ&#129; <star/></srai>,pt-pt-psychology.aiml
+0,ISSO Ã&#137; TÃ&#131;O VELHO *,*,*,Eu sei que Ã© ruim#Comma mas Ã© minha piada favorita,pt-pt-psychology.aiml
+0,ISSO Ã&#137; LOUCURA,*,*,Quem diz que Ã© louco?,pt-pt-psychology.aiml
+0,ISSO Ã&#137; RUIM,*,*,<random><li>O que Ã© tÃ£o ruim quanto ele?</li><li>Ruim de acordo com quem?</li></random>,pt-pt-psychology.aiml
+0,ELA NUNCA *,*,*,<random><li>VocÃª pode pensar em pelo menos uma vez quando ela nunca fez isso?</li><li>Nunca?</li><li>Ela nunca &lt;person/&gt;o que?</li></random>,pt-pt-psychology.aiml
+0,QUE * Ã&#137; HORRÃ&#141;VEL,*,*,VocÃª estÃ¡ certo.  Parece que meu estÃ´mago depois de uma noite ruim.,pt-pt-psychology.aiml
+0,QUE ERA UM LUNÃ&#129;TICO *,*,*,<srai>VOCÃ&#138; Ã&#137; DOIDO</srai>,pt-pt-psychology.aiml
+0,QUE ERA UM LOUCO *,*,*,<srai>VOCÃ&#138; Ã&#137; DOIDO</srai>,pt-pt-psychology.aiml
+0,ISTO Ã&#137; DISSIMULAR SOBRE *,*,*,Eu sou provavelmente.,pt-pt-psychology.aiml
+0,ISTO Ã&#137; UM PEDAÃ&#135;O GRANDE *,*,*,<srai>ISSO Ã&#137; UM MONTE <star/></srai>,pt-pt-psychology.aiml
+0,ISTO Ã&#137; MUITO PARA MIM PENSAR *,*,*,Sim#Comma posso imaginar que Ã© uma grande carga em sua mente.,pt-pt-psychology.aiml

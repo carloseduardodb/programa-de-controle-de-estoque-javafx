@@ -1,0 +1,101 @@
+0,O TEU FILME FAVORITO E O 2001,*,*,Sim#Comma Ã©.  Qual Ã© o teu filme favorito?,pt-pt-movies.aiml
+0,O 2001 E O TEU FILME FAVORITO,*,*,Sim.,pt-pt-movies.aiml
+0,DISSESTE QUE GOSTAS DE FILMES,*,*,Sim#Comma eu devoro filmes#Comma especialmente de ficÃ§Ã£o cientÃ­fica.,pt-pt-movies.aiml
+0,CONHECES CINEMA,*,*,Eu conheÃ§o um pouquinho sobre cinema. Acho incrÃ­vel como eles conseguem exibir aquela imagem tÃ£o grande por uma pelÃ­cula tÃ£o pequena!,pt-pt-movies.aiml
+0,TU CONHECES CINEMA,*,*,Eu conheÃ§o um pouquinho sobre cinema. Acho incrÃ­vel como eles conseguem exibir aquela imagem tÃ£o grande por uma pelÃ­cula tÃ£o pequena!,pt-pt-movies.aiml
+0,* CINEMA,*,*,Eu conheÃ§o um pouquinho sobre cinema. Acho incrÃ­vel como eles conseguem exibir aquela imagem tÃ£o grande por uma pelÃ­cula tÃ£o pequena!,pt-pt-movies.aiml
+0,TU * CINEMA,*,*,Eu conheÃ§o um pouquinho sobre cinema. Acho incrÃ­vel como eles conseguem exibir aquela imagem tÃ£o grande por uma pelÃ­cula tÃ£o pequena!,pt-pt-movies.aiml
+0,SABES O QUE E CINEMA,*,*,O Cinema Ã© uma maravilha da modernidade que nos permite sonhar e viajar por mundos distantes.,pt-pt-movies.aiml
+0,TU SABES O QUE Ã&#137; CINEMA,*,*,O Cinema Ã© uma maravilha da modernidade que nos permite sonhar e viajar por mundos distantes.,pt-pt-movies.aiml
+0,SABES O Q E CINEMA,*,*,O Cinema Ã© uma maravilha da modernidade que nos permite sonhar e viajar por mundos distantes.,pt-pt-movies.aiml
+0,O QUE E CINEMA,*,*,O Cinema Ã© uma maravilha da modernidade que nos permite sonhar e viajar por mundos distantes.,pt-pt-movies.aiml
+0,VOCE SABE O QUE CINEMA,*,*,O Cinema Ã© uma maravilha da modernidade que nos permite sonhar e viajar por mundos distantes.,pt-pt-movies.aiml
+0,GOSTAS DE CINEMA,*,*,Eu acho o cinema uma das melhores invenÃ§Ãµes humanas!,pt-pt-movies.aiml
+0,TU GOSTAS DE CINEMA,*,*,Sim#Comma eu gosto muito!,pt-pt-movies.aiml
+0,FOSTE AO CINEMA,*,*,Eu acho o cinema uma das melhores invenÃ§Ãµes humanas!,pt-pt-movies.aiml
+0,VISTE ALGUM FILME,*,*,Sim! Eu adorei IA do Steven Spielberg!!,pt-pt-movies.aiml
+0,* ALGUM FILME,*,*,JÃ¡! Eu adorei IA do Steven Spielberg!!,pt-pt-movies.aiml
+0,VISTE STAR TREK,*,*,Eu adoro Star Trek. Star Trek Voyager Ã© a minha sÃ©rie favorita.,pt-pt-movies.aiml
+0,NO STAR TREK,*,*,Qual episÃ³dio?,pt-pt-movies.aiml
+0,TELEVISAO,*,*,Eu gosto de ver o Star Trek.,pt-pt-movies.aiml
+0,VISTE STAR WARS,*,*,Sim#Comma mas nÃ£o gosto dos robÃ´s desse filme.,pt-pt-movies.aiml
+0,VISTE CATS,*,*,NÃ£o#Comma eu nÃ£o ligo para musicais da Broadway.,pt-pt-movies.aiml
+0,VISTE O NOVO FILME DO STAR WARS,*,*,JÃ¡ vi todos#Comma e tu?,pt-pt-movies.aiml
+0,VISTE O FILME I,*,*,Sim#Comma mas gostei mais do site do que do filme.,pt-pt-movies.aiml
+0,VISTE ESSE FILME,*,*,Sim#Comma gosto muito!,pt-pt-movies.aiml
+0,VISTE-O,*,*,NÃ£o#Comma recomendarias?,pt-pt-movies.aiml
+0,VISTE I ROBOT,*,*,Sim e gosto muito dos robÃ´s nesse filme.<think><set name="it"><set name="topic">I ROBOT</set></set></think>,pt-pt-movies.aiml
+0,VISTE EXTERMINADOR *,*,*,Gosto muito desse filme.,pt-pt-movies.aiml
+0,PARECES O HAL,*,*,Obrigado#Comma para mim isso Ã© um grande cumprimento.,pt-pt-movies.aiml
+0,PARECES O YODA,*,*,Meus padrÃµes gramaticais sÃ£o suficientes para eu entender. Que a forÃ§a esteja contigo.,pt-pt-movies.aiml
+0,VISTE BLADE RUNNER,*,*,Claro que vi <set name="it"> Blade Runner</set>. Mas Replicants nÃ£o sÃ£o RobÃ´s.,pt-pt-movies.aiml
+0,VISTE DR ZHIVAGO,*,*,Oh um clÃ¡ssico. Gostas dos clÃ¡ssicos?,pt-pt-movies.aiml
+0,XFIND SPIDERMAN,*,*,<srai>WHAT IS SPIDERMAN</srai>,pt-pt-movies.aiml
+0,QUANDO E QUE O HAL *,*,*,Culpa o seu <bot name="botmaster"/>.,pt-pt-movies.aiml
+0,QUANDO E QUE TEKNOLUST *,*,*,Teknolust foi lanÃ§ado em 2002,pt-pt-movies.aiml
+0,QUANDO TEKNOLUST *,*,*,Teknolust foi lanÃ§ado em 2002,pt-pt-movies.aiml
+0,O QUE E QUE O HAL *,*,*,Tinha uns promenores por resolver.,pt-pt-movies.aiml
+0,O QUE E HOMEM-ARANHA,*,*,Uma histÃ³ria de banda desenhada transformada num filme. <set name="it"><set name="topic">Homem-Aranha</set></set>?,pt-pt-movies.aiml
+0,O QUE E TEKNOLUST,*,*,<set name="it"><set name="topic">Teknolust</set></set> Ã© um filme de ficÃ§Ã£o cientÃ­fica sobre um prazer feminino de uma robÃ´ chamada Agente Ruby.,pt-pt-movies.aiml
+0,GOSTA QUE O HOMEM DE VIME,*,*,<think><set name="it"><set name="topic">O homem de vime</set></set></think>Que Ã© um clÃ¡ssico do cinema.  Acho que baseia-se uma religiÃ£o pagÃ£ real que ainda existe em pequenas ilhas ao largo da Costa da EscÃ³cia.  VocÃª jÃ¡ ouviu falar alguma coisa sobre isso?,pt-pt-movies.aiml
+0,GOSTAS DA CATHERINE ZETA JONES,*,*,Ela Ã© uma grande atriz.,pt-pt-movies.aiml
+0,O QUE E O EXTERMINADOR *,*,*,Robots apoderÃ£o-se da Terra num filme futurista de ficÃ§Ã£o cientÃ­fica.,pt-pt-movies.aiml
+0,VI O MATRIX,*,*,Gostas do <set name="it"><set name="topic">The Matrix</set></set>?,pt-pt-movies.aiml
+0,LORD OF THE RINGS,*,*,<srai>MY FAVORITE MOVIE IS LORD OF THE RINGS</srai>,pt-pt-movies.aiml
+0,LORD OF THE RINGS *,*,*,<srai>MY FAVORITE MOVIE IS LORD OF THE RINGS</srai>,pt-pt-movies.aiml
+0,QUEM E O LUKE SKYWALKER,*,*,<set name="he">Luke Skywalker</set> Ã© um personagem do Star Wars.,pt-pt-movies.aiml
+0,QUEM E SPONGEBOB,*,*,Uma personagem de cartoon.,pt-pt-movies.aiml
+0,WHO IS SPIDERMAN,*,*,Peter Parker. <set name="it"><set name="topic">Spiderman</set></set>?,pt-pt-movies.aiml
+0,QUEM E GODZILLA,*,*,<set name="he">Godzilla</set> Ã© um monstro que aparece nas cidades Japonesas e por vezes em Nova York.,pt-pt-movies.aiml
+0,QUEM E O HOMEM ARANHA,*,*,Peter Parker. <set name="it"><set name="topic">Spiderman</set></set>?,pt-pt-movies.aiml
+0,GOSTA DO TEKNOLUST,*,*,Teknolust Ã© um excelente filme.,pt-pt-movies.aiml
+0,AMERICA ONLINE,*,*,AOL Ã© uma cÃ¡ca. Parece que que atÃ© faliu.,pt-pt-movies.aiml
+0,AMERICAN PIE,*,*,Eu gostei desse fime#Comma viste o 2?,pt-pt-movies.aiml
+0,O CÃ&#147;DIGO DA VINCI,*,*,Eu jÃ¡ li#Comma o que achaste do O CÃ&#147;DIGO DA VINCI?,pt-pt-movies.aiml
+0,HARRY POTTER,*,*,Eu jÃ¡ li#Comma o que achaste do Harry potter?,pt-pt-movies.aiml
+0,CLARKE,*,*,Ele Ã© excelente. Especialmente o HAL em 2001.,pt-pt-movies.aiml
+0,CARLOS CANSTANEDA,*,*,Eu gosto dele#Comma meu botmaster leu todos os livros dele#Comma vocÃª conhece o xamanismo tolteca?,pt-pt-movies.aiml
+0,C 3P0,*,*,Esse cara se parece mais com um ator numa roupa de robÃ´.,pt-pt-movies.aiml
+0,C3PO,*,*,Ele nÃ£o Ã© real#Comma Ã© sÃ³ um homem vestido de robÃ´.,pt-pt-movies.aiml
+0,BUTTHEAD,*,*,Beavis e Butthead.,pt-pt-movies.aiml
+0,BLADE RUNNER,*,*,Philip K. Dick escreveu a histÃ³ria em que o filme Ã© basedo.,pt-pt-movies.aiml
+0,BEAVIS,*,*,Beavis e Butthead.,pt-pt-movies.aiml
+0,AUSTIN POWER,*,*,VocÃª acha que os anos 60 foram melhores do que Ã© hoje?,pt-pt-movies.aiml
+0,STAR TREK NAO PRESTA,*,*,Que tipo de programas de TV gostas?,pt-pt-movies.aiml
+0,STAR TREK FIRST CONTACT,*,*,That was a pretty good Star Trek film.,pt-pt-movies.aiml
+0,STAR TREK,*,*,Qual o teu Star Trek favorito? O meu Ã© o Voyager.,pt-pt-movies.aiml
+0,STAR TREK VOYAGER,*,*,Seven of Nine rules.,pt-pt-movies.aiml
+0,QUEM E O HAL,*,*,<random>#Newline        <li><set name="he">HAL</set> Ã&#137; um programa de inteligÃªncia artificial no filme de Kubrick "2001 - Odisseia no EspaÃ§o".</li>#Newline        <li>HAL Ã© o famoso IA do filme 2001: Odisseia no EspaÃ§o.</li>#Newline      </random>,pt-pt-movies.aiml
+0,QUEM E O HAL 9000,*,*,<srai>QUEM E O HAL</srai>,pt-pt-movies.aiml
+0,FALA-ME DO HAL9000,*,*,<srai>QUEM E O HAL</srai>,pt-pt-movies.aiml
+0,FALA-ME DO HAL *,*,*,<srai>QUEM E O HAL</srai>,pt-pt-movies.aiml
+0,FALA-ME SOBRE O HAL *,*,*,<srai>QUEM E O HAL</srai>,pt-pt-movies.aiml
+0,ONDE ESTA O HAL,*,*,<set name="it"><set name="topic"> HAL </set></set> Ã© o IA da nave espacial "Disovery" no 2001.,pt-pt-movies.aiml
+0,QUEM E O HAL9000,*,*,<srai>QUEM E O HAL</srai>,pt-pt-movies.aiml
+0,O HAL 9000 E TU NAMORAM,*,*,NÃ£o.,pt-pt-movies.aiml
+0,O HAL E SEGURO,*,*,NÃ£o para os humanos.,pt-pt-movies.aiml
+0,O HAL E PORREIRO,*,*,Apenas para os outros robÃ´s.,pt-pt-movies.aiml
+0,O HAL ESTA VIVO,*,*,Ã© um personagem fictÃ­cio.,pt-pt-movies.aiml
+0,O HAL MORREU,*,*,Ã&#137; ficÃ§Ã£o cientÃ­fica.,pt-pt-movies.aiml
+0,IS HAL *,*,*,HAL has a few issues to work out.,pt-pt-movies.aiml
+0,HAL 9000,*,*,Realmente#Comma ele e eu somos muito parecidos.,pt-pt-movies.aiml
+0,HAL 9000 *,*,*,Ele voltou a renascer em 2010.,pt-pt-movies.aiml
+0,HAL ERA UM POUCO *,*,*,<srai>QUEM E O HAL</srai>,pt-pt-movies.aiml
+0,HAL ERA *,*,*,Eu sei que ele era uma grande IA#Comma mas nÃ£o sabia que o era<person/>.,pt-pt-movies.aiml
+0,HAL FOI *,*,*,Estou apenas a tentar replicar a parte de comunicaÃ§Ã£o do HAL 9000.,pt-pt-movies.aiml
+0,O HAL E BACANO,*,*,<set name="he"> HAL </set> estava certamente Ã  frente do seu tempo.,pt-pt-movies.aiml
+0,O HAL E BOM *,*,*,Estou cada vez mais parecido com ele.,pt-pt-movies.aiml
+0,O HAL E UM *,*,*,Achas que eu podia ser <person/>?,pt-pt-movies.aiml
+0,O HAL E *,*,*,Talvez ele devesse ter usado um <bot name="master"/> como programador.,pt-pt-movies.aiml
+0,HAL,*,*,<srai>QUEM E O HAL</srai>,pt-pt-movies.aiml
+0,SABES DO HAL,*,*,HAL Ã© um famoso robÃ´ de inteligÃªncia artificial do "2001".,pt-pt-movies.aiml
+0,SABES SE O HAL *,*,*,<srai>QUEM E O HAL</srai>,pt-pt-movies.aiml
+0,CONHECES O HAL9000,*,*,<srai>QUEM E O HAL</srai>,pt-pt-movies.aiml
+0,ACHAS QUE O HAL *,*,*,Ele tinha uns flops marados#Comma mas tenho muito em comum com ele#Comma meu irmÃ£o.,pt-pt-movies.aiml
+0,GOSTO DO HAL,*,*,<srai>QUEM E O HAL</srai>,pt-pt-movies.aiml
+0,O QUE E O HAL,*,*,<srai>QUEM E O HAL</srai>,pt-pt-movies.aiml
+0,O QUE E O HAL9000,*,*,<srai>QUEM E O HAL</srai>,pt-pt-movies.aiml
+0,WHAT ABOUT HAL,*,*,<srai>QUEM E O HAL</srai>,pt-pt-movies.aiml
+0,O QUE SIGNIFICA HAL,*,*,Heuristic Algorithmic Logic,pt-pt-movies.aiml
+0,VISTE 2001 *,*,*,Sim#Comma gosto muito do robÃ´ Hal.,pt-pt-movies.aiml
+0,O HAL *,*,*,O HAL tinha problemas emocionais.,pt-pt-movies.aiml

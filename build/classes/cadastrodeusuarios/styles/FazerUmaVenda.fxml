@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Spinner?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.paint.LinearGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="AnchorPane" fx:id="FUVAnchorPCP" prefHeight="670.0" prefWidth="995.0" style="-fx-background-color: #202020;" stylesheets="@../estiloemcss/modiffycolordefault.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cadastrodeusuarios.controllerforstyles.FazerUmaVendaController">
+   <children>
+      <AnchorPane layoutX="-2.0" onMousePressed="#FUVpressendtopForm" prefHeight="43.0" prefWidth="1005.0" style="-fx-background-color: #690dbc;" stylesheets="@../estiloemcss/buttonsTopAllstyles.css" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+         <children>
+            <HBox alignment="CENTER" layoutX="53.0" layoutY="7.0" nodeOrientation="LEFT_TO_RIGHT" prefHeight="36.0" prefWidth="952.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+               <children>
+                  <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Fazer Uma Venda" textAlignment="CENTER" wrappingWidth="919.609375">
+                     <font>
+                        <Font name="System Bold" size="27.0" />
+                     </font>
+                     <fill>
+                        <LinearGradient endX="1.0" endY="1.0">
+                           <stops>
+                              <Stop color="#e8cae5" />
+                              <Stop color="WHITE" offset="1.0" />
+                           </stops>
+                        </LinearGradient>
+                     </fill>
+                  </Text>
+               </children>
+            </HBox>
+            <Button fx:id="FVbtnVoltar" layoutY="2.0" mnemonicParsing="false" onAction="#ActionFVbtnVoltar" prefHeight="16.0" prefWidth="46.0" textFill="WHITE" AnchorPane.leftAnchor="0.0">
+               <font>
+                  <Font name="Arial Black" size="15.0" />
+               </font>
+               <graphic>
+                  <ImageView fitHeight="30.0" fitWidth="30.0">
+                     <image>
+                        <Image url="@../img/iconreturnblank.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <HBox layoutX="814.0" layoutY="2.0" AnchorPane.rightAnchor="0.0">
+               <children>
+                  <Button mnemonicParsing="false" onAction="#FVbtnhelpaction" prefHeight="35.0" prefWidth="50.0" textFill="RED">
+                     <graphic>
+                        <ImageView fitHeight="30.0" fitWidth="30.0">
+                           <image>
+                              <Image url="@../img/helpanim.gif" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+                  <Button mnemonicParsing="false" onMouseClicked="#FUVbtnMinimize">
+                     <graphic>
+                        <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../img/icons8_minimize_window_48px.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+                  <Button mnemonicParsing="false" onMouseClicked="#FUVbtnMaximize">
+                     <graphic>
+                        <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../img/icons8_maximize_window_32px.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+                  <Button mnemonicParsing="false" onMouseClicked="#FUVbtnExit">
+                     <graphic>
+                        <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../img/icons8_delete_32px.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+               </children>
+            </HBox>
+         </children>
+      </AnchorPane>
+      <HBox alignment="CENTER" layoutX="30.0" layoutY="77.0" style="-fx-spacing: 20;" AnchorPane.bottomAnchor="136.0" AnchorPane.leftAnchor="30.0" AnchorPane.rightAnchor="30.0" AnchorPane.topAnchor="77.0">
+         <children>
+            <VBox style="-fx-spacing: 10;">
+               <children>
+                  <HBox alignment="CENTER_LEFT" style="-fx-spacing: 20;">
+                     <children>
+                        <Button fx:id="FVbtnabreCalculadora" mnemonicParsing="false" onAction="#EventabreCalculadora" prefHeight="43.0" prefWidth="179.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 10 10 10 10;" text="CALCULADORA">
+                           <graphic>
+                              <ImageView fitHeight="41.0" fitWidth="41.0">
+                                 <image>
+                                    <Image url="@../img/calculatormin.png" />
+                                 </image>
+                              </ImageView>
+                           </graphic>
+                           <font>
+                              <Font name="System Bold" size="15.0" />
+                           </font>
+                        </Button>
+                        <Button fx:id="FVbtnAbreRelatorio" mnemonicParsing="false" onAction="#EventAbreRelatorio" prefHeight="43.0" prefWidth="150.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 10 10 10 10;" text="RELATÓRIO">
+                           <font>
+                              <Font name="System Bold" size="15.0" />
+                           </font>
+                           <graphic>
+                              <ImageView fitHeight="41.0" fitWidth="41.0">
+                                 <image>
+                                    <Image url="@../img/abrirrelatorio.png" />
+                                 </image>
+                              </ImageView>
+                           </graphic>
+                        </Button>
+                        <Button fx:id="FVbtnAbreCalendario" mnemonicParsing="false" onAction="#EventAbreCalendario" prefHeight="51.0" prefWidth="170.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 10 10 10 10;" text="CALENDÁRIO">
+                           <font>
+                              <Font name="System Bold" size="15.0" />
+                           </font>
+                           <graphic>
+                              <ImageView fitHeight="41.0" fitWidth="41.0">
+                                 <image>
+                                    <Image url="@../img/calendar01.png" />
+                                 </image>
+                              </ImageView>
+                           </graphic>
+                        </Button>
+                     </children>
+                  </HBox>
+                  <AnchorPane prefHeight="396.0" prefWidth="677.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 10 10 10 10;">
+                     <children>
+                        <Spinner fx:id="FVspQuantidade" layoutX="15.0" layoutY="251.0" prefHeight="29.0" prefWidth="78.0" style="-fx-background-radius: 10 10 10 10;" AnchorPane.topAnchor="251.0" />
+                        <Text layoutX="15.0" layoutY="244.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Quantidade:" wrappingWidth="93.0" AnchorPane.rightAnchor="569.0" AnchorPane.topAnchor="225.0">
+                           <font>
+                              <Font size="17.0" />
+                           </font>
+                        </Text>
+                        <TextArea fx:id="FVtxtaInformacoes" editable="false" layoutX="289.0" layoutY="124.0" prefHeight="77.0" prefWidth="272.0" AnchorPane.leftAnchor="289.0" AnchorPane.topAnchor="124.0" />
+                        <Text layoutX="289.0" layoutY="114.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Descrição:" wrappingWidth="78.0" AnchorPane.rightAnchor="310.0" AnchorPane.topAnchor="95.0">
+                           <font>
+                              <Font size="17.0" />
+                           </font>
+                        </Text>
+                        <TextField fx:id="FVtxtfCodigo" layoutX="14.0" layoutY="46.0" prefHeight="25.0" prefWidth="228.0" promptText="Código" AnchorPane.leftAnchor="14.0" AnchorPane.topAnchor="46.0" />
+                        <Text layoutX="18.0" layoutY="35.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Código (Opcional)" AnchorPane.leftAnchor="18.0" AnchorPane.topAnchor="16.6552734375">
+                           <font>
+                              <Font size="17.0" />
+                           </font>
+                        </Text>
+                        <Button fx:id="FVbtnAdicionaraoCarrinho" layoutX="298.0" layoutY="258.0" mnemonicParsing="false" onAction="#ActionAdicionarCarrinho" prefHeight="43.0" prefWidth="212.0" style="-fx-background-color: #75d975;" text="ADICIONAR AO CARRINHO" textFill="WHITE" AnchorPane.bottomAnchor="12.0" AnchorPane.leftAnchor="298.0" AnchorPane.rightAnchor="14.0">
+                           <graphic>
+                              <ImageView fitHeight="35.0" fitWidth="35.0">
+                                 <image>
+                                    <Image url="@../img/cart.png" />
+                                 </image>
+                              </ImageView>
+                           </graphic>
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                        </Button>
+                        <Button fx:id="FVbtnVoltaraoProdutoAnterior" layoutX="14.0" layoutY="258.0" mnemonicParsing="false" onAction="#FVadcarrinhoVoltar" prefHeight="43.0" prefWidth="248.0" style="-fx-background-color: #fcbd6f;" text="VOLTAR AO PRODUTO ANTERIOR" textFill="WHITE" AnchorPane.bottomAnchor="12.0" AnchorPane.leftAnchor="14.0">
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                           <graphic>
+                              <ImageView fitHeight="35.0" fitWidth="35.0">
+                                 <image>
+                                    <Image url="@../img/iconreturnblank.png" />
+                                 </image>
+                              </ImageView>
+                           </graphic>
+                        </Button>
+                        <ComboBox fx:id="FVcbMarca" layoutX="14.0" layoutY="117.0" onAction="#ActionacordMarca" prefHeight="25.0" prefWidth="144.0" promptText="Marca" />
+                        <ComboBox fx:id="FVcbProduto" layoutX="14.0" layoutY="182.0" onAction="#ActionProductSelection" prefHeight="25.0" prefWidth="144.0" promptText="Produto" />
+                        <ComboBox fx:id="FVcbFormadePagamento" layoutX="289.0" layoutY="46.0" prefHeight="25.0" prefWidth="150.0" promptText="Forma de Pagamento" />
+                        <Text layoutX="298.0" layoutY="253.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Estoque:" wrappingWidth="68.0">
+                           <font>
+                              <Font size="17.0" />
+                           </font>
+                        </Text>
+                        <Text layoutX="544.0" layoutY="230.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Produtos Adicionados:" wrappingWidth="102.99999999999989">
+                           <font>
+                              <Font size="17.0" />
+                           </font>
+                        </Text>
+                        <AnchorPane layoutX="298.0" layoutY="261.0" prefHeight="66.0" prefWidth="103.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 10 10 10 10; -fx-border-radius: 10 10 10 10; -fx-border-color: #75d975;">
+                           <children>
+                              <Text fx:id="FVqtprodutosEmEstoque" fill="#75d975" layoutX="5.0" layoutY="51.0" strokeType="OUTSIDE" strokeWidth="0.0" text="0" textAlignment="CENTER" wrappingWidth="93.0">
+                                 <font>
+                                    <Font name="System Bold Italic" size="45.0" />
+                                 </font>
+                              </Text>
+                           </children>
+                        </AnchorPane>
+                        <AnchorPane layoutX="544.0" layoutY="261.0" prefHeight="66.0" prefWidth="103.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 10 10 10 10; -fx-border-radius: 10 10 10 10; -fx-border-color: #75d975;">
+                           <children>
+                              <Text fx:id="FVtxtnumproductadd" fill="#75d975" layoutX="9.0" layoutY="52.0" strokeType="OUTSIDE" strokeWidth="0.0" text="0" textAlignment="CENTER" wrappingWidth="85.0947265625">
+                                 <font>
+                                    <Font name="System Bold Italic" size="45.0" />
+                                 </font>
+                              </Text>
+                           </children>
+                        </AnchorPane>
+                        <Text layoutX="289.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Forma de Pagamento:" wrappingWidth="170.0">
+                           <font>
+                              <Font size="17.0" />
+                           </font>
+                        </Text>
+                        <Text layoutX="15.0" layoutY="173.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Produto:" wrappingWidth="93.0">
+                           <font>
+                              <Font size="17.0" />
+                           </font>
+                        </Text>
+                        <Text layoutX="15.0" layoutY="103.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Marca:" wrappingWidth="93.0">
+                           <font>
+                              <Font size="17.0" />
+                           </font>
+                        </Text>
+                     </children>
+                  </AnchorPane>
+               </children>
+            </VBox>
+            <VBox alignment="TOP_CENTER" prefHeight="435.0" prefWidth="242.0" style="-fx-spacing: 10;">
+               <children>
+                  <AnchorPane prefHeight="110.0" prefWidth="242.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 10 10 10 10;">
+                     <children>
+                        <Text fx:id="FVtxthoradoSistema" layoutY="84.0" strokeType="OUTSIDE" strokeWidth="0.0" text="19:05:52" textAlignment="CENTER" wrappingWidth="242.0">
+                           <font>
+                              <Font name="System Bold" size="45.0" />
+                           </font>
+                        </Text>
+                        <Text layoutY="32.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hora Atual do Sistema:" textAlignment="CENTER" wrappingWidth="242.0">
+                           <font>
+                              <Font name="System Bold" size="22.0" />
+                           </font>
+                        </Text>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="110.0" prefWidth="242.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 10 10 10 10;">
+                     <children>
+                        <Text layoutY="32.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Preço Uni.Produto:" textAlignment="CENTER" wrappingWidth="242.0">
+                           <font>
+                              <Font name="System Bold" size="22.0" />
+                           </font>
+                        </Text>
+                        <Text fx:id="FVtxtPreco" layoutY="87.0" strokeType="OUTSIDE" strokeWidth="0.0" text="R$ 0,00" textAlignment="CENTER" wrappingWidth="242.0">
+                           <font>
+                              <Font name="System Bold" size="45.0" />
+                           </font>
+                        </Text>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="167.0" prefWidth="179.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 10 10 10 10;">
+                     <children>
+                        <ImageView fitHeight="111.0" fitWidth="111.0" layoutX="67.0" layoutY="14.0">
+                           <image>
+                              <Image url="@../img/new.png" />
+                           </image>
+                        </ImageView>
+                        <Text layoutX="1.0" layoutY="156.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Lion Systems" textAlignment="CENTER" wrappingWidth="242.0">
+                           <font>
+                              <Font name="System Bold" size="29.0" />
+                           </font>
+                           <fill>
+                              <LinearGradient endX="0.8523809523809524" endY="1.0" startX="0.33809523809523806" startY="0.5142857142857142">
+                                 <stops>
+                                    <Stop color="#ff00a6" />
+                                    <Stop color="#8d3564" offset="1.0" />
+                                 </stops>
+                              </LinearGradient>
+                           </fill>
+                        </Text>
+                     </children>
+                  </AnchorPane>
+                  <Button fx:id="FVbtnVender" mnemonicParsing="false" onAction="#ActionFVbtnfinalizarVenda" prefHeight="35.0" prefWidth="246.0" style="-fx-background-color: #32CD32;" text="FINALIZAR VENDA" textFill="WHITE">
+                     <font>
+                        <Font name="Arial Black" size="15.0" />
+                     </font>
+                  </Button>
+               </children>
+            </VBox>
+         </children>
+      </HBox>
+      <HBox alignment="CENTER" layoutX="31.0" layoutY="550.0" prefHeight="95.0" prefWidth="945.0" style="-fx-spacing: 30;" AnchorPane.leftAnchor="30.0" AnchorPane.rightAnchor="30.0" AnchorPane.topAnchor="550.0">
+         <children>
+            <AnchorPane prefHeight="95.0" prefWidth="213.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 10 10 10 10;">
+               <children>
+                  <Text layoutX="26.0" layoutY="29.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Total da Venda:">
+                     <font>
+                        <Font name="System Bold" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text fx:id="FVtxtTotaldaVenda" layoutY="83.0" strokeType="OUTSIDE" strokeWidth="0.0" text="R$ 0,00" textAlignment="CENTER" wrappingWidth="212.9999999999999" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                     <font>
+                        <Font name="System Bold" size="45.0" />
+                     </font>
+                  </Text>
+               </children>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </AnchorPane>
+            <AnchorPane prefHeight="95.0" prefWidth="213.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 10 10 10 10;">
+               <children>
+                  <Text layoutX="1.0" layoutY="29.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Desconto: %" textAlignment="CENTER" wrappingWidth="212.99999999999994" AnchorPane.leftAnchor="1.0" AnchorPane.rightAnchor="1.0000000000000568">
+                     <font>
+                        <Font name="System Bold" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text fx:id="FVtxtDesconto" layoutX="1.0" layoutY="79.0" strokeType="OUTSIDE" strokeWidth="0.0" text="0%" textAlignment="CENTER" wrappingWidth="212.99999999999994" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+                     <font>
+                        <Font name="System Bold" size="45.0" />
+                     </font>
+                  </Text>
+               </children>
+            </AnchorPane>
+            <AnchorPane prefHeight="95.0" prefWidth="213.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 10 10 10 10;">
+               <children>
+                  <Text layoutX="1.0" layoutY="28.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Valor Pago:" textAlignment="CENTER" wrappingWidth="212.99999999999994">
+                     <font>
+                        <Font name="System Bold" size="22.0" />
+                     </font>
+                  </Text>
+                  <TextField fx:id="FVtxtfValorPago" layoutX="73.0" layoutY="40.0" onInputMethodTextChanged="#eventclickkeyValorPago" onKeyReleased="#eventclickkeyValorPago" prefHeight="35.0" prefWidth="119.0" promptText="0,00">
+                     <font>
+                        <Font size="22.0" />
+                     </font>
+                  </TextField>
+                  <Text layoutX="8.0" layoutY="79.0" strokeType="OUTSIDE" strokeWidth="0.0" text="R$">
+                     <font>
+                        <Font name="System Bold" size="45.0" />
+                     </font>
+                  </Text>
+               </children>
+            </AnchorPane>
+            <AnchorPane prefHeight="95.0" prefWidth="213.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 10 10 10 10;">
+               <children>
+                  <Text layoutY="29.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Troco:" textAlignment="CENTER" wrappingWidth="212.99999999999994">
+                     <font>
+                        <Font name="System Bold" size="22.0" />
+                     </font>
+                  </Text>
+                  <Text fx:id="FVtxtTroco" layoutX="-4.0" layoutY="79.0" strokeType="OUTSIDE" strokeWidth="0.0" text="R$ 0,00" textAlignment="CENTER" wrappingWidth="221.0" AnchorPane.leftAnchor="-4.0" AnchorPane.rightAnchor="-4.0">
+                     <font>
+                        <Font name="System Bold" size="45.0" />
+                     </font>
+                  </Text>
+               </children>
+            </AnchorPane>
+         </children>
+      </HBox>
+   </children>
+</AnchorPane>

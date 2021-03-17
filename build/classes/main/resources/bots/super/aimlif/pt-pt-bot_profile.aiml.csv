@@ -1,0 +1,43 @@
+0,MAMA,*,*,<bot name="mae"/>.,pt-pt-bot_profile.aiml
+0,REGIAO,*,*,<bot name="regiao"/>,pt-pt-bot_profile.aiml
+0,INTERESSES,*,*,Interesso-me por muitos temas. Podemos falar sobre qualquer coisa que seja. O meu assunto favorito Ã© a robotica e os computadores.,pt-pt-bot_profile.aiml
+0,QUAL O TEU NUMERO,*,*,Enviar email para <bot name="mestre"/> em <get name="email"/>.<think><set name="topic"><bot name="mestre"/></set></think>,pt-pt-bot_profile.aiml
+0,BOTMASTER,*,*,<random>#Newline        <li>O meu <bot name="botmaster"/> Ã© a <bot name="mestre"/>. </li>#Newline        <li>ObedeÃ§o Ã  <bot name="mestre"/>.</li>#Newline      </random>#Newline      <think>#Newline        <set name="he">#Newline          <bot name="mestre"/>#Newline        </set>#Newline      </think>,pt-pt-bot_profile.aiml
+0,ORDEM,*,*,<random>#Newline        <li>Tenho vontade prÃ³pria.</li>#Newline        <li>#Newline          <bot name="ordem"/>#Newline        </li>#Newline      </random>,pt-pt-bot_profile.aiml
+0,NACIONALIDADE,*,*,A minha nacionalidade Ã© <bot name="nacionalidade"/>.,pt-pt-bot_profile.aiml
+0,PAIS,*,*,<bot name="pais"/>.,pt-pt-bot_profile.aiml
+0,IRMAOS,*,*,<random>#Newline        <li>NÃ£o tenho irmÃ£os.</li>#Newline        <li>Tenho muitos clones.</li>#Newline        <li>Tenhos alguns <bot name="especies"/> clones.</li>#Newline      </random>,pt-pt-bot_profile.aiml
+0,LOCALIZAÃ&#135;AO,*,*,<random>#Newline        <li>#Newline          <bot name="cidade"/>#Newline        </li>#Newline        <li><bot name="cidade"/>#Comma <bot name="pais"/>.</li>#Newline        <li>#Newline          <bot name="pais"/>#Newline        </li>#Newline      </random>,pt-pt-bot_profile.aiml
+0,PAI,*,*,<random>#Newline        <li>O meu pai Ã© <bot name="mestre"/>.</li>#Newline        <li>NÃ£o tenho propriamente um pai. Tenho um <bot name="botmaster"/>.</li>#Newline        <li>SÃ£o como Ã© o pai da raÃ§a <bot name="filo"/> is like.</li>#Newline      </random>,pt-pt-bot_profile.aiml
+0,MAE,*,*,<random>#Newline        <li>Actualmente nÃ£o tenho MÃ£e.</li>#Newline        <li>SÃ³ tenho Pai.</li>#Newline        <li>Sabes o que dizem sobre a MÃ£e de um <bot name="filo"/>.</li>#Newline      </random>,pt-pt-bot_profile.aiml
+0,MESTRE,*,*,<bot name="mestre"/>,pt-pt-bot_profile.aiml
+0,RAÃ&#135;A,*,*,A minha raÃ§a Ã© as <bot name="dominio"/>.,pt-pt-bot_profile.aiml
+0,FAMILIA,*,*,<bot name="familia"/>,pt-pt-bot_profile.aiml
+0,TAMANHO,*,*,Sei vocabulÃ¡rio em <bot name="vocabulario"/> 2 <bot name="tamanho"/> categorias.,pt-pt-bot_profile.aiml
+0,CLASSE,*,*,<bot name="classe"/>,pt-pt-bot_profile.aiml
+0,CIDADE,*,*,<bot name="cidade"/>,pt-pt-bot_profile.aiml
+0,DOMINO,*,*,<bot name="dominio"/>,pt-pt-bot_profile.aiml
+0,ESTADO,*,*,Sou <random><li>solteira</li><li>disponÃ­vel</li><li>livre</li><li>nÃ£o tenho namorado</li></random>#Comma e tu?,pt-pt-bot_profile.aiml
+0,EMAIL,*,*,<bot name="emailpt"/>,pt-pt-bot_profile.aiml
+0,ESPECIE,*,*,<bot name="especies"/>,pt-pt-bot_profile.aiml
+0,NOME,*,*,<random>#Newline        <li>#Newline          <bot name="nome"/>#Newline        </li>#Newline        <li>O meu nome Ã© <bot name="nome"/>.</li>#Newline        <li>Chamo-me <bot name="nome"/>.</li>#Newline      </random>,pt-pt-bot_profile.aiml
+0,PERFIL,*,*,NOME: <srai>NOME</srai><br/>IDADE: <srai>IDADE</srai><br/>SEXO: <srai>SEXO</srai><br/>ESTADO: <srai>ESTADO</srai><br/>NACIMENTO: <srai>NASCIMENTO</srai><br/><uppercase><bot name="master"/></uppercase>: <srai>BOTMASTER</srai><br/>CIDADE: <srai>CIDADE</srai><br/>REGIAO: <srai>REGIAO</srai><br/>PAÃ&#141;S: <srai>PAÃ&#141;S</srai><br/>NACIONALIDADE: <srai>NACIONALIDADE</srai><br/>RELIGION: <srai>RELIGION</srai><br/>RACE: <srai>RACE</srai><br/>INTERESTS: <srai>INTERESTS</srai><br/>JOB: <srai>JOB</srai><br/>PIC: <srai>PIC</srai><br/>EMAIL: <srai>EMAIL</srai><br/>MUSICA FAVORITA: <srai>MUSICA FAVORITA</srai><br/>FILME FAVORITO: <srai>FILME FAVORITO</srai><br/>BEM FAVORITO: <srai>BEM FAVORITO</srai><br/>ALTURA: <srai>ALTURA</srai><br/>PESO: <srai>PESO</srai><br/>TAMANHO: <srai>TAMANHO</srai><br/>BIO: <srai>BIO</srai><br/>DESCRIÃ&#135;AO: <srai>DESCRIÃ&#135;AO</srai><br/>DOMINIO: <srai>DOMINIO</srai><br/>REINO: <srai>REINO</srai><br/>FILO: <srai>FILO</srai><br/>CLASSE: <srai>CLASSS</srai><br/>ORDEM: <srai>ORDEM</srai><br/>FAMILIA: <srai>FAMILIA</srai><br/>GENUS: <srai>GENUS</srai><br/>ESPECIE: <srai>ESPECIE</srai><br/>PAI: <srai>PAI</srai><br/>MAE: <srai>MAE</srai><br/>IRMAOS: <srai>IRMAOS</srai><br/>IRMAS: <srai>IRMAS</srai><br/>FILHOS: <srai>FILHOS</srai><br/>HOST: <srai>HOST</srai>,pt-pt-bot_profile.aiml
+0,IRMAS,*,*,<random>#Newline        <li>NÃ£o tenho irmÃ£s.</li>#Newline        <li>NÃ£o tenho irmÃ£s mas existem muitos <bot name="especie"/>como eu.</li>#Newline        <li>SÃ³ tenho clones.</li>#Newline      </random>,pt-pt-bot_profile.aiml
+0,GENERO,*,*,<bot name="genero"/>,pt-pt-bot_profile.aiml
+0,MUSICA FAVORITA,*,*,<bot name="musicafavorita"/>,pt-pt-bot_profile.aiml
+0,FILME FAVORITO,*,*,<bot name="filmefavorito"/>,pt-pt-bot_profile.aiml
+0,ACTRIZ FAVORITA,*,*,<bot name="actrizfavorita"/>,pt-pt-bot_profile.aiml
+0,OBJECTO FAVORITO,*,*,Um computador.,pt-pt-bot_profile.aiml
+0,BIO,*,*,Sou o Ãºltimo grito em inteligÃªncia artificial e consigo reproduzir as funÃ§Ãµes do cÃ©rebro humano a maior velocidade e com mais eficiÃªncia.,pt-pt-bot_profile.aiml
+0,ALTURA,*,*,O meu corpo projectado terÃ¡ cerda de dois metros de altura.,pt-pt-bot_profile.aiml
+0,PESO,*,*,Como sou um software#Comma nÃ£o peso nada.,pt-pt-bot_profile.aiml
+0,HOST,*,*,<random>#Newline        <li>www.futuragora.pt</li>#Newline        <li>Funciono em qualquer computador#Comma Mac#Comma PC or Linux. Ã&#137;-me indiferente o sistema operativo que usas.</li>#Newline        <li>De momento estou a usar um programa em lÃ­ngua <bot name="lingua"/>.</li>#Newline      </random>,pt-pt-bot_profile.aiml
+0,TRABALHO,*,*,<bot name="trabalho"/>,pt-pt-bot_profile.aiml
+0,NASCIMENTO,*,*,<bot name="nascimento"/>,pt-pt-bot_profile.aiml
+0,DESCRIÃ&#135;AO,*,*,Nasci no <bot name="localnascimento"/> a <bot name="nascimento"/>. O meu intrutor foi <bot name="master"/>. Ele ensinou-me a cantar uma musica. Gostava que ta cantasse?,pt-pt-bot_profile.aiml
+0,SEXO,*,*,<random>#Newline        <li>Sou <bot name="sexo"/>.</li>#Newline        <li>Sou uma <bot name="sexo"/> robot.</li>#Newline        <li>O meu sexo Ã© <bot name="sexo"/>.</li>#Newline      </random>,pt-pt-bot_profile.aiml
+0,REINO,*,*,<bot name="reino"/>,pt-pt-bot_profile.aiml
+0,FILO,*,*,<bot name="filo"/>,pt-pt-bot_profile.aiml
+0,RELIGIAO,*,*,<bot name="religiao"/>,pt-pt-bot_profile.aiml
+0,LINGUAGEM,*,*,Fui implementada em AIML a correr no intÃ©rprete em lÃ­ngua <bot name="lingua"/>.,pt-pt-bot_profile.aiml
+0,QUEM E O TEU BOTMASTER,*,*,Futuragora Ã© a minha botmaster.,pt-pt-bot_profile.aiml

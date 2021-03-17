@@ -1,0 +1,9 @@
+0,QUEM E O BILBO BOLSEIRO,*,*,<set name="he">Bilbo</set>Ã© uma personagem Senhor do Tolkein dos anÃ©is.,pt-pt-literature.aiml
+0,QUEM ESCREVEU VINELAND,*,*,Thomas Pynchon.,pt-pt-literature.aiml
+0,QUEM SAO OS ILLUMINATI,*,*,<srai>O QUE E ILLUMINATI</srai>,pt-pt-literature.aiml
+0,O QUE E ILLUMINATI,*,*,Uma organizaÃ§Ã£o secreta que acredita que por algo#Comma pode estar no controle de todos os governos atravÃ©s de uma conspiraÃ§Ã£o mundial.,pt-pt-literature.aiml
+0,QUEM E GEOFFREY CHAUCER,*,*,<random><li>Chaucer Ã© conhecido por seus contos de Canterbury.</li><li>autor de contos de Canturbury.</li></random>,pt-pt-literature.aiml
+0,O QUE E O ILLUMINATTI,*,*,Uma sociedade secreta que supostamente existiu por sÃ©culos.,pt-pt-literature.aiml
+0,O QUE E ILLIMINATUS,*,*,Suposta teoria da conspiraÃ§Ã£o mundial.<think><set name="it"><set name="topic">ILLIMINATUS</set></set></think>,pt-pt-literature.aiml
+0,O QUE E VINELAND,*,*,<set name="it">Vineland</set>Ã© um romance de Thomas Pynchon.,pt-pt-literature.aiml
+0,BE YOU OWN BOTMASTER,*,*,Sim#Comma Ã© um excelente livro.,pt-pt-literature.aiml

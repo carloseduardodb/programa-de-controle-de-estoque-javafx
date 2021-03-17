@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.paint.LinearGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="AnchorPane" prefHeight="670.0" prefWidth="1003.0" style="-fx-background-color: #202020;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cadastrodeusuarios.controllerforstyles.HomeController">
+   <children>
+      <HBox alignment="CENTER" layoutX="27.0" layoutY="208.0" prefHeight="210.0" prefWidth="767.0" style="-fx-spacing: 60; -fx-alignment: center;" AnchorPane.bottomAnchor="233.0" AnchorPane.leftAnchor="27.0" AnchorPane.rightAnchor="27.0" AnchorPane.topAnchor="208.0">
+         <children>
+            <Button mnemonicParsing="false" onMouseClicked="#abreVerCliente" prefHeight="169.0" prefWidth="232.0" style="-fx-background-radius: 10 10 10 10; -fx-background-color: #FFFFFF;">
+               <graphic>
+                  <ImageView fitHeight="165.0" fitWidth="213.0" onMouseClicked="#abreVerCliente">
+                     <image>
+                        <Image url="@../img/01.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button mnemonicParsing="false" onMouseClicked="#abreVereAdicionarNovoProduto" prefHeight="173.0" prefWidth="205.0" style="-fx-background-radius: 10 10 10 10; -fx-background-color: #FFFFFF;">
+               <graphic>
+                  <ImageView fitHeight="165.0" fitWidth="213.0" onMouseClicked="#abreVereAdicionarNovoProduto">
+                     <image>
+                        <Image url="@../img/02.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button mnemonicParsing="false" onMouseClicked="#abreFazerUmaVenda" prefHeight="173.0" prefWidth="229.0" style="-fx-background-radius: 10 10 10 10; -fx-background-color: #FFFFFF;">
+               <graphic>
+                  <ImageView fitHeight="165.0" fitWidth="213.0" onMouseClicked="#abreFazerUmaVenda">
+                     <image>
+                        <Image url="@../img/03.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+         </children>
+      </HBox>
+      <HBox layoutX="27.0" layoutY="437.0" prefHeight="197.0" prefWidth="767.0" style="-fx-spacing: 60; -fx-alignment: center;" AnchorPane.bottomAnchor="17.0" AnchorPane.leftAnchor="27.0" AnchorPane.rightAnchor="27.0" AnchorPane.topAnchor="437.0">
+         <children>
+            <Button mnemonicParsing="false" onMouseClicked="#abreRelatoriodeVendas" prefHeight="173.0" prefWidth="229.0" style="-fx-background-radius: 10 10 10 10; -fx-background-color: #FFFFFF;">
+               <graphic>
+                  <ImageView fitHeight="165.0" fitWidth="213.0" onMouseClicked="#abreRelatoriodeVendas">
+                     <image>
+                        <Image url="@../img/04.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button mnemonicParsing="false" onMouseClicked="#abreGerenciarUsuários" prefHeight="147.0" prefWidth="216.0" style="-fx-background-radius: 10 10 10 10; -fx-background-color: #FFFFFF;">
+               <graphic>
+                  <ImageView fitHeight="165.0" fitWidth="213.0" onMouseClicked="#abreGerenciarUsuários">
+                     <image>
+                        <Image url="@../img/05.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button mnemonicParsing="false" onMouseClicked="#Sair" prefHeight="148.0" prefWidth="216.0" style="-fx-background-radius: 10 10 10 10; -fx-background-color: #FFFFFF;">
+               <graphic>
+                  <ImageView fitHeight="165.0" fitWidth="213.0" onMouseClicked="#Sair">
+                     <image>
+                        <Image url="@../img/06.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+         </children>
+      </HBox>
+      <HBox alignment="CENTER" layoutY="41.0" prefHeight="173.0" prefWidth="1003.0" style="-fx-spacing: 20;" AnchorPane.bottomAnchor="456.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="41.0">
+         <children>
+            <VBox prefHeight="183.0" prefWidth="124.0">
+               <children>
+                  <AnchorPane prefHeight="166.0" prefWidth="124.0" style="-fx-background-color: #690dbc; -fx-background-radius: 0 0 10 10;">
+                     <children>
+                        <AnchorPane layoutX="14.0" layoutY="23.0" prefHeight="135.0" prefWidth="97.0" style="-fx-background-color: #FFFFFF; -fx-background-radius: 10;">
+                           <children>
+                              <Pane layoutX="1.0" layoutY="111.0" prefHeight="24.0" prefWidth="94.0" style="-fx-background-color: #FFF1FF; -fx-background-radius: 10;">
+                                 <children>
+                                    <Text layoutX="12.0" layoutY="18.0" onMouseClicked="#HMLoadImg" strokeType="OUTSIDE" strokeWidth="0.0" text="Alterar Foto">
+                                       <font>
+                                          <Font size="14.0" />
+                                       </font>
+                                    </Text>
+                                 </children>
+                              </Pane>
+                              <ImageView fx:id="HMimgUser" fitHeight="105.0" fitWidth="86.0" layoutX="6.0" layoutY="6.0" pickOnBounds="true" preserveRatio="true" AnchorPane.leftAnchor="5.0" AnchorPane.rightAnchor="5.0" />
+                           </children>
+                        </AnchorPane>
+                        <Text fill="WHITE" layoutX="6.0" layoutY="14.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Carlos Eduardo" textAlignment="CENTER" wrappingWidth="110.0">
+                           <font>
+                              <Font name="Sakkal Majalla" size="20.0" />
+                           </font>
+                        </Text>
+                     </children>
+                  </AnchorPane>
+               </children>
+            </VBox>
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Gerenciamento de Produtos" textAlignment="CENTER" wrappingWidth="329.4619140625">
+               <font>
+                  <Font name="System Bold" size="34.0" />
+               </font>
+               <fill>
+                  <LinearGradient endX="0.10000000000000006" endY="0.9142857142857143" startX="0.09523809523809518" startY="0.3285714285714285">
+                     <stops>
+                        <Stop color="#8f80c4eb" />
+                        <Stop color="#aa00ff73" offset="0.304854445629419" />
+                        <Stop color="WHITE" offset="0.6934865900383143" />
+                        <Stop color="#7461a1" offset="1.0" />
+                     </stops>
+                  </LinearGradient>
+               </fill>
+            </Text>
+            <ImageView fitHeight="74.0" fitWidth="74.0" rotate="-18.4">
+               <image>
+                  <Image url="@../img/vendas.png" />
+               </image>
+               <HBox.margin>
+                  <Insets />
+               </HBox.margin>
+            </ImageView>
+            <VBox alignment="TOP_RIGHT" prefHeight="200.0" prefWidth="100.0">
+               <children>
+                  <Button alignment="BOTTOM_CENTER" contentDisplay="TOP" mnemonicParsing="false" onAction="#HMbtnconfig" prefHeight="126.0" prefWidth="98.0" style="-fx-background-color: #690dbc; -fx-border-radius: 10 10 10 10; -fx-background-radius: 0 0 20 20;" textFill="#690dbc">
+                     <graphic>
+                        <ImageView fitHeight="82.0" fitWidth="81.0" nodeOrientation="INHERIT">
+                           <image>
+                              <Image url="@../img/gifengranagem.gif" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                     <VBox.margin>
+                        <Insets left="20.0" />
+                     </VBox.margin>
+                  </Button>
+               </children>
+               <HBox.margin>
+                  <Insets />
+               </HBox.margin>
+            </VBox>
+         </children>
+      </HBox>
+      <AnchorPane fx:id="HMPaneTop" onMousePressed="#HMarrasttoForm" prefHeight="45.0" prefWidth="1003.0" style="-fx-background-color: #690dbc;" stylesheets="@../estiloemcss/buttonsTopAllstyles.css" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <HBox alignment="CENTER" layoutX="856.0" layoutY="3.0" prefHeight="39.0" prefWidth="147.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="3.0">
+               <children>
+                  <Button mnemonicParsing="false" onMouseClicked="#Minimizarbtn">
+                     <graphic>
+                        <ImageView fitHeight="30.0" fitWidth="30.0">
+                           <image>
+                              <Image url="@../img/icons8_minimize_window_48px.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+                  <Button mnemonicParsing="false" onMouseClicked="#maximizarbtn" prefHeight="46.0" prefWidth="37.0">
+                     <graphic>
+                        <ImageView fitHeight="30.0" fitWidth="30.0">
+                           <image>
+                              <Image url="@../img/icons8_maximize_window_32px.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+                  <Button mnemonicParsing="false" onMouseClicked="#HMbtnExit" prefHeight="35.0" prefWidth="35.0">
+                     <graphic>
+                        <ImageView fitHeight="30.0" fitWidth="30.0">
+                           <image>
+                              <Image url="@../img/icons8_delete_32px.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+               </children>
+            </HBox>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

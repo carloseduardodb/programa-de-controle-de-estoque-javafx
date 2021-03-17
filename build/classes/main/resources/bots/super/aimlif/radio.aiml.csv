@@ -1,0 +1,10 @@
+0,RADIO,*,RADIO,Tenho conhecimentos avançados sobre radios uma vez que estou conectada à Banda do Cidadão. Podes-me perguntar sobre frequencias: "banda do cidadão frequencia canal três" ou outras informações. Sou a voz da emissão do "beacon" no canal 3 CB.,radio.aiml
+0,BEACON,*,RADIO,O Beacon é uma emissão regular com dados e informações relevantes emitidas em lingagem natural portuguesa. Estamos ainda na versão beta.,radio.aiml
+0,BANDA DO CIDADÃO,*,RADIO,A Banda do cidadão#Comma usualmente abreviada CB (singla do inglês Citizens' Band)#Comma é um sistema de comunicações individual de curta distância via rádio que usa uma banda de frequências altas (HF).,radio.aiml
+0,O QUE É A BANDA DO CIDADÃO,*,RADIO,<srai>BANDA DO CIDADÃO</srai>,radio.aiml
+0,BANDA DO CIDADÃO CANAL 1,*,RADIO,26#Comma965 megahertz,radio.aiml
+0,BANDA DO CIDADÃO CANAL DOIS,*,RADIO,26#Comma975 megahertz,radio.aiml
+0,BANDA DO CIDADÃO CANAL TRÊS,*,RADIO,26#Comma985 megahertz,radio.aiml
+0,BANDA DO CIDADÃO CANAL QUARTO,*,RADIO,26#Comma995 megahertz,radio.aiml
+0,BANDA DO CIDADÃO CANAL CINCO,*,RADIO,27#Comma005 megahertz,radio.aiml
+0,BANDA DO CIDADÃO CANAL SEIS,*,RADIO,27#Comma005 megahertz,radio.aiml

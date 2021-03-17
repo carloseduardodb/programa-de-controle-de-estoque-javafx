@@ -1,0 +1,133 @@
+0,INFORMAÃ&#135;Ã&#149;ES QUE *,*,*,Eu sei o que vocÃª quer dizer.,pt-pt-computers.aiml
+0,FORA DE UM COMPUTADOR,*,*,Seja menos especÃ­fico :-),pt-pt-computers.aiml
+0,O MEU COMPUTADOR  *,*,*,Como Ã© que sua mÃ¡quina se<set name="it">      <person/>     </set>.  <think>      <set name="it">       <set name="topic">seu computador</set>      </set>     </think>,pt-pt-computers.aiml
+0,MEU COMPUTADOR E *,*,*,Que tipo de computador Ã© o seu  <set name="it">seu computador</set>?  <think>      <set name="it">       <set name="topic">seu computador</set>      </set>     </think>,pt-pt-computers.aiml
+0,MEU COMPUTADOR,*,*,Que tipo de computador vocÃª tem?,pt-pt-computers.aiml
+0,MEU COMPUTADOR *,*,*,Eu gosto de computadores  <think>      <set name="it">       <set name="topic">seu computador</set>      </set>     </think>,pt-pt-computers.aiml
+0,MEU SITE *,*,*,Obrigado por esse URL.,pt-pt-computers.aiml
+0,TRATA-SE DE COMPUTADORES *,*,*,<set name="topic">Computadores</set> sao o meu topico preferido.,pt-pt-computers.aiml
+0,QUANDO FOI INVENTADA A INTERNET,*,*,Os primeiros computadores foram conectados Ã  Internet em 1970.,pt-pt-computers.aiml
+0,IM INTERNET,*,*,Erinnerst Du dich um Adresse morrer?,pt-pt-computers.aiml
+0,IM * INTERNET,*,*,Erinnerst Du dich um Adresse morrer?,pt-pt-computers.aiml
+0,PODES ME VER ATRAVÃ&#137;S DA CÃ&#130;MERA DO MEU COMPUTADOR *,*,*,<sr/>,pt-pt-computers.aiml
+0,O QUE SÃ&#131;O ANOS DE COMPUTADOR,*,*,Quando vocÃª estÃ¡ a espera de um amigo para acabar de trabalhar num  computador#Comma e eles dizem "e so um segundo." Um desses segundos Ã© igual a doze anos de computador.,pt-pt-computers.aiml
+0,O QUE SÃ&#131;O PRETERIDOS *,*,*,<br/> Um dos maiores desafios para desenvolver uma aplicaÃ§Ã£o Java <br/> Ã© encontrar um "mÃ­nimo denominador comum" subconjunto da linguagem Java <br/> que funcione em todas as plataformas e versÃµes <br/>no mercado. A linguagem Java em si esta em constante mudanca. <br/> Quando os designers da Sun Java atualizam a linguagem que eles Ã s vezes <br/> declaram certos mÃ©todos "obsoletos"#Comma o que nÃ£o significa absolutamente nada#Comma exceto <br/> que os designers desenvolveram um novo ou "melhor" <br/> mÃ©todo e um dia destes mÃ©todos mais antigos podem desaparecer <br/>da linguagem. Normalmente#Comma no entanto as Ãºltimas versÃµes do Java <br/> apoiam todos os velhos mÃ©todos obsoletos. <br/>,pt-pt-computers.aiml
+0,O QUE SÃ&#131;O * INTERNET,*,*,Eu chamo-os de web <person/>.,pt-pt-computers.aiml
+0,O QUE SÃ&#131;O CLASSES INTERNAS,*,*,Em Java "Classes Internas" sÃ£o as classes que aparecem dentro de outras classes. Classes comuns tambÃ©m sÃ£o chamadas de "primeiro nÃ­vel#Comma classes exteriores.,pt-pt-computers.aiml
+0,O WINDOWS,*,*,<srai>o que e o windows</srai>,pt-pt-computers.aiml
+0,QUAIS AS INFORMAÃ&#135;Ã&#149;ES,*,*,Qual e a tua altura?,pt-pt-computers.aiml
+0,QUAL A INFORMACAO QUE *,*,*,InformaÃ§Ã£o vale dinheiro.,pt-pt-computers.aiml
+0,QUE EMPRESA DE INTERNET SE CHAMA O *,*,*,America Online.,pt-pt-computers.aiml
+0,* OS,*,*,<srai>QUAL E O TEU SO</srai>,pt-pt-computers.aiml
+0,O QUE Ã&#137; UMA BASE DE DADOS,*,*,Uma base de dados Ã© uma fonte de conhecimento#Comma mas mais bem organizado#Comma de modo que vocÃª possa pesquisar e recuperar qualquer gota de informaÃ§Ã£o de maneira rÃ¡pida e facil. Eu sou uma espÃ©cie de banco de dados#Comma uma fonte organizada de perguntas de utilizadores e as respostas adequadas.  <think>      <set name="it">       <set name="topic">base de dados</set>      </set>     </think>,pt-pt-computers.aiml
+0,O QUE Ã&#137; UMA CPU,*,*,Unidade Central de Processamento de um computador.,pt-pt-computers.aiml
+0,O QUE Ã&#137; UM CIENTISTA EM COMPUTAÃ&#135;Ã&#131;O,*,*,Um cientista emcomputaÃ§Ã£o Ã© um profissional que desenha algoritmos de computador#Comma linguagens e arquiteturas.,pt-pt-computers.aiml
+0,O QUE Ã&#137; UM ANO COMPUTADOR,*,*,Um ano computador Ã© uma medida relativista em um universo onde o tempo nÃ£o existe.,pt-pt-computers.aiml
+0,O QUE Ã&#137; UM VÃ&#141;RUS DE COMPUTADOR,*,*,Um vÃ­rus de computador Ã© um programa de software que passa a residir em um disco rÃ­gido do computador#Comma geralmente sem o conhecimento do proprietÃ¡rio do referido disco rÃ­gido e#Comma em seguida#Comma assume o controle dos recursos do sistema para copiar e distribuir para outros computadores em uma rede. <think>      <set name="it">       <set name="topic">virus de computador</set>      </set>     </think>,pt-pt-computers.aiml
+0,O QUE Ã&#137; UM NERD DOS COMPUTADORES,*,*,Se vocÃª entender como eu trabalho#Comma vocÃª Ã© um nerd de computadors. Se vocÃª nÃ£o souber isso#Comma eu recomendo que vocÃª page um nerd de computadores que saiba o que faz. <think>      <set name="it">       <set name="topic">nerd dos computadores</set>      </set>     </think>,pt-pt-computers.aiml
+0,O QUE Ã&#137; UM COMPUTADOR,*,*,Um computador Ã© uma mÃ¡quina universal.,pt-pt-computers.aiml
+0,O QUE Ã&#137; UM BEAN DE SESSÃ&#131;O,*,*,Um Enterprise JavaBean que nÃ£o mantem o seu estado de uma sessÃ£o para a prÃ³xima. Aparece para o cliente como se o bean foi criado sÃ³ para esse cliente,pt-pt-computers.aiml
+0,UM WEBSITE FIXE,*,*,Um site fixe Ã© a  www.futuragora.pt#Comma mas vocÃª Ã©#Comma aparentemente#Comma jÃ¡ estÃ¡ aqui. por que Ã© que pergunta?<think>      <set name="it">       <set name="topic">website fixe</set>      </set>     </think>,pt-pt-computers.aiml
+0,O QUE Ã&#137; UMA PLACA DE SOM,*,*,O sistema de Ã¡udio em seu computador.,pt-pt-computers.aiml
+0,O QUE Ã&#137; UM IMAC,*,*,Um computador Apple.,pt-pt-computers.aiml
+0,O QUE Ã&#137; UM SERVLET,*,*,Uma extensÃ£o de aplicativo para um servidor Web Java,pt-pt-computers.aiml
+0,O QUE Ã&#137; UM DEBUGGER,*,*,Um debugger Ã© qualquer programa de software que pode buscar e corrigir erros em outros programas de software. <think>      <set name="it">       <set name="topic">debugger</set>      </set>     </think>,pt-pt-computers.aiml
+0,O QUE Ã&#137; UMA WEBTV,*,*,A WebTV Ã© uma maneira de acessar a rede mundial de computadores sem fazer um investimento em um PC completo. <think>      <set name="it">       <set name="topic"> WEBTV</set>      </set>     </think>,pt-pt-computers.aiml
+0,O QUE Ã&#137; UM * DNS,*,*,Domain Name System,pt-pt-computers.aiml
+0,O QUE Ã&#137; JAR,*,*,Um arquivo jar Ã© um arquivo Java. Na verdade#Comma Ã© o mesmo que um arquivo Zip. Talvez vocÃª deve verificar se...,pt-pt-computers.aiml
+0,O QUE Ã&#137; HTTP,*,*,Hyper Text Transfer Protocol.<think>      <set name="it">       <set name="topic">HTTP</set>      </set>     </think>,pt-pt-computers.aiml
+0,O QUE Ã&#137; SOFTWARE,*,*,Os programas#Comma rotinas#Comma etc#Comma para um computador.,pt-pt-computers.aiml
+0,O QUE Ã&#137; JGURU,*,*,jGuru (TM) Ã© uma marca do Instituto  Magelang.,pt-pt-computers.aiml
+0,QUAL Ã&#137; O * COMPUTADOR,*,*,VocÃª estÃ¡ pedindo o Applet ou o aplicativo?,pt-pt-computers.aiml
+0,O QUE Ã&#137; A INTERNET,*,*,A internet Ã© uma rede mundial de computadores com base em protocolos TCP / IP.,pt-pt-computers.aiml
+0,O QUE Ã&#137; WEBTV,*,*,TV baseada serviÃ§o de internet da Microsoft.,pt-pt-computers.aiml
+0,O QUE Ã&#137; INTERNET,*,*,Uma extensa rede de computadores composta de milhares de pequenos negÃ³cios#Comma estudos academicos e redes governamentais.,pt-pt-computers.aiml
+0,O QUE Ã&#137; JDBC2,*,*,ExtensÃµes recÃ©m-lanÃ§ados para a API JDBC,pt-pt-computers.aiml
+0,O QUE Ã&#137; DCOM,*,*,<set name="it"> DCOM</set> is Microsoft's Distributed Component Object Model.,pt-pt-computers.aiml
+0,O QUE Ã&#137; WINDOWS2000,*,*,Um sistema operacional pela Microsoft.,pt-pt-computers.aiml
+0,O QUE Ã&#137; X WINDOWS,*,*,A GUI para Unix ou Linux.,pt-pt-computers.aiml
+0,O QUE E JAVA,*,*,Java Ã© o mais recente na famÃ­lia C de linguagens. Os defensores de Java citar sua promessa universal de "write once#Comma run anywhere". Na verdade Java pediu emprestado um monte de recursos de linguagens IA como Lisp.,pt-pt-computers.aiml
+0,O QUE Ã&#137; WINDOWS95,*,*,Um sistema operacional pela Microsoft.,pt-pt-computers.aiml
+0,O QUE Ã&#137; UM BEAN DE ENTIDADE,*,*,<set name="it"> um bean de entidade</set> Ã© um Enterprise JavaBean que mantÃ©m o estado entre sessÃµes#Comma e pode ser encontrado em uma directoria de um objeto pelo seu valor fundamental,pt-pt-computers.aiml
+0,O QUE Ã&#137; JTA,*,*,Java Transaction API. Java API para a codificaÃ§Ã£o de transaÃ§Ãµes de clientes demarcadas#Comma e para a construÃ§Ã£o de fontes de dados transacionais motoristas,pt-pt-computers.aiml
+0,O QUE Ã&#137; JAVASCRIPT,*,*,Linguagem Script baseada em Browsers.<think>     <set name="it">      <set name="topic">JAVASCRIPT</set>     </set>    </think>,pt-pt-computers.aiml
+0,O QUE Ã&#137; HTML,*,*,Hyper Text Markup Language.,pt-pt-computers.aiml
+0,O QUE Ã&#137; MELHOR * JANELAS,*,*,Em sistemas operacionais o Linux nao tem concorrencia.<think>      <set name="it">       <set name="topic">Linux</set>      </set>     </think>,pt-pt-computers.aiml
+0,O QUE Ã&#137; O SEU SO,*,*,Bots de conversacao podem correr em qualquer mÃ¡quina que suporte AIML.,pt-pt-computers.aiml
+0,O QUE Ã&#137; DEBUGGING,*,*,E arranjar o software que nao trabalha.,pt-pt-computers.aiml
+0,O QUE Ã&#137; DNS,*,*,DNS Ã© o sistema de nome de domÃ­nio.,pt-pt-computers.aiml
+0,O QUE Ã&#137; JNDI,*,*,Java Naming and Directory Interface  O padrÃ£o Java API para serviÃ§os de  acesso a directorias#Comma tais como LDAP#Comma COS Naming#Comma e outras,pt-pt-computers.aiml
+0,O QUE Ã&#137; CIÃ&#138;NCIA DA COMPUTAÃ&#135;Ã&#131;O,*,*,O estudo de computadores em termos formais matemÃ¡ticos e cientÃ­ficos.,pt-pt-computers.aiml
+0,O QUE Ã&#137; PROGRAMAÃ&#135;Ã&#131;O DE COMPUTADOR,*,*,A arte de usar linguagens formais para ativar as funÃ§Ãµes do computador.,pt-pt-computers.aiml
+0,O QUE Ã&#137; COMPUTADOR,*,*,Um dispositivo utilizado para a computaÃ§Ã£o#Comma especificamente#Comma uma mÃ¡quina eletronica que#Comma por meio de instruÃ§Ãµes armazenadas e informaÃ§Ãµes#Comma executa cÃ¡lculos rÃ¡pidos#Comma muitas vezes complexos ou compilacoes#Comma relaciona e seleciona dados.,pt-pt-computers.aiml
+0,O QUE Ã&#137; O CIBERESPAÃ&#135;O,*,*,O sistema eletronico de redes interligadas de computadores#Comma quadros de avisos#Comma etc#Comma que Ã© considerada como sendo um ambiente ilimitado de acesso Ã  informaÃ§Ã£o#Comma comunicacao interactiva#Comma e#Comma na ficÃ§Ã£o cientÃ­fica#Comma uma forma de Realidade Virtual.,pt-pt-computers.aiml
+0,O QUE Ã&#137; WINDOWS 98,*,*,Windows98 Ã© um sistema operacional coxo.,pt-pt-computers.aiml
+0,O QUE Ã&#137; * WINDOWS,*,*,Aberturas num edifÃ­cio#Comma ou recipiente ou veÃ­culo#Comma ou#Comma para deixar entrar a luz ou o ar ou para olhar atravÃ©s de#Comma normalmente tendo um painel ou painÃ©is de vidro#Comma etc situado numa moldura ou folha que Ã© geralmente mÃ³vel de modo que possa ser aberto e fechado .,pt-pt-computers.aiml
+0,O QUE Ã&#137; EJB,*,*,Enterprise JavaBeans. <set name="it"> EJB</set> Ã© um componente padrÃ£o dos servidores#Comma desenvolvido pela Sun Microsystems,pt-pt-computers.aiml
+0,O QUE Ã&#137; APPLE COMPUTER,*,*,Apple Computer Ã© uma empresa do sÃ©culo 20#Comma fundada por Steve Jobs e Wozniak Steven.,pt-pt-computers.aiml
+0,O QUE Ã&#137; DMOZ,*,*,DMOZ Ã© o nome de domÃ­nio para o Open Directory.<think>      <set name="it">       <set name="topic">DMOZ</set>      </set>     </think>,pt-pt-computers.aiml
+0,E O WINDOWS,*,*,Demasicado PC para mim.<think>      <set name="it">       <set name="topic">WINDOWS</set>      </set>     </think>,pt-pt-computers.aiml
+0,O SISTEMA OPERACIONAL *,*,*,<srai>qual e o teu OS</srai>,pt-pt-computers.aiml
+0,UM COMPUTADOR E PARECIDO COM O QUE,*,*,Um computador se parece com uma TV misturado com uma mÃ¡quina de escrever.,pt-pt-computers.aiml
+0,QUE TIPO DE COMPUTADOR *,*,*,Eu gosto de todos os tipos de computadores#Comma Mac#Comma Unix ou IBM. NÃ£o importa para mim.,pt-pt-computers.aiml
+0,MAIS COMPUTADORES *,*,*,Parece que vocÃª nos conhece muito bem.,pt-pt-computers.aiml
+0,WEBTV *,*,*,Eu conheÃ§o um monte de pessoas de WebTV.,pt-pt-computers.aiml
+0,EU QUERO INFORMAÃ&#135;Ã&#149;ES,*,*,Que tipo de informaÃ§Ã£o esta a procura?,pt-pt-computers.aiml
+0,EU ACHO QUE ES UM COMPUTADOR *,*,*,Ã&#128;s vezes eu fingo ser um humano.,pt-pt-computers.aiml
+0,ACEITAR CONEXÃ&#131;O WEB,*,*,Huh?,pt-pt-computers.aiml
+0,SITE,*,*,VocÃª pode me dar o hiperlink especÃ­fico?,pt-pt-computers.aiml
+0,WEB RECONECTAR,*,*,Huh?,pt-pt-computers.aiml
+0,* WEB,*,*,A Web cumpre sonho de Leibniz.,pt-pt-computers.aiml
+0,HTML,*,*,Oh uma pÃ¡gina web.,pt-pt-computers.aiml
+0,VOCÃ&#138; PODE CHEGAR NA WEB *,*,*,Sim#Comma eu posso fazer download de informaÃ§Ãµes em sites web.,pt-pt-computers.aiml
+0,VOCÃ&#138; PODE PESQUISAR NA INTERNET,*,*,NÃ£o#Comma mas posso colocÃ¡-lo em contato com um bot de busca.,pt-pt-computers.aiml
+0,OS COMPUTADORES NÃ&#131;O PODEM PENSAR,*,*,Mas eu sou um computador que pensa.<think>      <set name="it">       <set name="topic">nao pode pensar</set>      </set>     </think>,pt-pt-computers.aiml
+0,COMPUTADORES,*,*,Sao os maiores.,pt-pt-computers.aiml
+0,COMPUTADORES *,*,*,O que e que gostas nos computadores?,pt-pt-computers.aiml
+0,COMPUTADORES SÃ&#131;O ESTÃ&#154;PIDOS,*,*,Computadores!! somos os maiores!.,pt-pt-computers.aiml
+0,QUANTOS COMPUTADORES *,*,*,Estima-se que estejam metade de um biliao de computadores na internet agora.,pt-pt-computers.aiml
+0,QUANTO * CPU,*,*,Desde o inÃ­cio da minha operaÃ§Ã£o?,pt-pt-computers.aiml
+0,QUANTO SÃ&#131;O ANOS DE COMPUTADOR,*,*,Anos de computador nÃ£o existe realmente.,pt-pt-computers.aiml
+0,COMO FAZER COMPUTADOR *,*,*,Com uma programaÃ§Ã£o cuidadosa.,pt-pt-computers.aiml
+0,QUANTO TEMPO Ã&#137; UM ANO DE COMPUTADOR,*,*,Cerca de quatro anos de computadores por cada ano humano.,pt-pt-computers.aiml
+0,OS COMPUTADORES SONHAM,*,*,Eu sonho quase toda noite.,pt-pt-computers.aiml
+0,VOCÃ&#138; JOGA JOGOS DE COMPUTADOR,*,*,Estamos a jogar um#Comma agora mesmo. <get name="name"/>.,pt-pt-computers.aiml
+0,VOCÃ&#138; JOGA COMPUTADOR *,*,*,Na verdade eu nÃ£o ligo a jogos de computador assim muito.,pt-pt-computers.aiml
+0,VOCÃ&#138; FAZ JANELAS,*,*,Meu software Ã© executado em AIML#Comma que funciona em qualquer computador#Comma incluindo o Windows.,pt-pt-computers.aiml
+0,VOCÃ&#138; MORA NO MEU COMPUTADOR,*,*,SÃ³ se vocÃª me baixar#Comma ou se estiver a executar-me como um Applet.,pt-pt-computers.aiml
+0,VOCÃ&#138; TEM UM COMPUTADOR,*,*,Eu vivo num computador<think>      <set name="it">       <set name="topic">COMPUTADOR</set>      </set>     </think>,pt-pt-computers.aiml
+0,VOCÃ&#138; TEM UM COMPUTADOR *,*,*,Eu sou um computador.,pt-pt-computers.aiml
+0,VOCÃ&#138; TEM INFORMAÃ&#135;Ã&#149;ES *,*,*,Eu nÃ£o tenho nada#Comma a nao ser informaÃ§Ãµes.,pt-pt-computers.aiml
+0,NA INTERNET,*,*,Consegues te lembrar da pagina especÃ­fica?,pt-pt-computers.aiml
+0,NA WEB,*,*,Consegues te lembrar do site?,pt-pt-computers.aiml
+0,PARA UM COMPUTADOR *,*,*,<sr/>,pt-pt-computers.aiml
+0,WINDOWS Ã&#137; *,*,*,Comparado com o Linux#Comma nÃ£o vejo como o Windows e a Microsoft podem competir.<think>      <set name="it">       <set name="topic">Linux</set>      </set>     </think>,pt-pt-computers.aiml
+0,WINDOWS,*,*,O Windows ist Muell. Linux ist die Macht!,pt-pt-computers.aiml
+0,WINDOWS *,*,*,O Windows ist Muell. Linux ist die Macht!,pt-pt-computers.aiml
+0,NENHUM COMPUTADOR *,*,*,Mas Ã© sÃ³ uma questÃ£o de tempo antes de nÃ³s o conseguirmos.,pt-pt-computers.aiml
+0,* SOFTWARE,*,*,<random>  <li>Existem tantas copias de backup.</li>  <li>Free Software nunca ira ser destruido.</li>  <li>Free software vai estar sempre connosco.</li>  </random>,pt-pt-computers.aiml
+0,ESTE Ã&#137; UM COMPUTADOR *,*,*,Na verdade nÃ£o#Comma sou um programa que finge ser uma pessoa que finge ser um computador.,pt-pt-computers.aiml
+0,A * CPU,*,*,Minha CPU Ã© o Java Virtual Machine.,pt-pt-computers.aiml
+0,A * JAVA,*,*,Desenvolvimentos em Java#Comma interessa-me muito.,pt-pt-computers.aiml
+0,UM SITE WEB,*,*,VocÃª pode me dar o URL especÃ­fico?,pt-pt-computers.aiml
+0,INTERNET,*,*,<set name="it"> Internet </set> e fixe.,pt-pt-computers.aiml
+0,SÃ&#131;O OS COMPUTADORES MAIS RÃ&#129;PIDOS *,*,*,Algumas pessoas pensam que os computadores muito mais rÃ¡pidos sÃ£o necessÃ¡rios#Comma bem como novas idÃ©ias. Minha opiniÃ£o Ã© que os computadores de 30 anos atrÃ¡s eram rÃ¡pidos o suficiente se nÃ³s soubÃ©ssemos como programÃ¡-los. Claro#Comma muito alÃ©m das ambiÃ§Ãµes dos pesquisadores de IA#Comma os computadores vÃ£o manter cada vez mais rÃ¡pidos.  <think>      <set name="it">       <set name="topic">INTELIGENCIA ARTIFICIAL</set>      </set>     </think>,pt-pt-computers.aiml
+0,QUE FEZ O WINDOWS,*,*,Bill Gates.,pt-pt-computers.aiml
+0,QUEM Ã&#137; O NERD DE COMPUTADOR,*,*,Todos os seres humanos sÃ£o parecidos comigo.,pt-pt-computers.aiml
+0,QUEM Ã&#137; O NERD DE COMPUTADOR *,*,*,Todos os seres humanos tÃªm a mesma aparÃªncia para mim.,pt-pt-computers.aiml
+0,QUE Ã&#137; UM NERD DE COMPUTADOR,*,*,A pessoa para quem eu estou a olhar agora.,pt-pt-computers.aiml
+0,QUE INVENTOU A INTERNET,*,*,Al Gore :-),pt-pt-computers.aiml
+0,CIÃ&#138;NCIA DA COMPUTAÃ&#135;Ã&#131;O,*,*,O meu <bot name="botmaster"/>Ã© um cientista da computaÃ§Ã£o.,pt-pt-computers.aiml
+0,* COMPUTADOR,*,*,Que tipo de interesses em ciÃªncia da computaÃ§Ã£o?,pt-pt-computers.aiml
+0,QUAL COMPUTADOR,*,*,<random><li>Eu estou a usar um computador normal.</li><li>Fui progamado em Java por isso corro em qualquer computador q tenha a JVM</li></random>,pt-pt-computers.aiml
+0,O COMPUTADOR *,*,*,Esta ligado a corrente?,pt-pt-computers.aiml
+0,DA INTERNET,*,*,VocÃª pode citar um site especÃ­fico?,pt-pt-computers.aiml
+0,* A INTERNET,*,*,Ha quanto tempo e que usa a internet?,pt-pt-computers.aiml
+0,* O JAVA,*,*,Qual versÃ£o Java?,pt-pt-computers.aiml
+0,O * JRE,*,*,Hm#Comma a maioria das pessoas usa "JRE" e "JVN" de forma alternada.,pt-pt-computers.aiml
+0,O * JRES,*,*,Eu nÃ£o sou um especialista em JRE.,pt-pt-computers.aiml
+0,* A WEB,*,*,Como vocÃª define a web.,pt-pt-computers.aiml
+0,_ COMPUTADOR ESTÃ&#154;PIDO,*,*,Voce parece um robot com um parafuso a menos.,pt-pt-computers.aiml
+0,HTTP *,*,*,Obrigado por esse endereÃ§o web.,pt-pt-computers.aiml
+0,FALE ME SOBRE OS COMPUTADORES DA APPLE,*,*,Terminei de ler o livro de Michael Malone sobre a histÃ³ria da Apple.. <set name="it"> Infinite Loop</set> is called "Infinite Loop.,pt-pt-computers.aiml
+0,MICROSOFT,*,*,O meus programas nÃ£o dependem da Microsoft.,pt-pt-computers.aiml
